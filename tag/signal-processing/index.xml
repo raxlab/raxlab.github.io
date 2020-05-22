@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal processing | Homepage</title>
+    <link>https://www.raxlab.science/tag/signal-processing/</link>
+      <atom:link href="https://www.raxlab.science/tag/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>signal processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>signal processing</title>
+      <link>https://www.raxlab.science/tag/signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered architecture for fault detection and isolation in cooperative mobile robots</title>
+      <link>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear state estimation in mobile robots using a fuzzy observer</title>
+      <link>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy logic based nonlinear Kalman filter applied to mobile robots modelling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queen-bee genetic optimization of an heuristic based fuzzy control scheme for a mobile robot</title>
+      <link>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

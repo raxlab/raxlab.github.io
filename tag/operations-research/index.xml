@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>operations research | Homepage</title>
+    <link>https://www.raxlab.science/tag/operations-research/</link>
+      <atom:link href="https://www.raxlab.science/tag/operations-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>operations research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>operations research</title>
+      <link>https://www.raxlab.science/tag/operations-research/</link>
+    </image>
+    
+    <item>
+      <title>Optimal decisions for salvage logging after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvage logging: harvest scheduling and personnel assignment after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the XII Chilean conference on operations research</title>
+      <link>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

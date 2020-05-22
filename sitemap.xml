@@ -3,50 +3,566 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lab.raxlab.science/privacy/</loc>
+    <loc>https://www.raxlab.science/publication-type/2/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/david-rojas/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gianpiero-canessa/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/hospital-management/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/javiera-barrera/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operating-room-scheduling/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/barrera-2020-ors-aor/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/scheduling/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/susana-mondschein/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/control-systems/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/eduardo-moreno/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fleet-control/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/real-time-control/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/vehicle-routing/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/felipe-contreras/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/forestry/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gianluca-baselli/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/magdalena-marin/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/matias-lillo/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/resource-allocation/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/resource-management/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication-type/1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication-type/8/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/amit-chakraborty/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/demand-management/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/energy-management/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/game-theory/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/ioannis-akrotirianakis/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a-carrasco/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/storage-management/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/approximation-algorithms/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/cliff-stein/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/energy-aware-scheduling/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/garud-iyengar/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/resource-augmentation/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2018-rcas-ejor/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fault-detection/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fault-diagnosis/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/predictive-maintenance/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/</loc>
+    <loc>https://www.raxlab.science/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/terms/</loc>
+    <loc>https://www.raxlab.science/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/authors/</loc>
+    <loc>https://www.raxlab.science/publication-type/0/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/categories/</loc>
+    <loc>https://www.raxlab.science/tag/benchmark/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/author/nelson-bighetti/</loc>
+    <loc>https://www.raxlab.science/tag/benchmark-instances/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/post/</loc>
+    <loc>https://www.raxlab.science/tag/data-description/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/publication_types/</loc>
+    <loc>https://www.raxlab.science/tag/server-scheduling/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/publication/</loc>
+    <loc>https://www.raxlab.science/publication/carrasco-2018-bench-md/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/talk/</loc>
+    <loc>https://www.raxlab.science/publication-type/6/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lab.raxlab.science/tags/</loc>
+    <loc>https://www.raxlab.science/tag/algorithm-design/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2014-uspatent-2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-verschae/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/kirk-pruhs/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/online-algorithms/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/set-aggregation/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication-type/5/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/chance-constraints/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/conference-proceedings/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2014-uspatent-1/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/macarena-azar/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/azar-2017-ors-mapsp/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/stochastic-scheduling/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2013-sms-orl/</loc>
+    <lastmod>2013-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication-type/7/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2013-ph-d-thesis/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2013-reds-gls/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2013-sms-mapsp/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/aldo-cipriano/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/felipe-nunez/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fuzzy-logic/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/mobile-robots/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/robotics/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/signal-processing/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/alpha-points/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2011-eas-mapsp/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fuzzy-modelling/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/kalman-filters/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/nonlinear-control/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/ricardo-carelli/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/state-estimation/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/genetic-algorithms/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/robot-control/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/helena-garcia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/javiera-foucaut/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
   </url>
   
 </urlset>

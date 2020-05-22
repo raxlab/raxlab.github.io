@@ -1,33 +1,249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Group</title>
-    <link>https://lab.raxlab.science/</link>
-      <atom:link href="https://lab.raxlab.science/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <title>Homepage</title>
+    <link>https://www.raxlab.science/</link>
+      <atom:link href="https://www.raxlab.science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://lab.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Research Group</title>
-      <link>https://lab.raxlab.science/</link>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Homepage</title>
+      <link>https://www.raxlab.science/</link>
     </image>
     
     <item>
+      <title>Operating room scheduling under waiting time constraints: the Chilean GES plan</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-ors-aor/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-ors-aor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time fleet management decision support system with security constraints</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal decisions for salvage logging after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equipo, sistema y método para administrar óptimamente la energía en una red de uso domiciliario e industrial</title>
+      <link>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvage logging: harvest scheduling and personnel assignment after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource cost aware scheduling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-rcas-ejor/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-rcas-ejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALMA engineering fault detection framework</title>
+      <link>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
-      <link>https://lab.raxlab.science/privacy/</link>
+      <link>https://www.raxlab.science/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://lab.raxlab.science/privacy/</guid>
+      <guid>https://www.raxlab.science/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://lab.raxlab.science/terms/</link>
+      <link>https://www.raxlab.science/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://lab.raxlab.science/terms/</guid>
+      <guid>https://www.raxlab.science/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Server scheduling benchmark instances</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-bench-md/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-bench-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid using day ahead market and real time market prices</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-uspatent-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-uspatent-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The online set aggregation problem</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-uspatent-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-uspatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating room scheduling with variable procedure times</title>
+      <link>https://www.raxlab.science/publication/azar-2017-ors-mapsp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/azar-2017-ors-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the XII Chilean conference on operations research</title>
+      <link>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based fault detection and diagnosis in ALMA subsystems</title>
+      <link>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-sms-orl/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-sms-orl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource cost aware scheduling problems</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-ph-d-thesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-ph-d-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust electricity demand shaping through load shedding and shifting using day-ahead and real-time prices</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-reds-gls/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-reds-gls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-sms-mapsp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-sms-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy aware scheduling: minimizing total energy cost and completion time by $α$-points and $α$-speeds</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-eas-mapsp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-eas-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered architecture for fault detection and isolation in cooperative mobile robots</title>
+      <link>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear state estimation in mobile robots using a fuzzy observer</title>
+      <link>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección y diagnóstico de fallas en robots móviles cooperativos</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy logic based nonlinear Kalman filter applied to mobile robots modelling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queen-bee genetic optimization of an heuristic based fuzzy control scheme for a mobile robot</title>
+      <link>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de guiado para un robot móvil basado en lógica difusa</title>
+      <link>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</guid>
+      <description></description>
     </item>
     
   </channel>

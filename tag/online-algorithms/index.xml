@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>online algorithms | Homepage</title>
+    <link>https://www.raxlab.science/tag/online-algorithms/</link>
+      <atom:link href="https://www.raxlab.science/tag/online-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>online algorithms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>online algorithms</title>
+      <link>https://www.raxlab.science/tag/online-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>The online set aggregation problem</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
