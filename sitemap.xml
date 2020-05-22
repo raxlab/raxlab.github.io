@@ -546,7 +546,19 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/carlos-silva/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/francisco-jara/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
   </url>
   
   <url>
@@ -558,11 +570,19 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/jocelyn-olivari/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/post/</loc>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
   </url>
   
 </urlset>
