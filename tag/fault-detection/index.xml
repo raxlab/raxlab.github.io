@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fault detection | Group&#39;s Homepage</title>
+    <link>https://www.raxlab.science/tag/fault-detection/</link>
+      <atom:link href="https://www.raxlab.science/tag/fault-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>fault detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>fault detection</title>
+      <link>https://www.raxlab.science/tag/fault-detection/</link>
+    </image>
+    
+    <item>
+      <title>ALMA engineering fault detection framework</title>
+      <link>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based fault detection and diagnosis in ALMA subsystems</title>
+      <link>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered architecture for fault detection and isolation in cooperative mobile robots</title>
+      <link>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección y diagnóstico de fallas en robots móviles cooperativos</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

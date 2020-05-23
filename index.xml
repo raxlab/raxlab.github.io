@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group&#39;s Homepage</title>
+    <link>https://www.raxlab.science/</link>
+      <atom:link href="https://www.raxlab.science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Group&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Group&#39;s Homepage</title>
+      <link>https://www.raxlab.science/</link>
+    </image>
+    
+    <item>
+      <title>Rodrigo A. Carrasco</title>
+      <link>https://www.raxlab.science/members/rodrigo-a.-carrasco/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/members/rodrigo-a.-carrasco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating room scheduling under waiting time constraints: the Chilean GES plan</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-ors-aor/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-ors-aor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time fleet management decision support system with security constraints</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal decisions for salvage logging after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equipo, sistema y método para administrar óptimamente la energía en una red de uso domiciliario e industrial</title>
+      <link>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvage logging: harvest scheduling and personnel assignment after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource cost aware scheduling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-rcas-ejor/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-rcas-ejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALMA engineering fault detection framework</title>
+      <link>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.raxlab.science/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://www.raxlab.science/privacy/</guid>
+      <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;&lt;strong&gt;PRIVACY POLICY&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Effective date: 2020-05-01&lt;/p&gt;
+&lt;p&gt;1. &lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;Operations Research and Systems Engineering Group&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Operations Research and Systems Engineering Group&lt;/strong&gt; (“us”, “we”, or “our”) operates &lt;strong&gt;&lt;a href=&#34;http://www.raxlab.science&#34;&gt;www.raxlab.science&lt;/a&gt;&lt;/strong&gt; (hereinafter referred to as &lt;strong&gt;“Service”&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Our Privacy Policy governs your visit to &lt;strong&gt;&lt;a href=&#34;http://www.raxlab.science&#34;&gt;www.raxlab.science&lt;/a&gt;&lt;/strong&gt;, and explains how we collect, safeguard and disclose information that results from your use of our Service.&lt;/p&gt;
+&lt;p&gt;We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.&lt;/p&gt;
+&lt;p&gt;Our Terms and Conditions (&lt;strong&gt;“Terms”&lt;/strong&gt;) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (&lt;strong&gt;“agreement”&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;2. &lt;strong&gt;Definitions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SERVICE&lt;/strong&gt; means the &lt;a href=&#34;http://www.raxlab.science&#34;&gt;www.raxlab.science&lt;/a&gt; website operated by Operations Research and Systems Engineering Group.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PERSONAL DATA&lt;/strong&gt; means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;USAGE DATA&lt;/strong&gt; is data collected automatically either generated by the use of Service or from Service infrastructure itself (for example, the duration of a page visit).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;COOKIES&lt;/strong&gt; are small files stored on your device (computer or mobile device).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DATA CONTROLLER&lt;/strong&gt; means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DATA PROCESSORS (OR SERVICE PROVIDERS)&lt;/strong&gt; means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DATA SUBJECT&lt;/strong&gt; is any living individual who is the subject of Personal Data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THE USER&lt;/strong&gt; is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.&lt;/p&gt;
+&lt;p&gt;3. &lt;strong&gt;Information Collection and Use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We collect several different types of information for various purposes to provide and improve our Service to you.&lt;/p&gt;
+&lt;p&gt;4. &lt;strong&gt;Types of Data Collected&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personal Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&lt;strong&gt;“Personal Data”&lt;/strong&gt;). Personally identifiable information may include, but is not limited to:&lt;/p&gt;
+&lt;p&gt;0.1. Email address&lt;/p&gt;
+&lt;p&gt;0.2. First name and last name&lt;/p&gt;
+&lt;p&gt;0.3. Phone number&lt;/p&gt;
+&lt;p&gt;0.4. Address, Country, State, Province, ZIP/Postal code, City&lt;/p&gt;
+&lt;p&gt;0.5. Cookies and Usage Data&lt;/p&gt;
+&lt;p&gt;We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Usage Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through any device (&lt;strong&gt;“Usage Data”&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.&lt;/p&gt;
+&lt;p&gt;When you access Service with a device, this Usage Data may include information such as the type of device you use, your device unique ID, the IP address of your device, your device operating system, the type of Internet browser you use, unique device identifiers and other diagnostic data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tracking Cookies Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.&lt;/p&gt;
+&lt;p&gt;Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyze our Service.&lt;/p&gt;
+&lt;p&gt;You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.&lt;/p&gt;
+&lt;p&gt;Examples of Cookies we use:&lt;/p&gt;
+&lt;p&gt;0.1. &lt;strong&gt;Session Cookies:&lt;/strong&gt; We use Session Cookies to operate our Service.&lt;/p&gt;
+&lt;p&gt;0.2. &lt;strong&gt;Preference Cookies:&lt;/strong&gt; We use Preference Cookies to remember your preferences and various settings.&lt;/p&gt;
+&lt;p&gt;0.3. &lt;strong&gt;Security Cookies:&lt;/strong&gt; We use Security Cookies for security purposes.&lt;/p&gt;
+&lt;p&gt;0.4. &lt;strong&gt;Advertising Cookies:&lt;/strong&gt; Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, 
+&lt;a href=&#34;https://policymaker.io/non-disclosure-agreement/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-disclosure agreements&lt;/a&gt;, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.&lt;/p&gt;
+&lt;p&gt;5. &lt;strong&gt;Use of Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Operations Research and Systems Engineering Group uses the collected data for various purposes:&lt;/p&gt;
+&lt;p&gt;0.1. to provide and maintain our Service;&lt;/p&gt;
+&lt;p&gt;0.2. to notify you about changes to our Service;&lt;/p&gt;
+&lt;p&gt;0.3. to allow you to participate in interactive features of our Service when you choose to do so;&lt;/p&gt;
+&lt;p&gt;0.4. to provide customer support;&lt;/p&gt;
+&lt;p&gt;0.5. to gather analysis or valuable information so that we can improve our Service;&lt;/p&gt;
+&lt;p&gt;0.6. to monitor the usage of our Service;&lt;/p&gt;
+&lt;p&gt;0.7. to detect, prevent and address technical issues;&lt;/p&gt;
+&lt;p&gt;0.8. to fulfil any other purpose for which you provide it;&lt;/p&gt;
+&lt;p&gt;0.9. to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;&lt;/p&gt;
+&lt;p&gt;0.10. to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;&lt;/p&gt;
+&lt;p&gt;0.11. to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;&lt;/p&gt;
+&lt;p&gt;0.12. in any other way we may describe when you provide the information;&lt;/p&gt;
+&lt;p&gt;0.13. for any other purpose with your consent.&lt;/p&gt;
+&lt;p&gt;6. &lt;strong&gt;Retention of Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.&lt;/p&gt;
+&lt;p&gt;We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.&lt;/p&gt;
+&lt;p&gt;7. &lt;strong&gt;Transfer of Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.&lt;/p&gt;
+&lt;p&gt;If you are located outside Chile and choose to provide information to us, please note that we transfer the data, including Personal Data, to Chile and process it there.&lt;/p&gt;
+&lt;p&gt;Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.&lt;/p&gt;
+&lt;p&gt;Operations Research and Systems Engineering Group will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.&lt;/p&gt;
+&lt;p&gt;8. &lt;strong&gt;Disclosure of Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may disclose personal information that we collect, or you provide:&lt;/p&gt;
+&lt;p&gt;0.1. &lt;strong&gt;Disclosure for Law Enforcement.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities.&lt;/p&gt;
+&lt;p&gt;0.2. &lt;strong&gt;Business Transaction.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be transferred.&lt;/p&gt;
+&lt;p&gt;0.3. &lt;strong&gt;Other cases. We may disclose your information also:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;0.3.1. to our subsidiaries and affiliates;&lt;/p&gt;
+&lt;p&gt;0.3.2. to contractors, service providers, and other third parties we use to support our business;&lt;/p&gt;
+&lt;p&gt;0.3.3. to fulfill the purpose for which you provide it;&lt;/p&gt;
+&lt;p&gt;0.3.4. for the purpose of including your company’s logo on our website;&lt;/p&gt;
+&lt;p&gt;0.3.5. for any other purpose disclosed by us when you provide the information;&lt;/p&gt;
+&lt;p&gt;0.3.6. with your consent in any other cases;&lt;/p&gt;
+&lt;p&gt;0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others.&lt;/p&gt;
+&lt;p&gt;9. &lt;strong&gt;Security of Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.&lt;/p&gt;
+&lt;p&gt;10. &lt;strong&gt;Your Data Protection Rights Under General Data Protection Regulation (GDPR)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR.&lt;/p&gt;
+&lt;p&gt;We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.&lt;/p&gt;
+&lt;p&gt;If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at &lt;strong&gt;&lt;a href=&#34;mailto:support@raxlab.science&#34;&gt;support@raxlab.science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In certain circumstances, you have the following data protection rights:&lt;/p&gt;
+&lt;p&gt;0.1. the right to access, update or to delete the information we have on you;&lt;/p&gt;
+&lt;p&gt;0.2. the right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete;&lt;/p&gt;
+&lt;p&gt;0.3. the right to object. You have the right to object to our processing of your Personal Data;&lt;/p&gt;
+&lt;p&gt;0.4. the right of restriction. You have the right to request that we restrict the processing of your personal information;&lt;/p&gt;
+&lt;p&gt;0.5. the right to data portability. You have the right to be provided with a copy of your Personal Data in a structured, machine-readable and commonly used format;&lt;/p&gt;
+&lt;p&gt;0.6. the right to withdraw consent. You also have the right to withdraw your consent at any time where we rely on your consent to process your personal information;&lt;/p&gt;
+&lt;p&gt;Please note that we may ask you to verify your identity before responding to such requests. Please note, we may not able to provide Service without some necessary data.&lt;/p&gt;
+&lt;p&gt;You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).&lt;/p&gt;
+&lt;p&gt;11. &lt;strong&gt;Your Data Protection Rights under the California Privacy Protection Act (CalOPPA)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.&lt;/p&gt;
+&lt;p&gt;According to CalOPPA we agree to the following:&lt;/p&gt;
+&lt;p&gt;0.1. users can visit our site anonymously;&lt;/p&gt;
+&lt;p&gt;0.2. our Privacy Policy link includes the word “Privacy”, and can easily be found on the home page of our website;&lt;/p&gt;
+&lt;p&gt;0.3. users will be notified of any privacy policy changes on our Privacy Policy Page;&lt;/p&gt;
+&lt;p&gt;0.4. users are able to change their personal information by emailing us at &lt;strong&gt;&lt;a href=&#34;mailto:support@raxlab.science&#34;&gt;support@raxlab.science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Our Policy on “Do Not Track” Signals:&lt;/p&gt;
+&lt;p&gt;We honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.&lt;/p&gt;
+&lt;p&gt;You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.&lt;/p&gt;
+&lt;p&gt;12. &lt;strong&gt;Your Data Protection Rights under the California Consumer Privacy Act (CCPA)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are a California resident, you are entitled to learn what data we collect about you, ask to delete your data and not to sell (share) it. To exercise your data protection rights, you can make certain requests and ask us:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.1. What personal information we have about you. If you make this request, we will return to you:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;0.0.1. The categories of personal information we have collected about you.&lt;/p&gt;
+&lt;p&gt;0.0.2. The categories of sources from which we collect your personal information.&lt;/p&gt;
+&lt;p&gt;0.0.3. The business or commercial purpose for collecting or selling your personal information.&lt;/p&gt;
+&lt;p&gt;0.0.4. The categories of third parties with whom we share personal information.&lt;/p&gt;
+&lt;p&gt;0.0.5. The specific pieces of personal information we have collected about you.&lt;/p&gt;
+&lt;p&gt;0.0.6. A list of categories of personal information that we have sold, along with the category of any other company we sold it to. If we have not sold your personal information, we will inform you of that fact.&lt;/p&gt;
+&lt;p&gt;0.0.7. A list of categories of personal information that we have disclosed for a business purpose, along with the category of any other company we shared it with.&lt;/p&gt;
+&lt;p&gt;Please note, you are entitled to ask us to provide you with this information up to two times in a rolling twelve-month period. When you make this request, the information provided may be limited to the personal information we collected about you in the previous 12 months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.2. To delete your personal information. If you make this request, we will delete the personal information we hold about you as of the date of your request from our records and direct any service providers to do the same. In some cases, deletion may be accomplished through de-identification of the information. If you choose to delete your personal information, you may not be able to use certain functions that require your personal information to operate.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.3. To stop selling your personal information. We don’t sell or rent your personal information to any third parties for any purpose. We do not sell your personal information for monetary consideration. However, under some circumstances, a transfer of personal information to a third party, or within our family of companies, without monetary consideration may be considered a “sale” under California law. You are the only owner of your Personal Data and can request disclosure or deletion at any time.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you submit a request to stop selling your personal information, we will stop making such transfers.&lt;/p&gt;
+&lt;p&gt;Please note, if you ask us to delete or stop selling your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function. But in no circumstances, we will discriminate against you for exercising your rights.&lt;/p&gt;
+&lt;p&gt;To exercise your California data protection rights described above, please send your request(s) by email: &lt;strong&gt;&lt;a href=&#34;mailto:support@raxlab.science&#34;&gt;support@raxlab.science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.&lt;/p&gt;
+&lt;p&gt;13. &lt;strong&gt;Service Providers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may employ third party companies and individuals to facilitate our Service (&lt;strong&gt;“Service Providers”&lt;/strong&gt;), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.&lt;/p&gt;
+&lt;p&gt;These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.&lt;/p&gt;
+&lt;p&gt;14. &lt;strong&gt;Analytics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may use third-party Service Providers to monitor and analyze the use of our Service.&lt;/p&gt;
+&lt;p&gt;15. &lt;strong&gt;CI/CD tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may use third-party Service Providers to automate the development process of our Service.&lt;/p&gt;
+&lt;p&gt;16. &lt;strong&gt;Advertising&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.&lt;/p&gt;
+&lt;p&gt;17. &lt;strong&gt;Behavioral Remarketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may use remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.&lt;/p&gt;
+&lt;p&gt;18. &lt;strong&gt;Links to Other Sites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.&lt;/p&gt;
+&lt;p&gt;We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.&lt;/p&gt;
+&lt;p&gt;For example, the outlined Privacy Policy has been made using 
+&lt;a href=&#34;https://policymaker.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PolicyMaker.io&lt;/a&gt;, free tool that helps create high-quality legal documents. PolicyMaker’s free online privacy policy generator is an easy-to-use tool for creating a 
+&lt;a href=&#34;https://policymaker.io/privacy-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;privacy policy for website&lt;/a&gt;, blog, e-commerce store or app.&lt;/p&gt;
+&lt;p&gt;19. &lt;strong&gt;&lt;strong&gt;Children’s Privacy&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our Services are not intended for use by children under the age of 18 (&lt;strong&gt;“Child”&lt;/strong&gt; or &lt;strong&gt;“Children”&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.&lt;/p&gt;
+&lt;p&gt;20. &lt;strong&gt;Changes to This Privacy Policy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.&lt;/p&gt;
+&lt;p&gt;We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update “effective date” at the top of this Privacy Policy.&lt;/p&gt;
+&lt;p&gt;You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.&lt;/p&gt;
+&lt;p&gt;21. &lt;strong&gt;Contact Us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have any questions about this Privacy Policy, please contact us by email: &lt;strong&gt;&lt;a href=&#34;mailto:support@raxlab.science&#34;&gt;support@raxlab.science&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://policymaker.io/privacy-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Policy&lt;/a&gt; was created for &lt;strong&gt;&lt;a href=&#34;http://www.raxlab.science&#34;&gt;www.raxlab.science&lt;/a&gt;&lt;/strong&gt; by 
+&lt;a href=&#34;https://policymaker.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PolicyMaker.io&lt;/a&gt; on 2020-05-01.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://www.raxlab.science/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://www.raxlab.science/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Server scheduling benchmark instances</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-bench-md/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-bench-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid using day ahead market and real time market prices</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-uspatent-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-uspatent-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The online set aggregation problem</title>
+      <link>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand shaping in an electrical power grid</title>
+      <link>https://www.raxlab.science/publication/carrasco-2014-uspatent-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2014-uspatent-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating room scheduling with variable procedure times</title>
+      <link>https://www.raxlab.science/publication/azar-2017-ors-mapsp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/azar-2017-ors-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the XII Chilean conference on operations research</title>
+      <link>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based fault detection and diagnosis in ALMA subsystems</title>
+      <link>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/ortiz-2016-mbfdd-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-sms-orl/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-sms-orl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource cost aware scheduling problems</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-ph-d-thesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-ph-d-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust electricity demand shaping through load shedding and shifting using day-ahead and real-time prices</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-reds-gls/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-reds-gls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints</title>
+      <link>https://www.raxlab.science/publication/carrasco-2013-sms-mapsp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2013-sms-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-fdi-robotica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy aware scheduling: minimizing total energy cost and completion time by $α$-points and $α$-speeds</title>
+      <link>https://www.raxlab.science/publication/carrasco-2011-eas-mapsp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2011-eas-mapsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered architecture for fault detection and isolation in cooperative mobile robots</title>
+      <link>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2007-lafdi-ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear state estimation in mobile robots using a fuzzy observer</title>
+      <link>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2005-nse-ifac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección y diagnóstico de fallas en robots móviles cooperativos</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-ms-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy logic based nonlinear Kalman filter applied to mobile robots modelling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2004-flkf-fuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queen-bee genetic optimization of an heuristic based fuzzy control scheme for a mobile robot</title>
+      <link>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2003-qgo-lacra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de guiado para un robot móvil basado en lógica difusa</title>
+      <link>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

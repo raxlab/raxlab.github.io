@@ -1,0 +1,99 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Academic Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  image = "banner.jpg"  # Name of image in `static/img/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+
+  # Text color (true=light or false=dark).
+  text_color_light = true
+  
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Academic Director Master in Industrial Engineering"
+  company = "School of Engineering and Sciences, Universidad Adolfo Ibáñez"
+  company_url = "https://ingenieria.uai.cl/magister/magister-en-ingenieria-industrial/"
+  location = "Santiago, Chile"
+  date_start = "2017-10-01"
+  date_end = ""
+  description = """
+  * Executive professional program at UAI that combines analytic skills from industrial engineering and operations research, together with leadership skills and multidisciplinary teamwork.
+  """
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "School of Engineering and Sciences, Universidad Adolfo Ibáñez"
+  company_url = "http://ingenieria.uai.cl"
+  location = "Santiago, Chile"
+  date_start = "2013-08-01"
+  date_end = ""
+  description = """
+  * Teaching undergraduate courses in operations research, supply chain management, mathematical modeling, and optimization. Course enrollment between 20 and 120 students.
+  * Teaching master and Ph.D. level courses in prescriptive analytics, optimization and game theory. Course enrollment between 10 and 20 students.
+  * Supervising undergraduate and graduate student thesis.
+  """
+
+[[experience]]
+  title = "Adjunct Instructor"
+  company = "Industrial Engineering and Operations Research Dept., Columbia University"
+  company_url = "http://ieor.columbia.edu"
+  location = "New York, USA"
+  date_start = "2013-01-01"
+  date_end = "2013-08-01"
+  description = """
+  * Taught the course Asset Allocation for the MS in Financial Engineering program.
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Industrial Engineering and Operations Research Dept., Columbia University"
+  company_url = "http://ieor.columbia.edu"
+  location = "New York"
+  date_start = "2008-08-01"
+  date_end = "2013-01-01"
+  description = """
+  * Taught lectures, designed exams, and conducted recitations and office hours for the courses Asset Allocation and Optimization Methods for Financial Engineering. Course enrollment ranged between 60 and 90 students.
+  """
+  
+[[experience]]
+  title = "Teaching Assistant"
+  company = "School of Engineering, Pontificia Universidad Católica de Chile"
+  company_url = "http://ing.puc.cl"
+  location = "Santiago"
+  date_start = "1998-03-01"
+  date_end = "2004-12-31"
+  description = """
+  * Designed tests and conducted recitations and lectures for the following courses: Introduction to Programming, Circuit Analysis, Digital Systems, Electricity & Magnetism, Electromagnetic Theory, Telecommunications, Automatic Control, Advanced Topics in Automatic Control, Digital Systems Laboratory, Electronic Project, and Introduction to Microbots. Course enrollment ranged between 30 and 120 students.
+  """
++++

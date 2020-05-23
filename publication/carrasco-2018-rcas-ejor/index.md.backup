@@ -1,0 +1,15 @@
+---
+title: "Resource cost aware scheduling"
+date: 2018-09-01
+publishDate: 2020-05-22T00:51:49.917253Z
+authors: ["Rodrigo A. Carrasco", "Garud Iyengar", "Clifford Stein"]
+publication_types: ["2"]
+abstract: "We are interested in the scheduling problem where there are several different resources that determine the speed at which a job runs and we pay depending on the amount of each resource that we use. This work is an extension of the resource dependent job processing time problem and the energy aware scheduling problems. We develop a new constant factor approximation algorithm for resource cost aware scheduling problems: the objective is to minimize the sum of the total cost of resources and the total weighted completion time in the one machine non-preemptive setting, allowing for arbitrary precedence constraints and release dates. Our algorithm handles general job-dependent resource cost functions. We also analyze the practical performance of our algorithms, showing that it is significantly superior to the theoretical bounds and in fact it is very close to optimal. The analysis is done using simulations and real instances, which are left publicly available for future benchmarks. We also present additional heuristic improvements and we study their performance in other settings."
+featured: false
+publication: "*European Journal of Operational Research*"
+tags: ["approximation algorithms", "energy aware scheduling", "resource augmentation", "resource management", "scheduling"]
+url_pdf: "https://www.researchgate.net/publication/323634007_Resource_Cost_Aware_Scheduling"
+url_dataset: "https://data.mendeley.com/datasets/ph95d337dj/1"
+doi: "10.1016/j.ejor.2018.02.059"
+---
+

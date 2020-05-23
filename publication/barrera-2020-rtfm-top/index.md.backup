@@ -1,0 +1,14 @@
+---
+title: "Real-time fleet management decision support system with security constraints"
+date: 2020-01-01
+publishDate: 2020-05-22T00:51:49.911242Z
+authors: ["Javiera Barrera", "Rodrigo A. Carrasco", "Eduardo Moreno"]
+publication_types: ["2"]
+abstract: "Intelligent transportation, and in particular, fleet management, has been a forefront concern for a plethora of industries. This statement is especially true for the production of commodities, where transportation represents a central element for operational continuity. Additionally, in many industries, and in particular those with hazardous environments, fleet control must satisfy a wide range of security restrictions to ensure that risks are kept at bay and accidents are minimum. Furthermore, in these environments, any decision support tool must cope with noisy and incomplete data and give recommendations every few minutes. In this work, we present a fast and efficient decision support tool to help fleet managers oversee and control ore trucks in a mining setting. The main objective of our system is to help managers avoid collisions between ore trucks and personnel buses, one of the most critical security constraints in our case study, keeping a minimum security-distance between the two at all times. Furthermore, we develop and implement additional algorithms so that our approach can work with real-life noisy GPS data. Through the use of historical data, we also study the performance of our decision support system, validating that it works under the real-life conditions presented by the company. Our experimental results show that the proposed approach improved truck and road utilization significantly, allowing the fleet manager to control the security distance required by their procedures."
+featured: false
+publication: "*TOP*"
+tags: ["control systems", "fleet control", "real-time control", "vehicle routing"]
+url_pdf: "https://www.researchgate.net/publication/340818547_Real-Time_Fleet_Management_Decision_Support_System_with_Security_Constraints"
+doi: "10.1007/s11750-020-00565-y"
+---
+

@@ -1,0 +1,30 @@
+---
+# Display name
+title: "Sebastián Roldán"
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "sebastian-roldan"
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Banco BCI
+
+# Organizations/Affiliations
+organizations:
+- name: webpage
+  url: "https://www.linkedin.com/in/sebasti%C3%A1n-crist%C3%B3bal-rold%C3%A1n-olea-2a582288/"
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Alumni
+- Former Grad Students
+
+---

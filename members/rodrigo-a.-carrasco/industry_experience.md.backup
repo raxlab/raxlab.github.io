@@ -1,0 +1,79 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
+
+title = "Industry Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Chief Engineering Officer"
+  company = "Data Observatory"
+  company_url = "http://dataobservatory.net/"
+  location = "Santiago, Chile"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  * Chief Engineer for The Data Observatory, a non-profit organization of which UAI is a founding member, together with the Chilean Ministry of Economy, the Chilean Ministry of Science, and Amazon Web Services.
+  * Coordinate interdisciplinary teams in projects related to data science, of very large data sets, combining descriptive, predictive, and prescriptive analytics tools; building infrastructure and services in cloud based systems.
+"""
+
+[[experience]]
+  title = "Founder & Director"
+  company = "UAI Systems Center, Universidad Adolfo Ibáñez"
+  company_url = "https://ingenieria.uai.cl/centros/systems/"
+  location = "Santiago, Chile"
+  date_start = "2015-01-01"
+  date_end = "2018-06-30"
+  description = """
+  * Founded and Directed the university's center dedicated to developing industrial engineering and operations research solutions and actively participate in technological transfer.
+  * Developed the center's mission and objectives, identifying the key advantages of the center, and actively relating the university's research efforts with industry applications.
+  * Developed and signed research agreements with more than 20 companies and organizations, which lead to applied research projects. Detected and obtained public and private funding opportunities in industry for the researchers associated with the center.
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Industrial Engineering and Operations Research Dept., Columbia University"
+  company_url = "https://ieor.columbia.edu"
+  location = "New York, USA"
+  date_start = "2008-08-01"
+  date_end = "2013-07-30"
+  description = """
+  * Developed algorithms for solving energy and resource management optimization problems with professors Garud Iyengar and Cliff Stein.
+  """
+  
+[[experience]]
+  title = "Research Engineer"
+  company = "Siemens Corporate Research and Technology"
+  company_url = "https://new.siemens.com/global/en/company/innovation/research-development.html"
+  location = "Princeton, USA"
+  date_start = "2012-06-01"
+  date_end = "2013-06-30"
+  description = """
+  * Worked in the implementation and improvement of machine learning and optimization algorithms for demand shaping and demand response in power grids.
+  """
+  
+[[experience]]
+  title = "Associate"
+  company = "Booz | Allen | Hamilton"
+  company_url = "https://www.boozallen.com/"
+  location = "Princeton, USA"
+  date_start = "2005-02-01"
+  date_end = "2008-07-30"
+  description = """
+  * Involved in projects with leading companies in Chile, Argentina, Brazil, Peru, and Canada.
+  * Managed complete work fronts and one whole project with more than 10 team members, leading the project efforts and coordinating meetings and presentations with senior executives.
+  * Relevant expertise includes post-merger integration, business strategy definition, maintenance strategy improvement, supply chain management, cost reduction, channel strategy development, and wargaming.
+  """
++++

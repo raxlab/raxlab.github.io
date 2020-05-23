@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storage management | Group&#39;s Homepage</title>
+    <link>https://www.raxlab.science/tag/storage-management/</link>
+      <atom:link href="https://www.raxlab.science/tag/storage-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>storage management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>storage management</title>
+      <link>https://www.raxlab.science/tag/storage-management/</link>
+    </image>
+    
+    <item>
+      <title>Equipo, sistema y método para administrar óptimamente la energía en una red de uso domiciliario e industrial</title>
+      <link>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

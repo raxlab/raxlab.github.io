@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Moreno | Group&#39;s Homepage</title>
+    <link>https://www.raxlab.science/author/eduardo-moreno/</link>
+      <atom:link href="https://www.raxlab.science/author/eduardo-moreno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Moreno</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/author/eduardo-moreno/avatar_huad6c86e5e618fb05c15a7dec9ea0b18f_21062_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Eduardo Moreno</title>
+      <link>https://www.raxlab.science/author/eduardo-moreno/</link>
+    </image>
+    
+    <item>
+      <title>Real-time fleet management decision support system with security constraints</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the XII Chilean conference on operations research</title>
+      <link>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2017-proc-optima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
