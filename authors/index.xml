@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Group&#39;s Homepage</title>
+    <title>Authors | Homepage</title>
     <link>https://www.raxlab.science/authors/</link>
       <atom:link href="https://www.raxlab.science/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
