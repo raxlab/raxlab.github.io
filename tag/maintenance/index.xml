@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maintenance | Homepage</title>
+    <link>https://www.raxlab.science/tag/maintenance/</link>
+      <atom:link href="https://www.raxlab.science/tag/maintenance/index.xml" rel="self" type="application/rss+xml" />
+    <description>maintenance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sat, 23 May 2020 22:22:45 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu54611efe960d5d9fcb18be3919f4d9e3_33093_512x512_fill_lanczos_center_2.png</url>
+      <title>maintenance</title>
+      <link>https://www.raxlab.science/tag/maintenance/</link>
+    </image>
+    
+    <item>
+      <title>Predictive Maintenance</title>
+      <link>https://www.raxlab.science/project/faultdetection/</link>
+      <pubDate>Sat, 23 May 2020 22:22:45 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/faultdetection/</guid>
+      <description>&lt;p&gt;We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.&lt;/p&gt;
+&lt;p&gt;This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

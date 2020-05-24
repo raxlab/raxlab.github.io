@@ -18,30 +18,30 @@ organizations:
   url: "/members/rodrigo-a.-carrasco/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
 - Combinatorial Algorithms
 - Algorithm Design & Analysis
 - Prescriptive Analytics
 
-education:
-  courses:
-  - course: PhD in Industrial Engineering and Operations Research
-    institution: Columbia University
-    year: 2013
-  - course: MPhil in Industrial Engineering and Operations Research
-    institution: Columbia University
-    year: 2010
-  - course: MSc in Control Systems
-    institution: Pontificia Universidad Católica de Chile
-    year: 2004
-  - course: Education Abroad Program Diploma
-    institution: University of California at Santa Barbara
-    year: 2003
-  - course: BSc in Electrical Engineering
-    institution: Pontificia Universidad Católica de Chile
-    year: 2002
+#education:
+#  courses:
+#  - course: PhD in Industrial Engineering and Operations Research
+#    institution: Columbia University
+#    year: 2013
+#  - course: MPhil in Industrial Engineering and Operations Research
+#    institution: Columbia University
+#    year: 2010
+#  - course: MSc in Control Systems
+#    institution: Pontificia Universidad Católica de Chile
+#    year: 2004
+#  - course: Education Abroad Program Diploma
+#    institution: University of California at Santa Barbara
+#    year: 2003
+#  - course: BSc in Electrical Engineering
+#    institution: Pontificia Universidad Católica de Chile
+#    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

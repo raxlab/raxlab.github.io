@@ -5,12 +5,22 @@
     <link>https://www.raxlab.science/author/francisco-jara/</link>
       <atom:link href="https://www.raxlab.science/author/francisco-jara/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Jara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sat, 23 May 2020 22:25:44 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/francisco-jara/avatar_hu572101a0b7d745eee13d15c9ab24d7a0_315306_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Francisco Jara</title>
       <link>https://www.raxlab.science/author/francisco-jara/</link>
     </image>
+    
+    <item>
+      <title>Optimal Energy Storage Management</title>
+      <link>https://www.raxlab.science/project/energymanagement/</link>
+      <pubDate>Sat, 23 May 2020 22:25:44 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/energymanagement/</guid>
+      <description>&lt;p&gt;We are combining machine learning and stochastic optimization tools to develop optimal energy management systems for fotovoltaic generation with storage.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF ID19I10158 grant.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

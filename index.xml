@@ -13,6 +13,36 @@
     </image>
     
     <item>
+      <title>Optimal Energy Storage Management</title>
+      <link>https://www.raxlab.science/project/energymanagement/</link>
+      <pubDate>Sat, 23 May 2020 22:25:44 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/energymanagement/</guid>
+      <description>&lt;p&gt;We are combining machine learning and stochastic optimization tools to develop optimal energy management systems for fotovoltaic generation with storage.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF ID19I10158 grant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Maintenance</title>
+      <link>https://www.raxlab.science/project/faultdetection/</link>
+      <pubDate>Sat, 23 May 2020 22:22:45 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/faultdetection/</guid>
+      <description>&lt;p&gt;We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.&lt;/p&gt;
+&lt;p&gt;This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Operations Research Tools for Observatory Operations</title>
+      <link>https://www.raxlab.science/project/obervatoryops/</link>
+      <pubDate>Sat, 23 May 2020 22:22:24 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/obervatoryops/</guid>
+      <description>&lt;p&gt;The current state-of-the-art telescopes, generating massive amounts of data on a daily basis, also have extremely complex processes and requirements. We are adapting current OR tools, and developing new ones, to create decision support systems at ALMA, which will allow them to achieve operational excellence.&lt;/p&gt;
+&lt;p&gt;This research is partially funded by the ALMA Telescope.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/members/rodrigo-a.-carrasco/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>

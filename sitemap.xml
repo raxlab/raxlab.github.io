@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/carlos-silva/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/energy-management/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/francisco-jara/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jocelyn-olivari/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/energymanagement/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fault-detection/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fault-diagnosis/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/maintenance/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/faultdetection/</loc>
+    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/obervatoryops/</loc>
+    <lastmod>2020-05-23T22:22:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/members/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +114,6 @@
   
   <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/authors/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,22 +158,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/susana-mondschein/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,11 +283,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/energy-management/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -238,11 +318,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/rodrigo-a-carrasco/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -254,11 +329,6 @@
   
   <url>
     <loc>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -299,21 +369,6 @@
   
   <url>
     <loc>https://www.raxlab.science/publication/ortiz-2018-aedf-spie/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/fault-detection/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/fault-diagnosis/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,10 +643,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
   </url>
   
@@ -600,19 +651,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/carlos-silva/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/francisco-jara/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
   </url>
   
   <url>
@@ -621,10 +660,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/javiera-foucaut/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jocelyn-olivari/</loc>
   </url>
   
   <url>
@@ -645,10 +680,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/sebastian-roldan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
   </url>
   
 </urlset>
