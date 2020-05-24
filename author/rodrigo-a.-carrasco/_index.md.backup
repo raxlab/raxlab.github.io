@@ -4,7 +4,7 @@ title: "Rodrigo A. Carrasco"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "rodrigo-a.-carrasco-bio"
+- "rodrigo-a.-carrasco"
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ role: Academic Director Master in Industrial Engineering / Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad Adolfo Ibáñez
-  url: "https://ingenieria.uai.cl/profesor/rodrigo-carrasco/"
+  url: "/members/rodrigo-a.-carrasco/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,6 +36,9 @@ education:
   - course: MSc in Control Systems
     institution: Pontificia Universidad Católica de Chile
     year: 2004
+  - course: Education Abroad Program Diploma
+    institution: University of California at Santa Barbara
+    year: 2003
   - course: BSc in Electrical Engineering
     institution: Pontificia Universidad Católica de Chile
     year: 2002
@@ -61,21 +64,6 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/rodrigo_a_carrasco/
   
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_rax
-  
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/rodrigocarrasco/
-  
-- icon: github
-  icon_pack: fab
-  link: https://github.com/drRax
-
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-6511-5998
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,11 +77,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio
+- Principal Investigator
 
 ---
-I've been building, programming, and disassembling things since I can remember. 
+I'm interested in harnessing the power operations research and prescriptive analytics tools, developing decision support tools in applied problems.
 
-Currently, I'm an Assistant Professor at Universidad Adolfo Ibáñez and Academic Director of the Master in Industrial Engineering. I also founded and was the initial director of the UAI Systems Center, where we work in solving complex real-life problems using operations research tools. 
+You can find more details about my current research and projects in my **[personal profile](/members/rodrigo-a.-carrasco/)**.
 
-My research interests are in combinatorial problems, in particular, scheduling problems, and the analysis and design of approximation algorithms. I'm currently interested in applications related to control and energy/power management and dealing with uncertainty in these settings.
+If you are interested in our Master in Industrial Engineering program, our leading professional program connecting leadership skills with operations research tools, you can visit the **[program's website](https://ingenieria.uai.cl/magister/magister-en-ingenieria-industrial/)**.
