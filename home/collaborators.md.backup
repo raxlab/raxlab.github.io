@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 88  # Order that this section will appear.
 
 title = "It takes a village..."
-subtitle = "Here are some of the wonderful collaborators "
+subtitle = "Here are some of the wonderful collaborators we've had the chance of working with"
 
 [content]
   # Choose which groups/teams of users to display.

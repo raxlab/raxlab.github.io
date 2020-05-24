@@ -29,7 +29,7 @@ date_format = "2006"
   description = "Project Director"
 
 [[item]]
-  organization = "Grant FIE-2016-V022 and CORFO 16IFI6626"
+  organization = "FIE-2016-V022 and 16IFI6626 CORFO Grants"
   organization_url = "https://www.corfo.cl/"
   title = "Astronomy 4.0: Automatic Fault Detection and Diagnosis Systems for the New Generation Telescopes"
   url = ""

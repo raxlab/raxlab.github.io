@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Applied projects in which we connect theory and practice."
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+One of the main focuses of my research is to connect theory and practice. These are the current projects where we are using combinatorial op
