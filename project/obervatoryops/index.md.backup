@@ -40,3 +40,5 @@ url_video: ""
 slides: ""
 ---
 The current state-of-the-art telescopes, generating massive amounts of data on a daily basis, also have extremely complex processes and requirements. We are adapting current OR tools, and developing new ones, to create decision support systems at ALMA, which will allow them to achieve operational excellence.
+
+This research is partially funded by the ALMA Telescope.
