@@ -5,12 +5,28 @@
     <link>https://www.raxlab.science/tag/operations-research/</link>
       <atom:link href="https://www.raxlab.science/tag/operations-research/index.xml" rel="self" type="application/rss+xml" />
     <description>operations research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Thu, 07 May 2020 22:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu54611efe960d5d9fcb18be3919f4d9e3_33093_512x512_fill_lanczos_center_2.png</url>
       <title>operations research</title>
       <link>https://www.raxlab.science/tag/operations-research/</link>
     </image>
+    
+    <item>
+      <title>Viaje al Centro de los Datos / Voyage to the Center of Data.</title>
+      <link>https://www.raxlab.science/talk/200507-centrodatos/</link>
+      <pubDate>Thu, 07 May 2020 22:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/200507-centrodatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelos de Decisión ante crisis / Decision models for a crisis.</title>
+      <link>https://www.raxlab.science/talk/200424-fic/</link>
+      <pubDate>Fri, 24 Apr 2020 19:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/200424-fic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal decisions for salvage logging after wildfires</title>

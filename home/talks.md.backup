@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Recent Talks"
 subtitle = "Participation in conferences and interviews"
@@ -28,7 +28,7 @@ subtitle = "Participation in conferences and interviews"
     tag = ""
     category = ""
     publication_type = ""
-    author = "Rodrigo A. Carrasco"
+    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false

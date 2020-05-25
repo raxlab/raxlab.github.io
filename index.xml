@@ -51,6 +51,22 @@
     </item>
     
     <item>
+      <title>Viaje al Centro de los Datos / Voyage to the Center of Data.</title>
+      <link>https://www.raxlab.science/talk/200507-centrodatos/</link>
+      <pubDate>Thu, 07 May 2020 22:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/200507-centrodatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelos de Decisión ante crisis / Decision models for a crisis.</title>
+      <link>https://www.raxlab.science/talk/200424-fic/</link>
+      <pubDate>Fri, 24 Apr 2020 19:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/200424-fic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Operating room scheduling under waiting time constraints: the Chilean GES plan</title>
       <link>https://www.raxlab.science/publication/barrera-2020-ors-aor/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
@@ -287,7 +303,36 @@
       <link>https://www.raxlab.science/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>https://www.raxlab.science/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;website-terms-and-conditions-of-use&#34;&gt;Website Terms and Conditions of Use&lt;/h1&gt;
+&lt;h2 id=&#34;1-terms&#34;&gt;1. Terms&lt;/h2&gt;
+&lt;p&gt;By accessing this Website, accessible from &lt;a href=&#34;https://www.raxlab.science&#34;&gt;https://www.raxlab.science&lt;/a&gt;, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law. These Terms of Service has been created with the help of the 
+&lt;a href=&#34;https://www.termsofservicegenerator.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terms of Service Generator&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.termsconditionsexample.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terms &amp;amp; Conditions Example&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-use-license&#34;&gt;2. Use License&lt;/h2&gt;
+&lt;p&gt;Permission is granted to temporarily download one copy of the materials on Operations Research and Systems Engineering Group&amp;rsquo;s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;modify or copy the materials;&lt;/li&gt;
+&lt;li&gt;use the materials for any commercial purpose or for any public display;&lt;/li&gt;
+&lt;li&gt;attempt to reverse engineer any software contained on Operations Research and Systems Engineering Group&amp;rsquo;s Website;&lt;/li&gt;
+&lt;li&gt;remove any copyright or other proprietary notations from the materials; or&lt;/li&gt;
+&lt;li&gt;transferring the materials to another person or &amp;ldquo;mirror&amp;rdquo; the materials on any other server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This will let Operations Research and Systems Engineering Group to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.&lt;/p&gt;
+&lt;h2 id=&#34;3-disclaimer&#34;&gt;3. Disclaimer&lt;/h2&gt;
+&lt;p&gt;All the materials on Operations Research and Systems Engineering Group’s Website are provided &amp;ldquo;as is&amp;rdquo;. Operations Research and Systems Engineering Group makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Operations Research and Systems Engineering Group does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.&lt;/p&gt;
+&lt;h2 id=&#34;4-limitations&#34;&gt;4. Limitations&lt;/h2&gt;
+&lt;p&gt;Operations Research and Systems Engineering Group or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Operations Research and Systems Engineering Group’s Website, even if Operations Research and Systems Engineering Group or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.&lt;/p&gt;
+&lt;h2 id=&#34;5-revisions-and-errata&#34;&gt;5. Revisions and Errata&lt;/h2&gt;
+&lt;p&gt;The materials appearing on Operations Research and Systems Engineering Group’s Website may include technical, typographical, or photographic errors. Operations Research and Systems Engineering Group will not promise that any of the materials in this Website are accurate, complete, or current. Operations Research and Systems Engineering Group may change the materials contained on its Website at any time without notice. Operations Research and Systems Engineering Group does not make any commitment to update the materials.&lt;/p&gt;
+&lt;h2 id=&#34;6-links&#34;&gt;6. Links&lt;/h2&gt;
+&lt;p&gt;Operations Research and Systems Engineering Group has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Operations Research and Systems Engineering Group of the site. The use of any linked website is at the user’s own risk.&lt;/p&gt;
+&lt;h2 id=&#34;7-site-terms-of-use-modifications&#34;&gt;7. Site Terms of Use Modifications&lt;/h2&gt;
+&lt;p&gt;Operations Research and Systems Engineering Group may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.&lt;/p&gt;
+&lt;h2 id=&#34;8-your-privacy&#34;&gt;8. Your Privacy&lt;/h2&gt;
+&lt;p&gt;Please read 
+&lt;a href=&#34;https://www.privacypolicygenerator.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our Privacy Policy&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;9-governing-law&#34;&gt;9. Governing Law&lt;/h2&gt;
+&lt;p&gt;Any claim related to Operations Research and Systems Engineering Group&amp;rsquo;s Website shall be governed by the laws of cl without regards to its conflict of law provisions.&lt;/p&gt;
 </description>
     </item>
     

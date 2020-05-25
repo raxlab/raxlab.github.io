@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Current research applied projects"
+subtitle = "Current applied research projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -78,3 +78,6 @@ subtitle = "Current research applied projects"
  css_class = ""
 +++
 
+One of our aims is to connect theory and practice in our research. These are the current projects in which we are involved, and that allows us to connect the two.
+
+In these projects, we are using combinatorial optimization and stochastic modeling techniques to develop decision support tools in various settings.
