@@ -1,0 +1,14 @@
+---
+title: "Nonlinear state estimation in mobile robots using a fuzzy observer"
+date: 2005-01-01
+publishDate: 2020-05-22T00:51:49.927214Z
+authors: ["Rodrigo A. Carrasco", "Aldo Cipriano", "Ricardo Carelli"]
+publication_types: ["1"]
+abstract: "The performance of model based fault detection and isolation systems can be improved by designing more accurate estimation methods. This work presents a novel implementation of a nonlinear Kalman filter based on the Takagi-Sugeno (TS) fuzzy structure, for a mobile robot. First, a TS model is derived from the robot kinematic equations, which is optimized through genetic algorithms to obtain an accurate model. Based on this model, several linear Kalman filters are combined using fuzzy logic, designing a nonlinear state estimator. Finally, the resulting fuzzy nonlinear observer is compared with the conventional Extended Kalman Filter, showing an improvement in performance and robustness."
+featured: false
+publication: "*16th IFAC World Congress*"
+tags: ["Fuzzy modelling", "Kalman filters", "Mobile robots", "Robotics", "State estimation", "control systems", "fuzzy logic", "mobile robots", "nonlinear control", "signal processing", "state estimation"]
+url_pdf: "https://www.researchgate.net/publication/249862533_Nonlinear_State_Estimation_in_Mobile_Robots_using_a_Fuzzy_Observer"
+doi: "10.3182/20050703-6-CZ-1902.01372"
+---
+

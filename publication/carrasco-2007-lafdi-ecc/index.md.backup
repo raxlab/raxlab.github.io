@@ -1,0 +1,14 @@
+---
+title: "Layered architecture for fault detection and isolation in cooperative mobile robots"
+date: 2007-01-01
+publishDate: 2020-05-22T00:51:49.926195Z
+authors: ["Rodrigo A. Carrasco", "Aldo Cipriano"]
+publication_types: ["1"]
+abstract: "This work presents an architecture that can help to increase the reliability in groups of cooperative mobile robots by taking advantage of analytical and sensor redundancy. First, the design of the architecture is portrayed and the faults to be detected are described. The different layers of the system are then explained and analyzed, using simulations to test their capabilities and limitations. Finally, the architecture is implemented on a group of small mobile robots to validate the results of the simulations."
+featured: false
+publication: "*European Control Conference*"
+tags: ["control systems", "fault detection", "fault diagnosis", "fuzzy logic", "mobile robots", "robotics", "signal processing"]
+url_pdf: "https://www.researchgate.net/publication/258239415_Layered_Architecture_for_Fault_Detection_and_Isolation_in_Cooperative_Mobile_Robots"
+doi: "10.23919/ECC.2007.7068892"
+---
+

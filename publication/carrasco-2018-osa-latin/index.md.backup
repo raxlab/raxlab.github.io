@@ -5,7 +5,7 @@ publishDate: 2020-05-22T00:51:49.916218Z
 authors: ["Rodrigo A. Carrasco", "Kirk Pruhs", "Clifford Stein", "José Verschae"]
 publication_types: ["6"]
 abstract: "We introduce the online Set Aggregation Problem, which is a natural generalization of the Multi-Level Aggregation Problem, which in turn generalizes the TCP Acknowledgment Problem and the Joint Replenishment Problem. We give a deterministic online algorithm, and show that its competitive ratio is logarithmic in the number of requests. We also give a matching lower bound on the competitive ratio of any randomized online algorithm."
-featured: false
+featured: true
 publication: "*Lecture Notes in Computer Science*"
 tags: ["algorithm design", "online algorithms", "set aggregation"]
 url_pdf: "https://www.researchgate.net/publication/323698506_The_Online_Set_Aggregation_Problem"

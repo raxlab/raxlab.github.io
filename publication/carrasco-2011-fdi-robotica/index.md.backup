@@ -1,0 +1,14 @@
+---
+title: "Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers"
+date: 2011-07-01
+publishDate: 2020-05-22T00:51:49.925192Z
+authors: ["Rodrigo A. Carrasco", "Felipe Núñez", "Aldo Cipriano"]
+publication_types: ["2"]
+abstract: "Mobile robot systems are being used more often in tasks that protect human operators from dangerous environments, but these benefits can be easily lost if the robots spend much of their time being repaired. This implies that any increment in their reliability will also improve their benefits. One way to achieve this is by adding redundant elements to the robot, but this adds complexity and cost to the design. On the other hand, cooperative mobile robots formed by members with the same basic structure provide a natural redundancy of elements, which may be used for reliability improvement. This work presents an architecture that takes advantage of the analytical and sensor redundancy present in groups of cooperative mobile robots in order to increase the reliability of the whole system. First, the design of the architecture is portrayed and the faults to be detected are described. The different layers of the system are then explained and analyzed using several simulations to test their capabilities and limitations. Finally, the experimental results on a group of small mobile robots are shown, validating the results delivered by simulations. These results show that the proposed architecture is able to detect and isolate correctly most of the faults tested."
+featured: false
+publication: "*Robotica*"
+tags: ["control systems", "fault detection", "fault diagnosis", "fuzzy logic", "mobile robots", "robotics", "signal processing"]
+url_pdf: "https://www.researchgate.net/publication/220104176_Fault_detection_and_isolation_in_cooperative_mobile_robots_using_multilayer_architecture_and_dynamic_observers"
+doi: "10.1017/S0263574710000457"
+---
+

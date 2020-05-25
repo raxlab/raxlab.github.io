@@ -15,7 +15,7 @@ subtitle = "Participation in conferences and interviews"
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -69,4 +69,4 @@ subtitle = "Participation in conferences and interviews"
  css_class = ""
 +++
 
-These are some of the recent talks and conferences in which I am participating.
+These are some of the recent talks and conferences in which we have participated. A full list is available **[here](/talk/)**.

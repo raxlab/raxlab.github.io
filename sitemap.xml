@@ -128,17 +128,17 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2020-05-07T22:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/tag/operations-research/</loc>
     <lastmod>2020-05-07T22:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
-    <lastmod>2020-05-07T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
     <lastmod>2020-05-07T22:00:00-04:00</lastmod>
   </url>
   
@@ -235,6 +235,11 @@
   <url>
     <loc>https://www.raxlab.science/tag/vehicle-routing/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/191125-optima/</loc>
+    <lastmod>2019-11-25T19:00:00-04:00</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,14 @@
+---
+title: "Model-based fault detection and diagnosis in ALMA subsystems"
+date: 2016-07-01
+publishDate: 2020-05-22T00:51:49.920236Z
+authors: ["José L. Ortiz", "Rodrigo A. Carrasco"]
+publication_types: ["1"]
+abstract: "The Atacama Large Millimeter/submillimeter Array (ALMA) observatory, with its 66 individual telescopes and other central equipment, generates a massive set of monitoring data every day, collecting information on the performance of a variety of critical and complex electrical, electronic and mechanical components. This data is crucial for most troubleshooting efforts performed by engineering teams. More than 5 years of accumulated data and expertise allow for a more systematic approach to fault detection and diagnosis. This paper presents model-based fault detection and diagnosis techniques to support corrective and predictive maintenance in a 24/7 minimum-downtime observatory."
+featured: false
+publication: "*Observatory Operations: Strategies, Processes, and Systems VI*"
+tags: ["fault detection", "fault diagnosis", "observatory operations", "predictive maintenance"]
+url_pdf: "https://www.researchgate.net/publication/305215120_Model-based_fault_detection_and_diagnosis_in_ALMA_subsystems"
+doi: "10.1117/12.2233204"
+---
+

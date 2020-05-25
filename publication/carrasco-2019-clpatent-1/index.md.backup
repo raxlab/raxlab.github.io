@@ -4,7 +4,7 @@ date: 2019-01-01
 publishDate: 2020-05-22T00:27:09.990316Z
 authors: ["Rodrigo A. Carrasco"]
 publication_types: ["8"]
-abstract: ""
+abstract: "Equipo de gestión de energía para administrar la energía eficientemente en una red de manera simple, económica, libre de mantención y que pueda ser fácilmente utilizada en aplicaciones domiciliarias e industriales. Se propone además un sistema de energía en una red de uso domiciliario o industrial que comprende una fuente de consumo de energía, una red de energía principal, una fuente de energía intermitente, una fuente secundaria de generación de energía y un dispositivo de almacenamiento de energía. Finalmente se propone un método para administrar energía mediante un modelo de optimización que se ejecuta en el equipo y sistema de gestión de energía de la presente invención."
 featured: false
 publication: "*CL00938-2019*"
 tags: ["energy management", "stochastic optimization", "storage management"]

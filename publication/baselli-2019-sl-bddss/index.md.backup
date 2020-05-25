@@ -1,0 +1,12 @@
+---
+title: "Salvage logging: harvest scheduling and personnel assignment after wildfires"
+date: 2019-01-01
+publishDate: 2020-05-22T00:51:49.912232Z
+authors: ["Gianluca Baselli", "Felipe Contreras", "Matías Lillo", "Magdalena Marin", "Rodrigo A. Carrasco"]
+publication_types: ["1"]
+abstract: "During summer 2017 Chile was hit by the most massive wildfires in its history, burning more than 450,000 hectares and affecting significantly small and medium forestry companies. In most cases, fires consumed only the tree's bark, leaving the rest of the tree with some commercial value that could be captured. The problem of deciding what actions to take with the remaining forest in this setting is known as the salvage logging problem. In this work, we present a novel mixed-integer optimization model, that can help small and medium-sized forestries make better decisions in this setting, at an operational level. Our approach helps to build a program considering the operational-level harvesting schedule, workforce allocation, and financial actions that include the insurance claims. The objective is to improve the company's cash position by the end of the harvest, without reducing the workforce. We compare our model's performance with current decisions made by medium and small forestry companies and apply it to the specific case of a company located in Cauquenes, Chile."
+featured: false
+publication: "*Proceedings of the III International Conference on Agro Big Data and Decision Support Systems in Agriculture*"
+tags: ["forestry", "operations research", "resource allocation", "resource management", "scheduling"]
+---
+

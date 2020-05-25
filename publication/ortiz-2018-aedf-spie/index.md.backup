@@ -5,7 +5,7 @@ publishDate: 2020-05-22T00:51:49.914251Z
 authors: ["José L. Ortiz", "Rodrigo A. Carrasco"]
 publication_types: ["1"]
 abstract: "The Atacama Large Millimeter/Submillimeter Array (ALMA) Observatory, with its 66 individual radiotelescopes and other central equipment, generates a massive set of monitoring data everyday, collecting information on the performance of a variety of critical and complex electrical, electronic, and mechanical components. By using this crucial data, engineering teams have developed and implemented both model and machine learning-based fault detection methodologies that have greatly enhanced early detection or prediction of hardware malfunctions. This paper presents the results of the development of a fault detection and diagnosis framework and the impact it has had on corrective and predictive maintenance schemes."
-featured: false
+featured: true
 publication: "*Observatory Operations: Strategies, Processes, and Systems VII*"
 tags: ["fault detection", "fault diagnosis", "observatory operations", "predictive maintenance"]
 url_pdf: "https://www.researchgate.net/publication/325550653_ALMA_engineering_fault_detection_framework"

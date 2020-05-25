@@ -1,9 +1,9 @@
 ---
 title: "Demand shaping in an electrical power grid"
 date: 2019-01-01
-publishDate: 2020-05-22T00:27:09.991313Z
+publishDate: 2019-01-01T00:00:00.00000Z
 authors: ["Rodrigo A Carrasco", "Ioannis Akrotirianakis", "Amit Chakraborty"]
-publication_types: ["0"]
+publication_types: ["8"]
 abstract: "Method for controlling flow of energy in smart electrical power network, involves controlling energy consumption of user based on optimal load shedding profile, optimal billing structure, and optimal load shifting profile."
 featured: false
 publication: "*EP2965282B1*"

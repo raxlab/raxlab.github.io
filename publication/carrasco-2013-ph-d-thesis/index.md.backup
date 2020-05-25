@@ -1,0 +1,14 @@
+---
+title: "Resource cost aware scheduling problems"
+date: 2013-01-01
+publishDate: 2020-05-22T00:51:49.920236Z
+authors: ["Rodrigo A. Carrasco"]
+publication_types: ["7"]
+abstract: "Managing the consumption of non-renewable and/or limited resources has become an impor-tant issue in many different settings. In this dissertation we explore the topic of resourcecost aware scheduling. Unlike the purely scheduling problems, in the resource cost awaresetting we are not only interested in a scheduling performance metric, but also the cost ofthe resources consumed to achieve a certain performance level. There are several ways in which the cost of non-renewal resources can be added into ascheduling problem. Throughout this dissertation we will focus in the case where the resourceconsumption cost is added, as part of the objective, to a scheduling performance metric suchas weighted completion time and weighted tardiness among others. In our work we make several contributions to the problem of scheduling with non-renewable resources."
+featured: false
+publication: "*Columbia University*"
+tags: ["approximation algorithms", "energy aware scheduling", "resource augmentation", "resource management", "scheduling"]
+url_pdf: "https://www.researchgate.net/publication/266395780_Resource_Cost_Aware_Scheduling_Problems"
+doi: "https://doi.org/10.7916/D8Z60WDX"
+---
+
