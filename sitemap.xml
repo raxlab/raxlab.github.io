@@ -4,7 +4,37 @@
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/200714-uaiphysics/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -53,17 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
-    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2020-05-23T22:25:44-04:00</lastmod>
   </url>
   
@@ -98,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
-    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/project/faultdetection/</loc>
     <lastmod>2020-05-23T22:22:45-04:00</lastmod>
   </url>
@@ -125,16 +140,6 @@
   <url>
     <loc>https://www.raxlab.science/members/rodrigo-a.-carrasco/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2020-05-07T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2020-05-07T22:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -333,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/i.-toledo/</loc>
+    <loc>https://www.raxlab.science/author/ignacio-toledo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,12 +368,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/s.-martin/</loc>
+    <loc>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</loc>
+    <loc>https://www.raxlab.science/author/sergio-martin/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

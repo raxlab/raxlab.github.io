@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergio Martin | Homepage</title>
+    <link>https://www.raxlab.science/author/sergio-martin/</link>
+      <atom:link href="https://www.raxlab.science/author/sergio-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergio Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/author/sergio-martin/avatar_hu2d1c3c9c2c218663740e97fbb66da976_32639_270x270_fill_lanczos_center_2.png</url>
+      <title>Sergio Martin</title>
+      <link>https://www.raxlab.science/author/sergio-martin/</link>
+    </image>
+    
+    <item>
+      <title>Astronomical Scheduling in the Era of Big Observatories</title>
+      <link>https://www.raxlab.science/publication/toledo-2019-as-adass-17/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/toledo-2019-as-adass-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

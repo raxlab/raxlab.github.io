@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ignacio Toledo | Homepage</title>
+    <link>https://www.raxlab.science/author/ignacio-toledo/</link>
+      <atom:link href="https://www.raxlab.science/author/ignacio-toledo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ignacio Toledo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/author/ignacio-toledo/avatar_hub6fbfa8c9acec38977755120e436a6b2_18807_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ignacio Toledo</title>
+      <link>https://www.raxlab.science/author/ignacio-toledo/</link>
+    </image>
+    
+    <item>
+      <title>Astronomical Scheduling in the Era of Big Observatories</title>
+      <link>https://www.raxlab.science/publication/toledo-2019-as-adass-17/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/toledo-2019-as-adass-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
