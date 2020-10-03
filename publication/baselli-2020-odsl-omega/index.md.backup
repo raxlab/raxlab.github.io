@@ -1,0 +1,14 @@
+---
+title: "Optimal decisions for salvage logging after wildfires"
+date: 2019-06-01
+publishDate: 2020-05-22T00:51:49.913229Z
+authors: ["Gianluca Baselli", "Felipe Contreras", "Matías Lillo", "Magdalena Marin", "Rodrigo A. Carrasco"]
+publication_types: ["2"]
+abstract: "Strategic, tactical, and operational harvesting plans for the forestry and logging industry have been widely studied for more than 60 years. Many different settings and specific constraints due to legal, environmental, and operational requirements have been modeled, improving the performance of the harvesting process significantly. During the summer of 2017, Chile suffered from the most massive wildfires in its history, affecting almost half a million hectares, of which nearly half were forests owned by medium and small forestry companies. Some of the stands were burned by intense crown fires, which always spread fast, that burned the foliage and outer layer of the bark but left standing dead trees that could be salvage harvested before insect and decay processes rendered them unusable for commercial purposes. Unlike the typical operational programming models studied in the past, in this setting, companies can make insurance claims on part or all of the burnt forest, whereas the rest of the forest needs to be harvested before it loses its value. This problem is known as the salvage logging problem. The issue also has an important social component when considering medium and small forestry and logging companies: most of their personnel come from local communities, which have already been affected by the fires. Harvesting part of the remaining forest can allow them to keep their jobs longer and, hopefully, leave the company in a better financial situation if the harvesting areas are correctly selected. In this work, we present a novel mixed-integer optimization-based approach to support salvage logging decisions, which helps in the configuration of operational-level harvesting and workforce assignment plan. Our model takes into account the payment from an insurance claim as well as future income from harvesting the remaining trees. The model also computes an optimal assignment of personnel to the different activities required. The objective is to improve the cash position of the company by the end of the harvest and ensure that the company is paying all its liabilities and maintaining personnel. We show how our model performs compared to the current decisions made by medium and small-sized forestry companies, and we study the specific case of a small forestry company located in Cauquenes, Chile, which used our model to decide its course of action."
+featured: true
+publication: "*Omega*"
+tags: ["forestry", "operations research", "resource allocation", "resource management", "scheduling"]
+url_pdf: "https://www.researchgate.net/publication/333613761_Optimal_decisions_for_salvage_logging_after_wildfires"
+doi: "10.1016/j.omega.2019.06.002"
+---
+

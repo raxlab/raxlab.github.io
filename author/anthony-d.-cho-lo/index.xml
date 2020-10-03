@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/anthony-d.-cho-lo/</link>
       <atom:link href="https://www.raxlab.science/author/anthony-d.-cho-lo/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthony D. Cho Lo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Sat, 23 May 2020 22:22:45 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/anthony-d.-cho-lo/avatar_hu4871b12f5fbf18428edb7f294de891ea_304029_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Anthony D. Cho Lo</title>
       <link>https://www.raxlab.science/author/anthony-d.-cho-lo/</link>
     </image>
+    
+    <item>
+      <title>Slow Degradation Fault Detection in a Harsh Environment</title>
+      <link>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive Maintenance</title>

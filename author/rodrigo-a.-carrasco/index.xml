@@ -5,12 +5,28 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Tue, 14 Jul 2020 19:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu21e25b6085a5390b1b944b51f69bfd1a_651171_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Slow Degradation Fault Detection in a Harsh Environment</title>
+      <link>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal decisions for salvage logging after wildfires</title>
+      <link>https://www.raxlab.science/publication/baselli-2020-odsl-omega/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/baselli-2020-odsl-omega/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Martes de Física y Astronomía / Physics and Astronomy Tuesdays.</title>
@@ -59,6 +75,14 @@
     </item>
     
     <item>
+      <title>Real-time fleet management decision support system with security constraints</title>
+      <link>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelos de Decisión ante crisis / Decision models for a crisis.</title>
       <link>https://www.raxlab.science/talk/200424-fic/</link>
       <pubDate>Fri, 24 Apr 2020 19:00:00 -0400</pubDate>
@@ -75,26 +99,10 @@
     </item>
     
     <item>
-      <title>Real-time fleet management decision support system with security constraints</title>
-      <link>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.raxlab.science/publication/barrera-2020-rtfm-top/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OPTIMA 2019</title>
       <link>https://www.raxlab.science/talk/191125-optima/</link>
       <pubDate>Mon, 25 Nov 2019 19:00:00 -0400</pubDate>
       <guid>https://www.raxlab.science/talk/191125-optima/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal decisions for salvage logging after wildfires</title>
-      <link>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.raxlab.science/publication/baselli-2019-odsl-omega/</guid>
       <description></description>
     </item>
     
