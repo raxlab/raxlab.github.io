@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/210513-uctemuco/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/201112-makersfair/</loc>
+    <lastmod>2020-11-12T16:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/authors/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/baselli-2020-odsl-omega/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -120,11 +135,6 @@
   <url>
     <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2020-07-14T19:00:00-04:00</lastmod>
   </url>
   
   <url>

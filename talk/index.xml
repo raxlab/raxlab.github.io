@@ -5,12 +5,28 @@
     <link>https://www.raxlab.science/talk/</link>
       <atom:link href="https://www.raxlab.science/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences and Science Communication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2021</copyright><lastBuildDate>Tue, 14 Jul 2020 19:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2021</copyright><lastBuildDate>Thu, 13 May 2021 15:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Conferences and Science Communication</title>
       <link>https://www.raxlab.science/talk/</link>
     </image>
+    
+    <item>
+      <title>National Engineering Day Web Seminar by Universidad Católica de Temuco</title>
+      <link>https://www.raxlab.science/talk/210513-uctemuco/</link>
+      <pubDate>Thu, 13 May 2021 15:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/210513-uctemuco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makers Fair Vina 2020.</title>
+      <link>https://www.raxlab.science/talk/201112-makersfair/</link>
+      <pubDate>Thu, 12 Nov 2020 16:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/201112-makersfair/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Martes de Física y Astronomía / Physics and Astronomy Tuesdays.</title>
