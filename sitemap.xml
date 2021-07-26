@@ -58,6 +58,31 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/publication-type/8/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/energy-management/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/storage-management/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/talk/</loc>
     <lastmod>2021-05-13T15:00:00-04:00</lastmod>
   </url>
@@ -178,11 +203,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/energy-management/</loc>
-    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/francisco-jara/</loc>
     <lastmod>2020-05-23T22:25:44-04:00</lastmod>
   </url>
@@ -204,11 +224,6 @@
   
   <url>
     <loc>https://www.raxlab.science/project/</loc>
-    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
     <lastmod>2020-05-23T22:25:44-04:00</lastmod>
   </url>
   
@@ -343,11 +358,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication-type/8/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/a.-hoffstadt/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -374,11 +384,6 @@
   
   <url>
     <loc>https://www.raxlab.science/publication/carrasco-2014-eupatent-1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -424,11 +429,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/sergio-martin/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/storage-management/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
