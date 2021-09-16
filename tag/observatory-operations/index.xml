@@ -5,12 +5,31 @@
     <link>https://www.raxlab.science/tag/observatory-operations/</link>
       <atom:link href="https://www.raxlab.science/tag/observatory-operations/index.xml" rel="self" type="application/rss+xml" />
     <description>observatory operations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2021</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2021</copyright><lastBuildDate>Fri, 23 Jul 2021 22:22:24 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>observatory operations</title>
       <link>https://www.raxlab.science/tag/observatory-operations/</link>
     </image>
+    
+    <item>
+      <title>Operations Research Tools Applied to Scheduling in Observatory Operations </title>
+      <link>https://www.raxlab.science/project/obervatoryops/</link>
+      <pubDate>Fri, 23 Jul 2021 22:22:24 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/obervatoryops/</guid>
+      <description>&lt;p&gt;The problem of scheduling operations in astronomical observatories has been tackled in many different ad-hoc ways. Although it is a central task in an observatory’s operation, which affects the utilization and throughput of observations, extensive manual intervention is still required in almost all observatories. Little resources have been invested in optimizing the scheduling’s efficiency, which, in the case of large-scale observatories like ALMA or VLT, might result in significant cost-effective improvements. This issue gains importance since observatory operations have increased in complexity, with plenty of sources of uncertainty.&lt;/p&gt;
+&lt;p&gt;This issue has a lot in common with problems typically found in other industries. Here, operations research tools have been used to develop solutions for many related problems: from scheduling production plans to routing delivery vehicles. These tools and methodologies have been a source of efficiency, allowing organizations to do more with limited resources.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to connect these two worlds, kickstarting and fostering interdisciplinary research between operations research and astronomy operations, by tackling one of the most relevant problems: optimal scheduling of operations. The focus will be to develop and apply operations research tools to construct decision support systems that can help managers improve efficiency and utilization.&lt;/p&gt;
+&lt;p&gt;This project is funded by grant ASTRO20-0058 from ANID and by the Atacama Large Millimeter Array (ALMA) Radio Telescope.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead Researcher: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Associate Researchers: Andrés Jordán, Vincent Suc, Rafael Brahm&lt;/li&gt;
+&lt;li&gt;Engineers: Benjamín Bastidas, Constanza Lorca&lt;/li&gt;
+&lt;li&gt;Students: Looking for motivated students to work in this topic!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Slow Degradation Fault Detection in a Harsh Environment</title>
@@ -35,25 +54,6 @@
       <guid>https://www.raxlab.science/project/faultdetection/</guid>
       <description>&lt;p&gt;We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.&lt;/p&gt;
 &lt;p&gt;This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Operations Research Tools Applied to Scheduling in Observatory Operations </title>
-      <link>https://www.raxlab.science/project/obervatoryops/</link>
-      <pubDate>Sat, 23 May 2020 22:22:24 -0400</pubDate>
-      <guid>https://www.raxlab.science/project/obervatoryops/</guid>
-      <description>&lt;p&gt;The problem of scheduling operations in astronomical observatories has been tackled in many different ad-hoc ways. Although it is a central task in an observatory’s operation, which affects the utilization and throughput of observations, extensive manual intervention is still required in almost all observatories. Little resources have been invested in optimizing the scheduling’s efficiency, which, in the case of large-scale observatories like ALMA or VLT, might result in significant cost-effective improvements. This issue gains importance since observatory operations have increased in complexity, with plenty of sources of uncertainty.&lt;/p&gt;
-&lt;p&gt;This issue has a lot in common with problems typically found in other industries. Here, operations research tools have been used to develop solutions for many related problems: from scheduling production plans to routing delivery vehicles. These tools and methodologies have been a source of efficiency, allowing organizations to do more with limited resources.&lt;/p&gt;
-&lt;p&gt;The objective of this project is to connect these two worlds, kickstarting and fostering interdisciplinary research between operations research and astronomy operations, by tackling one of the most relevant problems: optimal scheduling of operations. The focus will be to develop and apply operations research tools to construct decision support systems that can help managers improve efficiency and utilization.&lt;/p&gt;
-&lt;p&gt;This project is funded by grant ASTRO20-0058 from ANID and by the Atacama Large Millimeter Array (ALMA) Radio Telescope.&lt;/p&gt;
-&lt;p&gt;Project Team:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead Researcher: Rodrigo A. Carrasco&lt;/li&gt;
-&lt;li&gt;Associate Researchers: Andrés Jordán, Vincent Suc, Rafael Brahm&lt;/li&gt;
-&lt;li&gt;Engineers: Benjamín Bastidas, Constanza Lorca&lt;/li&gt;
-&lt;li&gt;Students: Looking for motivated students to work in this topic!&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
