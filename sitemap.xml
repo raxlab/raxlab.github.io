@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/macarena-azar/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/211105-umichigan/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2021-11-05T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/carrasco-2021-ors-ejor/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/macarena-azar/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -54,11 +74,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/susana-mondschein/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,17 +163,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/210513-uctemuco/</loc>
-    <lastmod>2021-05-13T15:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
     <lastmod>2021-05-13T15:00:00-04:00</lastmod>
   </url>
   
@@ -744,6 +749,10 @@
   
   <url>
     <loc>https://www.raxlab.science/author/bruno-che-leon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/camila-marcuello/</loc>
   </url>
   
   <url>
