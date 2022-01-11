@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/publication/</link>
       <atom:link href="https://www.raxlab.science/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://www.raxlab.science/publication/</link>
     </image>
+    
+    <item>
+      <title>Dealing with Uncertain Surgery Times in Operating Room Scheduling</title>
+      <link>https://www.raxlab.science/publication/carrasco-2021-ors-ejor/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2021-ors-ejor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using smartphone photographs of the Moon to acquaint students with non-Euclidean geometry</title>
