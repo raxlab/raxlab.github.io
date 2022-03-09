@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science | Homepage</title>
+    <link>https://www.raxlab.science/tag/data-science/</link>
+      <atom:link href="https://www.raxlab.science/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>data science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Wed, 09 Mar 2022 18:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>data science</title>
+      <link>https://www.raxlab.science/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Interview at Radio Guayacán</title>
+      <link>https://www.raxlab.science/talk/220309-guayacan/</link>
+      <pubDate>Wed, 09 Mar 2022 18:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/220309-guayacan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
