@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/publication-type/2/</link>
       <atom:link href="https://www.raxlab.science/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://www.raxlab.science/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A RUL Estimation System from Clustered Run-to-Failure Degradation Signals</title>
+      <link>https://www.raxlab.science/publication/cho-2022-rul-sensors/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/cho-2022-rul-sensors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving prescriptive maintenance by incorporating post-prognostic information through chance constraints</title>
