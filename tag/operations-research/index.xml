@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/tag/operations-research/</link>
       <atom:link href="https://www.raxlab.science/tag/operations-research/index.xml" rel="self" type="application/rss+xml" />
     <description>operations research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Wed, 09 Mar 2022 18:30:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Sat, 18 Jun 2022 09:30:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>operations research</title>
       <link>https://www.raxlab.science/tag/operations-research/</link>
     </image>
+    
+    <item>
+      <title>CNN Divergentes (in Spanish)</title>
+      <link>https://www.raxlab.science/talk/220618-cnn/</link>
+      <pubDate>Sat, 18 Jun 2022 09:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/220618-cnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interview at Radio Guayacán</title>
@@ -97,6 +105,14 @@
       <link>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://www.raxlab.science/publication/baselli-2019-sl-bddss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todo por la Ciencia (in Spanish)</title>
+      <link>https://www.raxlab.science/talk/180302-t13/</link>
+      <pubDate>Fri, 02 Mar 2018 09:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/180302-t13/</guid>
       <description></description>
     </item>
     

@@ -63,6 +63,31 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
+    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/220618-cnn/</loc>
+    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/data-science/</loc>
+    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication/cho-2022-prmain-ieeeaccess/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -98,22 +123,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2022-03-09T18:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/data-science/</loc>
-    <lastmod>2022-03-09T18:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/220309-guayacan/</loc>
-    <lastmod>2022-03-09T18:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
     <lastmod>2022-03-09T18:30:00-04:00</lastmod>
   </url>
   
@@ -533,6 +543,11 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/talk/180302-t13/</loc>
+    <lastmod>2018-03-02T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication-type/0/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -775,6 +790,10 @@
   <url>
     <loc>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/andres-lagos/</loc>
   </url>
   
   <url>
