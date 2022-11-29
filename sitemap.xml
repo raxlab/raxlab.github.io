@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/data-science/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/221129-pauta/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2022-11-29T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +54,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/authors/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,37 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/analytics/</loc>
-    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/220618-cnn/</loc>
-    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/data-science/</loc>
-    <lastmod>2022-06-18T09:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
     <lastmod>2022-06-18T09:30:00-04:00</lastmod>
   </url>
   

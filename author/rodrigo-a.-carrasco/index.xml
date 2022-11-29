@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2022</copyright><lastBuildDate>Tue, 29 Nov 2022 09:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu21e25b6085a5390b1b944b51f69bfd1a_651171_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Pauta de Negocios (in Spanish)</title>
+      <link>https://www.raxlab.science/talk/221129-pauta/</link>
+      <pubDate>Tue, 29 Nov 2022 09:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/221129-pauta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A RUL Estimation System from Clustered Run-to-Failure Degradation Signals</title>
