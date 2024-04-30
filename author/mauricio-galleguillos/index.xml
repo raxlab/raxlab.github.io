@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauricio Galleguillos | Homepage</title>
+    <link>https://www.raxlab.science/author/mauricio-galleguillos/</link>
+      <atom:link href="https://www.raxlab.science/author/mauricio-galleguillos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mauricio Galleguillos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>Mauricio Galleguillos</title>
+      <link>https://www.raxlab.science/author/mauricio-galleguillos/</link>
+    </image>
+    
+    <item>
+      <title>Is the change deforestation? Using time-series analysis of satellite data to disentangle deforestation from other forest degradation causes</title>
+      <link>https://www.raxlab.science/publication/fuentes-2024-forest-rsase/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/fuentes-2024-forest-rsase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

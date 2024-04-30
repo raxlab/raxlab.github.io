@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2023</copyright><lastBuildDate>Wed, 17 May 2023 09:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu21e25b6085a5390b1b944b51f69bfd1a_651171_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Is the change deforestation? Using time-series analysis of satellite data to disentangle deforestation from other forest degradation causes</title>
+      <link>https://www.raxlab.science/publication/fuentes-2024-forest-rsase/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/fuentes-2024-forest-rsase/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opportunities and challenges of generative AI</title>
