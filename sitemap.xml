@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/publication-type/1/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/alfredo-de-rodt/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gianfranco-speroni/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jorge-garcia/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/luis-aburto/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/predictive-analytics/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/scheduling/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2024-ueqf-spie/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/talk/240513-13c/</loc>
     <lastmod>2024-05-13T08:30:00-04:00</lastmod>
   </url>
@@ -18,11 +88,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2024-05-13T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/</loc>
     <lastmod>2024-05-13T08:30:00-04:00</lastmod>
   </url>
@@ -34,16 +99,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2024-05-13T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2024-05-13T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2024-05-13T08:30:00-04:00</lastmod>
   </url>
   
@@ -88,16 +143,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication_types/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/susana-eyheramendy/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -124,11 +169,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
-    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -164,11 +204,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/operating-room-scheduling/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -480,11 +515,6 @@
   <url>
     <loc>https://www.raxlab.science/talk/191125-optima/</loc>
     <lastmod>2019-11-25T19:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication-type/1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -860,10 +890,6 @@
   <url>
     <loc>https://www.raxlab.science/publication/carrasco-2002-sg-acca/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/alfredo-de-rodt/</loc>
   </url>
   
   <url>
