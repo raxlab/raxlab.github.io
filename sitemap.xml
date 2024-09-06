@@ -893,10 +893,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/members/alfredo-de-rodt/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/andres-catlan/</loc>
   </url>
   
@@ -929,6 +925,14 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/luis-arias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/matilde-valdes/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/author/paula-oyarzun/</loc>
   </url>
   
@@ -946,6 +950,10 @@
   
   <url>
     <loc>https://www.raxlab.science/author/sebastian-roldan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/tomas-couso/</loc>
   </url>
   
 </urlset>
