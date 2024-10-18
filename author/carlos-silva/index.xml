@@ -5,7 +5,7 @@
     <link>https://www.raxlab.science/author/carlos-silva/</link>
       <atom:link href="https://www.raxlab.science/author/carlos-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Silva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Sat, 23 May 2020 22:25:44 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/carlos-silva/avatar_hu5da9d84d262e47af44e917614f301512_7864_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Carlos Silva</title>
@@ -13,10 +13,67 @@
     </image>
     
     <item>
+      <title>FONDEF PlASMa</title>
+      <link>https://www.raxlab.science/project/fondef2024plasma/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/fondef2024plasma/</guid>
+      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
+&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
+&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
+&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
+&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PolPub Onco</title>
+      <link>https://www.raxlab.science/project/polpub2024onco/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/polpub2024onco/</guid>
+      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
+&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
+&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
+&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
+&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FONDECYT</title>
+      <link>https://www.raxlab.science/project/fondecyt2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/fondecyt2023/</guid>
+      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
+&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
+&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
+&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
+&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GEMS: variable-Generation Energy Management with Storage</title>
-      <link>https://www.raxlab.science/project/energymanagement/</link>
+      <link>https://www.raxlab.science/project/fondef2020gema/</link>
       <pubDate>Sat, 23 May 2020 22:25:44 -0400</pubDate>
-      <guid>https://www.raxlab.science/project/energymanagement/</guid>
+      <guid>https://www.raxlab.science/project/fondef2020gema/</guid>
       <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
 &lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
 &lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
