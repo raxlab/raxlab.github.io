@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro Mac Cawley | Homepage</title>
+    <link>https://www.raxlab.science/author/alejandro-mac-cawley/</link>
+      <atom:link href="https://www.raxlab.science/author/alejandro-mac-cawley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro Mac Cawley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Sun, 13 Oct 2024 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>Alejandro Mac Cawley</title>
+      <link>https://www.raxlab.science/author/alejandro-mac-cawley/</link>
+    </image>
+    
+    <item>
+      <title>PLASMA: Analytical Platform for Maintenance Systems</title>
+      <link>https://www.raxlab.science/project/fondef2024plasma/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/fondef2024plasma/</guid>
+      <description>&lt;p&gt;The PLASMA project aims to enhance maintenance management in industrial settings by developing a cloud-based analytical platform that integrates advanced predictive and prescriptive algorithms. Initially designed for use in complex systems like the ALMA Radiotelescope, these algorithms will now be adapted and validated for broader industrial applications. The platform’s core focus is to predict equipment degradation and remaining useful life (RUL), allowing maintenance teams to preemptively address issues and optimize resource allocation.&lt;/p&gt;
+&lt;p&gt;In collaboration with Viña Concha y Toro, PLASMA will deploy its algorithms within bottling and packaging lines to minimize operational disruptions and reduce the costs associated with equipment downtime. The project involves a comprehensive analysis of sensor data and production metrics to calibrate the predictive models for accuracy in real-world scenarios. Alongside prediction capabilities, the platform will also support decision-making through stochastic optimization models that balance maintenance costs with equipment reliability.&lt;/p&gt;
+&lt;p&gt;The project’s end goal is a scalable, cloud-based platform capable of managing predictive maintenance across diverse industrial sectors. With the support of technology partner Orión, PLASMA will be designed for 24/7 digital support, providing a robust solution for maintenance planning and execution. By ensuring the flexibility to adapt to various industrial contexts, the platform has the potential to generate significant value by reducing operational costs and enhancing equipment availability across sectors like viticulture, mining, and manufacturing.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF IT24I0031 grant from ANID, and supported by Concha y Toro and Orion.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Director: Alejandro Mac Cawley&lt;/li&gt;
+&lt;li&gt;Subdirector: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Researchers: Gonzalo Ruz, Margarita Castro, Anthony Cho&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

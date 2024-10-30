@@ -3,98 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/author/alejandro-mac-cawley/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/carlos-silva/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/current/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/cesar-cerda/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/energy-management/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/project/fondef2024plasma/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/francisco-jara/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/helena-garcia/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <loc>https://www.raxlab.science/tag/maintenance/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/jocelyn-olivari/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <loc>https://www.raxlab.science/author/margarita-castro/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <loc>https://www.raxlab.science/project/fondef2024plasma/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/project/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
-    <lastmod>2024-08-30T00:00:00-04:00</lastmod>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -239,7 +209,22 @@
   
   <url>
     <loc>https://www.raxlab.science/project/polpub2024onco/</loc>
-    <lastmod>2024-03-01T00:00:00-04:00</lastmod>
+    <lastmod>2024-01-15T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/healthcare-management/</loc>
+    <lastmod>2024-01-15T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
+    <lastmod>2024-01-15T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-pena/</loc>
+    <lastmod>2024-01-15T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -248,7 +233,27 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
+    <lastmod>2023-03-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/diego-san-martin/</loc>
+    <lastmod>2023-03-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/luis-arias/</loc>
+    <lastmod>2023-03-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/project/fondecyt2023/</loc>
+    <lastmod>2023-03-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-munizaga/</loc>
     <lastmod>2023-03-01T00:00:00-04:00</lastmod>
   </url>
   
@@ -318,6 +323,11 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/tag/energy-management/</loc>
+    <lastmod>2021-10-07T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/talk/211007-jornadadiiio/</loc>
     <lastmod>2021-10-07T11:00:00-04:00</lastmod>
   </url>
@@ -345,6 +355,11 @@
   <url>
     <loc>https://www.raxlab.science/publication/caerols-2021-moon-ajp/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
+    <lastmod>2021-07-23T22:22:24-04:00</lastmod>
   </url>
   
   <url>
@@ -418,6 +433,11 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/publication/cho-2020-fdd-ieeeaccess/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
@@ -468,13 +488,38 @@
   </url>
   
   <url>
+    <loc>https://www.raxlab.science/author/carlos-silva/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/cesar-cerda/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/francisco-jara/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/project/fondef2020gema/</loc>
     <lastmod>2020-05-23T22:25:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/maintenance/</loc>
-    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
+    <loc>https://www.raxlab.science/author/helena-garcia/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jocelyn-olivari/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
+    <lastmod>2020-05-23T22:25:44-04:00</lastmod>
   </url>
   
   <url>
@@ -928,10 +973,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/andres-lagos/</loc>
   </url>
   
@@ -948,19 +989,11 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/diego-san-martin/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/javiera-foucaut/</loc>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/juan-jara/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/luis-arias/</loc>
   </url>
   
   <url>
@@ -977,10 +1010,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-munizaga/</loc>
   </url>
   
   <url>

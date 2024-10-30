@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jocelyn Dunstan | Homepage</title>
+    <link>https://www.raxlab.science/author/jocelyn-dunstan/</link>
+      <atom:link href="https://www.raxlab.science/author/jocelyn-dunstan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jocelyn Dunstan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Mon, 15 Jan 2024 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>Jocelyn Dunstan</title>
+      <link>https://www.raxlab.science/author/jocelyn-dunstan/</link>
+    </image>
+    
+    <item>
+      <title>Development of Oncology Waiting List Prioritization Strategies</title>
+      <link>https://www.raxlab.science/project/polpub2024onco/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/polpub2024onco/</guid>
+      <description>&lt;p&gt;This project focuses on improving access to cancer care in Chile by developing prioritization models for oncology waiting lists within the South Eastern Metropolitan Health Service. Cancer remains one of the leading causes of mortality in Chile, and the existing lack of standardized prioritization criteria has led to extensive and uneven waiting lists, particularly impacting disadvantaged socioeconomic groups. By enhancing the way oncology patients are prioritized for systemic therapies, such as chemotherapy, this project seeks to improve equity and efficiency within the public health system.&lt;/p&gt;
+&lt;p&gt;Our approach leverages data science and mathematical optimization to develop robust models for managing these waiting lists. The research involves a detailed mapping of current scheduling and prioritization processes for oncology treatments, which serves as the case study foundation. We will also conduct a comprehensive review of prioritization models in similar contexts to inform our methodology. Data quality assessments will allow us to identify actionable insights, and data extraction techniques will be applied to build effective decision-support tools based on available health data.&lt;/p&gt;
+&lt;p&gt;Through this project, we aim to create a framework for dynamic prioritization that can be tailored to capacity limitations and patient needs, incorporating constraints such as guaranteed health coverage and specific cancer treatment requirements. Beyond oncology, the methodologies and models developed here hold the potential for application in other areas of healthcare, providing a scalable solution for optimizing resource allocation and patient care across diverse medical fields.&lt;/p&gt;
+&lt;p&gt;This project is funded by Políticas Públicas UC grant.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Researchers: Jocelyn Dunstan, José Peña&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

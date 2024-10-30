@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Operations Research Tools Applied to Scheduling in Observatory Operations </title>
+      <title>Operations Research Tools Applied to Observatory Operations </title>
       <link>https://www.raxlab.science/project/obervatoryops/</link>
       <pubDate>Fri, 23 Jul 2021 22:22:24 -0400</pubDate>
       <guid>https://www.raxlab.science/project/obervatoryops/</guid>
@@ -80,11 +80,11 @@
     </item>
     
     <item>
-      <title>Predictive Maintenance</title>
+      <title>Prescriptive Maintenance</title>
       <link>https://www.raxlab.science/project/faultdetection/</link>
       <pubDate>Sat, 23 May 2020 22:22:45 -0400</pubDate>
       <guid>https://www.raxlab.science/project/faultdetection/</guid>
-      <description>&lt;p&gt;We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.&lt;/p&gt;
+      <description>&lt;p&gt;This project has two main lines of research. In one, we are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope. In a second line, we are developing decision support tools, based on stochastic optimization, to develop robust maintenance plans.&lt;/p&gt;
 &lt;p&gt;This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.&lt;/p&gt;
 </description>
     </item>

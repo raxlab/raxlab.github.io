@@ -5,12 +5,30 @@
     <link>https://www.raxlab.science/author/luis-arias/</link>
       <atom:link href="https://www.raxlab.science/author/luis-arias/index.xml" rel="self" type="application/rss+xml" />
     <description>Luis Arias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/luis-arias/avatar_hu0636e81a9acfce4cb83badeed7bc034b_127617_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Luis Arias</title>
       <link>https://www.raxlab.science/author/luis-arias/</link>
     </image>
+    
+    <item>
+      <title>Resource cost-aware scheduling problems under uncertainty</title>
+      <link>https://www.raxlab.science/project/fondecyt2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/fondecyt2023/</guid>
+      <description>&lt;p&gt;Our project addresses the critical balance between resource consumption and scheduling efficiency in settings where resources are limited or costly, such as astronomical observatories, manufacturing, and maintenance processes. Managing these constraints effectively can lead to substantial performance improvements but requires advanced techniques to weigh the trade-off between consuming resources and meeting scheduling demands. In many cases, resources, such as energy or workforce, are not only limited but also costly, adding an extra layer of complexity to scheduling tasks optimally.&lt;/p&gt;
+&lt;p&gt;A unique aspect of this research is its focus on scheduling under uncertainty, where key parameters, like job sizes or deadlines, may not be known beforehand. This complexity is particularly relevant to observatories in Chile, where variable factors such as sky quality or observation lengths affect task durations. Through collaboration with some of the largest observatories, we gain access to unique datasets and domain expertise, enabling us to test our methods in real-world scenarios. This approach also opens pathways to apply our findings in other industries that face similar scheduling and resource challenges.&lt;/p&gt;
+&lt;p&gt;We are developing a comprehensive set of prescriptive analytics tools, including new algorithms with strong theoretical guarantees and benchmarks that address these resource-cost-aware scheduling problems. Our work will involve constructing approximation algorithms using mathematical programming and resource augmentation techniques. We aim to build a publicly accessible repository of benchmark instances—using real-world data and factoring in uncertainties and various scheduling metrics—that will advance research in this field and provide robust, adaptable solutions for diverse applications.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDECYT 1231245 grant from ANID.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PI: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Co-PI: Gonzalo Ruz&lt;/li&gt;
+&lt;li&gt;Co-PI: Luis Aburto&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://www.raxlab.science/project/</link>
       <atom:link href="https://www.raxlab.science/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Sun, 13 Oct 2024 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,64 +13,60 @@
     </image>
     
     <item>
-      <title>FONDEF PlASMa</title>
+      <title>PLASMA: Analytical Platform for Maintenance Systems</title>
       <link>https://www.raxlab.science/project/fondef2024plasma/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 -0400</pubDate>
       <guid>https://www.raxlab.science/project/fondef2024plasma/</guid>
-      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
-&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
-&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+      <description>&lt;p&gt;The PLASMA project aims to enhance maintenance management in industrial settings by developing a cloud-based analytical platform that integrates advanced predictive and prescriptive algorithms. Initially designed for use in complex systems like the ALMA Radiotelescope, these algorithms will now be adapted and validated for broader industrial applications. The platform’s core focus is to predict equipment degradation and remaining useful life (RUL), allowing maintenance teams to preemptively address issues and optimize resource allocation.&lt;/p&gt;
+&lt;p&gt;In collaboration with Viña Concha y Toro, PLASMA will deploy its algorithms within bottling and packaging lines to minimize operational disruptions and reduce the costs associated with equipment downtime. The project involves a comprehensive analysis of sensor data and production metrics to calibrate the predictive models for accuracy in real-world scenarios. Alongside prediction capabilities, the platform will also support decision-making through stochastic optimization models that balance maintenance costs with equipment reliability.&lt;/p&gt;
+&lt;p&gt;The project’s end goal is a scalable, cloud-based platform capable of managing predictive maintenance across diverse industrial sectors. With the support of technology partner Orión, PLASMA will be designed for 24/7 digital support, providing a robust solution for maintenance planning and execution. By ensuring the flexibility to adapt to various industrial contexts, the platform has the potential to generate significant value by reducing operational costs and enhancing equipment availability across sectors like viticulture, mining, and manufacturing.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDEF IT24I0031 grant from ANID, and supported by Concha y Toro and Orion.&lt;/p&gt;
 &lt;p&gt;Project Team:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
-&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
-&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
-&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
-&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;li&gt;Director: Alejandro Mac Cawley&lt;/li&gt;
+&lt;li&gt;Subdirector: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Researchers: Gonzalo Ruz, Margarita Castro, Anthony Cho&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>PolPub Onco</title>
+      <title>Development of Oncology Waiting List Prioritization Strategies</title>
       <link>https://www.raxlab.science/project/polpub2024onco/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 -0400</pubDate>
       <guid>https://www.raxlab.science/project/polpub2024onco/</guid>
-      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
-&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
-&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+      <description>&lt;p&gt;This project focuses on improving access to cancer care in Chile by developing prioritization models for oncology waiting lists within the South Eastern Metropolitan Health Service. Cancer remains one of the leading causes of mortality in Chile, and the existing lack of standardized prioritization criteria has led to extensive and uneven waiting lists, particularly impacting disadvantaged socioeconomic groups. By enhancing the way oncology patients are prioritized for systemic therapies, such as chemotherapy, this project seeks to improve equity and efficiency within the public health system.&lt;/p&gt;
+&lt;p&gt;Our approach leverages data science and mathematical optimization to develop robust models for managing these waiting lists. The research involves a detailed mapping of current scheduling and prioritization processes for oncology treatments, which serves as the case study foundation. We will also conduct a comprehensive review of prioritization models in similar contexts to inform our methodology. Data quality assessments will allow us to identify actionable insights, and data extraction techniques will be applied to build effective decision-support tools based on available health data.&lt;/p&gt;
+&lt;p&gt;Through this project, we aim to create a framework for dynamic prioritization that can be tailored to capacity limitations and patient needs, incorporating constraints such as guaranteed health coverage and specific cancer treatment requirements. Beyond oncology, the methodologies and models developed here hold the potential for application in other areas of healthcare, providing a scalable solution for optimizing resource allocation and patient care across diverse medical fields.&lt;/p&gt;
+&lt;p&gt;This project is funded by Políticas Públicas UC grant.&lt;/p&gt;
 &lt;p&gt;Project Team:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
-&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
-&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
-&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
-&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;li&gt;Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Researchers: Jocelyn Dunstan, José Peña&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>FONDECYT</title>
+      <title>Resource cost-aware scheduling problems under uncertainty</title>
       <link>https://www.raxlab.science/project/fondecyt2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 -0400</pubDate>
       <guid>https://www.raxlab.science/project/fondecyt2023/</guid>
-      <description>&lt;p&gt;One of the exciting topics we&amp;rsquo;ve been working on is algorithms and models related to energy management, where uncertainty is a crucial element in the process. In particular, our focus is on building decision support tools for optimal storage management when a variable and intermittent energy source is used.&lt;/p&gt;
-&lt;p&gt;This project combines machine learning methodologies and stochastic optimization tools to develop optimal energy management systems for a system with photovoltaic generation, interconnection with the grid, and energy storage. If no storage is available, the decision is simple: if the generation is larger than our demand, we sell to the grid. Otherwise, we need to buy from the grid. However, when storage is present, the decision is more complex. Should we store the energy for future usage? Or maybe tomorrow, we will have a large surplus of energy that allows us to use the energy today, at a time when the price is high. When is the best time to sell, store, or use solar energy? We answer these questions through our research project by developing a prototype that implements the optimal decisions defined by our mathematical optimization models and measuring this approach&amp;rsquo;s benefits compared to today&amp;rsquo;s standard storage policies.&lt;/p&gt;
-&lt;p&gt;This project is funded by FONDEF ID19I10158 grant from ANID y has cloud resources thanks to the AWS Cloud Credit for Research program.&lt;/p&gt;
+      <description>&lt;p&gt;Our project addresses the critical balance between resource consumption and scheduling efficiency in settings where resources are limited or costly, such as astronomical observatories, manufacturing, and maintenance processes. Managing these constraints effectively can lead to substantial performance improvements but requires advanced techniques to weigh the trade-off between consuming resources and meeting scheduling demands. In many cases, resources, such as energy or workforce, are not only limited but also costly, adding an extra layer of complexity to scheduling tasks optimally.&lt;/p&gt;
+&lt;p&gt;A unique aspect of this research is its focus on scheduling under uncertainty, where key parameters, like job sizes or deadlines, may not be known beforehand. This complexity is particularly relevant to observatories in Chile, where variable factors such as sky quality or observation lengths affect task durations. Through collaboration with some of the largest observatories, we gain access to unique datasets and domain expertise, enabling us to test our methods in real-world scenarios. This approach also opens pathways to apply our findings in other industries that face similar scheduling and resource challenges.&lt;/p&gt;
+&lt;p&gt;We are developing a comprehensive set of prescriptive analytics tools, including new algorithms with strong theoretical guarantees and benchmarks that address these resource-cost-aware scheduling problems. Our work will involve constructing approximation algorithms using mathematical programming and resource augmentation techniques. We aim to build a publicly accessible repository of benchmark instances—using real-world data and factoring in uncertainties and various scheduling metrics—that will advance research in this field and provide robust, adaptable solutions for diverse applications.&lt;/p&gt;
+&lt;p&gt;This project is funded by FONDECYT 1231245 grant from ANID.&lt;/p&gt;
 &lt;p&gt;Project Team:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;PI/Director: Rodrigo A. Carrasco&lt;/li&gt;
-&lt;li&gt;Subdirector: Tito Homem-de-Mello&lt;/li&gt;
-&lt;li&gt;Researchers: Francisco Jara, Jocelyn Olivari, Gonzalo Ruz, Carlos Silva&lt;/li&gt;
-&lt;li&gt;Engineers: Benjamín Bastidas, José Luis Ortiz&lt;/li&gt;
-&lt;li&gt;Students: Anthony D. Cho, Helena García, César Cerda&lt;/li&gt;
+&lt;li&gt;PI: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Co-PI: Gonzalo Ruz&lt;/li&gt;
+&lt;li&gt;Co-PI: Luis Aburto&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Operations Research Tools Applied to Scheduling in Observatory Operations </title>
+      <title>Operations Research Tools Applied to Observatory Operations </title>
       <link>https://www.raxlab.science/project/obervatoryops/</link>
       <pubDate>Fri, 23 Jul 2021 22:22:24 -0400</pubDate>
       <guid>https://www.raxlab.science/project/obervatoryops/</guid>
@@ -128,11 +124,11 @@
     </item>
     
     <item>
-      <title>Predictive Maintenance</title>
+      <title>Prescriptive Maintenance</title>
       <link>https://www.raxlab.science/project/faultdetection/</link>
       <pubDate>Sat, 23 May 2020 22:22:45 -0400</pubDate>
       <guid>https://www.raxlab.science/project/faultdetection/</guid>
-      <description>&lt;p&gt;We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.&lt;/p&gt;
+      <description>&lt;p&gt;This project has two main lines of research. In one, we are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope. In a second line, we are developing decision support tools, based on stochastic optimization, to develop robust maintenance plans.&lt;/p&gt;
 &lt;p&gt;This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.&lt;/p&gt;
 </description>
     </item>
