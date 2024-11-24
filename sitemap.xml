@@ -3,17 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/data-science/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/healthcare/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-pena/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/241120-polpub/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2024-11-20T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/author/alejandro-mac-cawley/</loc>
     <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/authors/</loc>
     <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
@@ -53,43 +98,8 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/stochastic-optimization/</loc>
     <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/analytics/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/data-science/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/healthcare/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
   </url>
   
   <url>
@@ -219,11 +229,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
-    <lastmod>2024-01-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jose-pena/</loc>
     <lastmod>2024-01-15T00:00:00-04:00</lastmod>
   </url>
   
