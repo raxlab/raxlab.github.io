@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tomás Couso | Homepage</title>
-    <link>https://www.raxlab.science/author/tomas-couso/</link>
-      <atom:link href="https://www.raxlab.science/author/tomas-couso/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tomás Couso</description>
+    <title>echo state networks | Homepage</title>
+    <link>https://www.raxlab.science/tag/echo-state-networks/</link>
+      <atom:link href="https://www.raxlab.science/tag/echo-state-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>echo state networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2024</copyright><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.raxlab.science/author/tomas-couso/avatar_hu7c42c35fd0e155e966e1d4c18ddb52fd_125446_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Tomás Couso</title>
-      <link>https://www.raxlab.science/author/tomas-couso/</link>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>echo state networks</title>
+      <link>https://www.raxlab.science/tag/echo-state-networks/</link>
     </image>
     
     <item>
