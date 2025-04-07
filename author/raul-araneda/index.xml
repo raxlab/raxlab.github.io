@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl Araneda | Homepage</title>
+    <link>https://www.raxlab.science/author/raul-araneda/</link>
+      <atom:link href="https://www.raxlab.science/author/raul-araneda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl Araneda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright>
+    <image>
+      <url>https://www.raxlab.science/author/raul-araneda/avatar_hu3545d1f066c3a23781daab2859bf3113_31051_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Raúl Araneda</title>
+      <link>https://www.raxlab.science/author/raul-araneda/</link>
+    </image>
+    
+  </channel>
+</rss>

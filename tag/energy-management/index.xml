@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/tag/energy-management/</link>
       <atom:link href="https://www.raxlab.science/tag/energy-management/index.xml" rel="self" type="application/rss+xml" />
     <description>energy management</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 07 Oct 2021 11:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Tue, 25 Mar 2025 08:30:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>energy management</title>
       <link>https://www.raxlab.science/tag/energy-management/</link>
     </image>
+    
+    <item>
+      <title>Joining prediction and optimization: prescriptive scenario generation for energy management with storage </title>
+      <link>https://www.raxlab.science/talk/250325-heidelberg/</link>
+      <pubDate>Tue, 25 Mar 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250325-heidelberg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimización matemática: conectando predicción y prescripción para mejores decisiones</title>
