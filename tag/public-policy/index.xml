@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 | Homepage</title>
-    <link>https://www.raxlab.science/publication-type/6/</link>
-      <atom:link href="https://www.raxlab.science/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
-    <description>6</description>
+    <title>public policy | Homepage</title>
+    <link>https://www.raxlab.science/tag/public-policy/</link>
+      <atom:link href="https://www.raxlab.science/tag/public-policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>public policy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
-      <title>6</title>
-      <link>https://www.raxlab.science/publication-type/6/</link>
+      <title>public policy</title>
+      <link>https://www.raxlab.science/tag/public-policy/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.raxlab.science/publication/carrasco-2025-polpub/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.raxlab.science/publication/carrasco-2025-polpub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The online set aggregation problem</title>
-      <link>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</guid>
       <description></description>
     </item>
     

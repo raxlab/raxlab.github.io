@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/publication/</link>
       <atom:link href="https://www.raxlab.science/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://www.raxlab.science/publication/</link>
     </image>
+    
+    <item>
+      <title>Strategies for the Management and Prioritization of Oncology Waiting Lists in the Chilean Public Health System</title>
+      <link>https://www.raxlab.science/publication/carrasco-2025-polpub/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/carrasco-2025-polpub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhanced Detection of Human-Driven Forest Alterations using Echo State Networks</title>

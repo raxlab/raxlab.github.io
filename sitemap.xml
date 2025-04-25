@@ -3,12 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.raxlab.science/tag/analytics/</loc>
-    <lastmod>2025-03-25T08:30:00-04:00</lastmod>
+    <loc>https://www.raxlab.science/publication-type/6/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/healthcare/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/hospital-management/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-pena/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/public-policy/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/scheduling/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/carrasco-2025-polpub/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
     <lastmod>2025-03-25T08:30:00-04:00</lastmod>
   </url>
   
@@ -38,26 +98,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2025-03-25T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2025-03-25T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/healthcare/</loc>
-    <lastmod>2025-03-12T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jose-pena/</loc>
-    <lastmod>2025-03-12T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/250312-polpub/</loc>
     <lastmod>2025-03-12T08:30:00-04:00</lastmod>
   </url>
@@ -84,16 +124,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/paula-aguirre/</loc>
-    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication_types/</loc>
-    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,11 +198,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
-    <lastmod>2024-08-14T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/240814-cienciadedatos/</loc>
     <lastmod>2024-08-14T08:30:00-04:00</lastmod>
   </url>
@@ -204,11 +229,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/predictive-analytics/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -628,11 +648,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/hospital-management/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/barrera-2020-ors-aor/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -800,11 +815,6 @@
   <url>
     <loc>https://www.raxlab.science/publication/carrasco-2018-bench-md/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication-type/6/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
