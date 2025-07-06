@@ -5,12 +5,169 @@
     <link>https://www.raxlab.science/post/</link>
       <atom:link href="https://www.raxlab.science/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 04 Jul 2025 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Sun, 06 Jul 2025 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://www.raxlab.science/post/</link>
     </image>
+    
+    <item>
+      <title>IMT2200 Introducción a Ciencia de Datos</title>
+      <link>https://www.raxlab.science/post/teaching/imt2200-intocd/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/post/teaching/imt2200-intocd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Analizar datos es solo el comienzo: este curso enseña a transformarlos en decisiones, productos e impacto.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Vivimos rodeados de datos. Cada decisión en empresas, organizaciones públicas o investigaciones científicas puede apoyarse en evidencia si sabemos cómo extraerla y entenderla. Este curso entrega los fundamentos para navegar el mundo de la &lt;strong&gt;ciencia de datos&lt;/strong&gt;, una disciplina interdisciplinaria que combina matemáticas, estadística, programación y pensamiento crítico para transformar datos en valor.&lt;/p&gt;
+&lt;p&gt;Este curso forma parte del plan de pregrado del Instituto de Ingeniería Matemática y Computacional (IMC) de la Escuela de Ingeniería UC. Está diseñado para estudiantes que quieran iniciarse en el uso aplicado de datos, cubriendo herramientas modernas como &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;pandas&lt;/strong&gt;, &lt;strong&gt;Jupyter&lt;/strong&gt;, y algoritmos básicos de &lt;strong&gt;aprendizaje de máquina&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-por-qué-este-curso-es-clave-en-la-formación-actual&#34;&gt;🎓 ¿Por qué este curso es clave en la formación actual?&lt;/h2&gt;
+&lt;p&gt;Ciencia de datos es una de las habilidades más demandadas del mundo actual. Este curso busca que los estudiantes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprendan qué es ciencia de datos y cómo se usa en ciencia, industria y sociedad.&lt;/li&gt;
+&lt;li&gt;Aprendan a trabajar con datos reales: desde su recolección hasta su análisis y visualización.&lt;/li&gt;
+&lt;li&gt;Apliquen modelos estadísticos y de machine learning para hacer predicciones y tomar decisiones.&lt;/li&gt;
+&lt;li&gt;Se familiaricen con herramientas profesionales que se usan en la industria.&lt;/li&gt;
+&lt;li&gt;Desarrollen pensamiento crítico y reflexivo frente al uso de datos y algoritmos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Durante el semestre, los estudiantes participarán de &lt;strong&gt;clases prácticas&lt;/strong&gt;, resolverán tareas con datos reales, y asistirán a &lt;strong&gt;charlas con expertos del mundo académico y empresarial&lt;/strong&gt; que mostrarán cómo la ciencia de datos genera impacto en distintos dominios.&lt;/p&gt;
+&lt;h2 id=&#34;-contenidos-del-curso&#34;&gt;🧭 Contenidos del curso&lt;/h2&gt;
+&lt;p&gt;El curso se organiza en los siguientes módulos:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introducción a la ciencia de datos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Qué es ciencia de datos? ¿Por qué es importante?&lt;/li&gt;
+&lt;li&gt;Ciclo de vida de un proyecto de datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;ETL: Extracción, transformación y carga de datos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Acceso a fuentes de datos (APIs, CSV, scraping).&lt;/li&gt;
+&lt;li&gt;Limpieza, transformación y tipos de datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Fundamentos matemáticos y estadísticos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Estadística descriptiva.&lt;/li&gt;
+&lt;li&gt;Distribuciones y visualización.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Análisis exploratorio de datos (EDA)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualización univariada y multivariada.&lt;/li&gt;
+&lt;li&gt;Manejo de outliers, agrupamientos, correlaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Modelamiento estadístico y aprendizaje de máquina&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Regresión lineal.&lt;/li&gt;
+&lt;li&gt;Clasificación básica (logística, SVM).&lt;/li&gt;
+&lt;li&gt;Introducción a clustering y reducción de dimensionalidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Visualización y comunicación&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Buenas prácticas de visualización.&lt;/li&gt;
+&lt;li&gt;Herramientas para comunicar resultados y narrativas con datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-herramientas-y-software-recomendados&#34;&gt;🛠️ Herramientas y software recomendados&lt;/h2&gt;
+&lt;p&gt;Durante el curso se utiliza el lenguaje de programación &lt;strong&gt;Python&lt;/strong&gt; y sus principales bibliotecas para ciencia de datos. Se recomienda instalar el stack mediante &lt;strong&gt;Anaconda&lt;/strong&gt; o usar entornos como &lt;strong&gt;Google Colab&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python (vía Anaconda)&lt;/strong&gt;&lt;br&gt;
+👉 
+&lt;a href=&#34;https://www.anaconda.com/products/distribution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargar Anaconda&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jupyter Notebooks&lt;/strong&gt;&lt;br&gt;
+Entorno interactivo para análisis de datos reproducible.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://jupyter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jupyter.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;pandas, NumPy, matplotlib, seaborn, scikit-learn&lt;/strong&gt;&lt;br&gt;
+Bibliotecas base para análisis, visualización y modelamiento.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://scikit-learn.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scikit-learn.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;br&gt;
+Se utiliza para entregar tareas y proyectos.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://github.com/raxlab/imt2200-25s2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repositorio oficial del curso&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-libros-recomendados&#34;&gt;📚 Libros recomendados&lt;/h2&gt;
+&lt;p&gt;A continuación encontrarás una selección de libros útiles para reforzar y profundizar los contenidos del curso. Todos están en inglés, pero varios de ellos se complementan con notebooks y documentación en línea.&lt;/p&gt;
+&lt;h3 id=&#34;-texto-guía&#34;&gt;🔹 Texto guía&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wes McKinney (2022)&lt;/strong&gt; – &lt;em&gt;Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter&lt;/em&gt;. O’Reilly.&lt;br&gt;
+El libro esencial para aprender a manejar y transformar datos con pandas.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/44rHYyl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-textos-adicionales&#34;&gt;🔸 Textos adicionales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jake VanderPlas (2022)&lt;/strong&gt; – &lt;em&gt;Python Data Science Handbook: Essential Tools for Working with Data&lt;/em&gt;. O’Reilly.&lt;br&gt;
+Cobertura práctica de todo el stack de ciencia de datos con Python.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3TpswME&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Joel Grus (2019)&lt;/strong&gt; – &lt;em&gt;Data Science from Scratch: First Principles with Python&lt;/em&gt;. O’Reilly.&lt;br&gt;
+Explica desde cero los conceptos de ciencia de datos implementando algoritmos en Python.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3U3RGAB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Claus Wilke (2019)&lt;/strong&gt; – &lt;em&gt;Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures&lt;/em&gt;. O’Reilly.&lt;br&gt;
+Libro visualmente atractivo que enseña a diseñar gráficos informativos.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/40CRU5q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Provost &amp;amp; Fawcett (2013)&lt;/strong&gt; – &lt;em&gt;Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking&lt;/em&gt;. O’Reilly.&lt;br&gt;
+Expone el pensamiento detrás del análisis de datos aplicado a negocios.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4ly1Gyx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cathy O’Neil (2016)&lt;/strong&gt; – &lt;em&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy&lt;/em&gt;. Crown Books.&lt;br&gt;
+Un ensayo crítico sobre el impacto negativo de modelos mal diseñados.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3IfneRx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O’Neil &amp;amp; Schutt (2013)&lt;/strong&gt; – &lt;em&gt;Doing Data Science: Straight Talk from the Frontline&lt;/em&gt;. O’Reilly.&lt;br&gt;
+Conversaciones reales sobre cómo se hace ciencia de datos en la práctica.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4lh3prK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-proyectos-relacionados&#34;&gt;🔗 Proyectos relacionados&lt;/h2&gt;
+&lt;p&gt;El curso se conecta con proyectos reales desarrollados en RAX Lab, donde se aplican herramientas similares:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/saviia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🌾 Plataforma SAVIIA para datos científicos de campo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/polpub2024onco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;⚕️ Ciencia de datos en listas de espera oncológicas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2020gema/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📈 Monitoreo y análisis de microredes energéticas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Este curso es una puerta de entrada al mundo de la ciencia de datos: riguroso, ético, creativo y con impacto real. Si quieres aprender a pensar con datos y usarlos para transformar decisiones, este es tu punto de partida.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IND3200 Fundamentos de Optimización</title>

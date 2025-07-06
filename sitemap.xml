@@ -3,13 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/tag/analisis-de-datos/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2025-07-04T00:00:00-04:00</lastmod>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/categories/</loc>
-    <lastmod>2025-07-04T00:00:00-04:00</lastmod>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/ciencia-de-datos/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/category/cursos-pregrado/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/post/teaching/imt2200-intocd/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/machine-learning/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/post/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/python/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -38,22 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/post/</loc>
-    <lastmod>2025-07-04T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/redes/</loc>
-    <lastmod>2025-07-04T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2025-07-04T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2025-07-04T00:00:00-04:00</lastmod>
   </url>
   
@@ -404,11 +434,6 @@
   
   <url>
     <loc>https://www.raxlab.science/publication/fuentes-2024-forest-rsase/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/machine-learning/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url>
   
