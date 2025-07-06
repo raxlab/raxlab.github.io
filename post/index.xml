@@ -110,6 +110,33 @@ Un texto riguroso y exhaustivo que cubre tanto modelamiento como métodos. Está
 &lt;a href=&#34;http://web.mit.edu/15.053/www/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Versión gratuita online&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;-herramientas-y-software-recomendados&#34;&gt;🛠️ Herramientas y software recomendados&lt;/h2&gt;
+&lt;p&gt;Durante el curso se utilizan herramientas computacionales para resolver modelos y visualizar resultados. Estas plataformas permiten experimentar con ejemplos reales y desarrollar habilidades aplicadas en optimización.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gurobi Optimizer&lt;/strong&gt;&lt;br&gt;
+Uno de los solvers más potentes del mercado para programación lineal, entera y no lineal. Gratuito para uso académico.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://www.gurobi.com/academia/academic-program-and-licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargar Gurobi (Academic License)&lt;/a&gt;&lt;br&gt;
+👉 
+&lt;a href=&#34;https://www.gurobi.com/documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gurobi para Python (con documentación y notebooks)&lt;/a&gt;&lt;br&gt;
+👉 
+&lt;a href=&#34;https://www.gurobi.com/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso gratuito en Gurobi Academy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;OpenSolver para Excel&lt;/strong&gt;&lt;br&gt;
+Plugin gratuito que extiende las capacidades del Solver de Excel para resolver modelos lineales y enteros usando COIN-OR solvers. Ideal para modelar rápidamente en hojas de cálculo.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://opensolver.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargar OpenSolver&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Excel Solver (nativo)&lt;/strong&gt;&lt;br&gt;
+Herramienta integrada en Excel que permite resolver modelos simples. Útil para introducir la lógica de formulación y validación rápida de modelos pequeños.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía oficial de Solver en Excel&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Estas herramientas se utilizan tanto en clases como en las tareas del curso, por lo que es recomendable familiarizarse con al menos una de ellas.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Este curso es una excelente puerta de entrada a la optimización moderna. Si trabajas o te proyectas en áreas como operaciones, logística, planificación o gestión estratégica, los conceptos y herramientas de IND3200 serán parte esencial de tu arsenal profesional.&lt;/p&gt;
 </description>
