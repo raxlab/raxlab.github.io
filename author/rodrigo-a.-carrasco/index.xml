@@ -5,12 +5,123 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 04 Jul 2025 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>IND3200 Fundamentos de Optimización</title>
+      <link>https://www.raxlab.science/post/teaching/ind3200-fundopt/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/post/teaching/ind3200-fundopt/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    El arte de modelar para decidir bien.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;¿Cuál es la mejor forma de distribuir recursos escasos? ¿Cómo tomar decisiones óptimas en un entorno con múltiples restricciones?&lt;/p&gt;
+&lt;p&gt;Estas preguntas están en el corazón de la optimización. En un mundo empresarial y tecnológico que exige eficiencia, adaptabilidad y rigor, entender cómo formular y resolver modelos de optimización se convierte en una herramienta fundamental para cualquier profesional de la ingeniería.&lt;/p&gt;
+&lt;p&gt;Este curso forma parte del plan del &lt;strong&gt;Magíster en Ingeniería Industrial (MII)&lt;/strong&gt; de la Escuela de Ingeniería UC. Tiene como propósito introducir al estudiante en el paradigma de la &lt;strong&gt;optimización como herramienta de toma de decisiones&lt;/strong&gt;, enfatizando el modelamiento, la resolución computacional y la interpretación crítica de los resultados.&lt;/p&gt;
+&lt;h2 id=&#34;-por-qué-este-curso-es-clave-en-el-mii&#34;&gt;📘 ¿Por qué este curso es clave en el MII?&lt;/h2&gt;
+&lt;p&gt;Hoy, enfrentar decisiones en la industria sin el apoyo de herramientas cuantitativas es ineficiente y riesgoso. Este curso entrega fundamentos conceptuales y prácticos de &lt;strong&gt;investigación de operaciones&lt;/strong&gt;, que permiten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Formular modelos matemáticos que representen problemas reales de gestión.&lt;/li&gt;
+&lt;li&gt;Resolverlos con herramientas computacionales accesibles (como Excel).&lt;/li&gt;
+&lt;li&gt;Comprender la lógica detrás de los algoritmos de optimización y sus límites.&lt;/li&gt;
+&lt;li&gt;Aplicar lo aprendido en problemas relevantes en transporte, logística, planificación, diseño de redes, y más.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En pocas palabras, habilita a los estudiantes para diseñar e implementar soluciones eficientes en contextos reales y complejos.&lt;/p&gt;
+&lt;h2 id=&#34;-contenidos-del-curso&#34;&gt;🧭 Contenidos del curso&lt;/h2&gt;
+&lt;p&gt;El curso se organiza en los siguientes módulos principales:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introducción a la optimización&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Qué es optimizar: decisiones, variables, restricciones, objetivo.&lt;/li&gt;
+&lt;li&gt;Ejemplos motivadores en empresas y organizaciones.&lt;/li&gt;
+&lt;li&gt;Modelamiento en planillas de cálculo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Programación lineal&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Formulación y geometría de los modelos.&lt;/li&gt;
+&lt;li&gt;Método simplex y soluciones óptimas.&lt;/li&gt;
+&lt;li&gt;Dualidad y análisis de sensibilidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Programación entera&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelos con variables discretas.&lt;/li&gt;
+&lt;li&gt;Complejidad, ramificación y corte.&lt;/li&gt;
+&lt;li&gt;Ejemplos de decisiones binarias.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Optimización en redes&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Flujos de costo mínimo, transporte y asignación.&lt;/li&gt;
+&lt;li&gt;Flujo máximo y ruta más corta.&lt;/li&gt;
+&lt;li&gt;Representaciones mediante grafos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;libros-recomendados&#34;&gt;Libros recomendados&lt;/h2&gt;
+&lt;p&gt;A continuación encontrarás una selección de libros especialmente útiles para complementar el aprendizaje en este curso. Se incluyen textos guía y referencias adicionales que destacan por su claridad, enfoque aplicado o profundidad teórica. Cada título viene con un enlace afiliado directo a Amazon para adquirirlo, o a su fuente gratuita si corresponde.&lt;/p&gt;
+&lt;h3 id=&#34;-texto-guía&#34;&gt;🔹 Texto guía&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eiselt &amp;amp; Sandblom (2022)&lt;/strong&gt; – &lt;em&gt;Operations Research, A Model-Based Approach&lt;/em&gt;. Springer.&lt;br&gt;
+Este texto equilibra teoría y aplicaciones, con muchos ejemplos modelados desde un enfoque práctico. Es ideal como referencia base para el curso.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4ks4sDL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-textos-adicionales&#34;&gt;🔸 Textos adicionales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;H. Paul Williams (2013)&lt;/strong&gt; – &lt;em&gt;Model Building in Mathematical Programming&lt;/em&gt;. Wiley.&lt;br&gt;
+Una guía clara y completa sobre cómo transformar problemas reales en modelos matemáticos efectivos. Es altamente recomendable para quienes quieren desarrollar habilidades sólidas de modelamiento.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4kq5wIm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Denardo, E. (2011)&lt;/strong&gt; – &lt;em&gt;Linear Programming and Generalizations: A problem-based introduction with spreadsheets&lt;/em&gt;. Springer.&lt;br&gt;
+Introducción basada en problemas con uso intensivo de planillas, ideal para quienes buscan profundizar la programación lineal desde un enfoque aplicado.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4lxooqx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hillier &amp;amp; Lieberman (2023)&lt;/strong&gt; – &lt;em&gt;Introducción a la Investigación de Operaciones&lt;/em&gt;. McGraw-Hill.&lt;br&gt;
+Uno de los clásicos del área, con cobertura extensa y muchos ejercicios que refuerzan los conceptos fundamentales.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/44yIhG6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bertsimas, O&amp;rsquo;Hair y Pulleyblank (2016)&lt;/strong&gt; – &lt;em&gt;The Analytics Edge&lt;/em&gt;. Dynamic Ideas.&lt;br&gt;
+Aporta una visión moderna sobre cómo usar modelos cuantitativos para decidir mejor en entornos empresariales.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/45PEmqS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bradley, Hax &amp;amp; Magnanti (1977)&lt;/strong&gt; – &lt;em&gt;Applied Mathematical Programming&lt;/em&gt;. Addison-Wesley.&lt;br&gt;
+Un texto riguroso y exhaustivo que cubre tanto modelamiento como métodos. Está disponible gratuitamente en línea a través del MIT.&lt;br&gt;
+👉 
+&lt;a href=&#34;http://web.mit.edu/15.053/www/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Versión gratuita online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Este curso es una excelente puerta de entrada a la optimización moderna. Si trabajas o te proyectas en áreas como operaciones, logística, planificación o gestión estratégica, los conceptos y herramientas de IND3200 serán parte esencial de tu arsenal profesional.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fine-Tuned BERT-Based Model for Individual Log Anomaly Detection in Operational Monitoring at Paranal Observatory</title>
+      <link>https://www.raxlab.science/publication/catalan-2025-logparanal-ieeeaccess/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/catalan-2025-logparanal-ieeeaccess/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strategies for the Management and Prioritization of Oncology Waiting Lists in the Chilean Public Health System</title>

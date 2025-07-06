@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Zavala | Homepage</title>
+    <link>https://www.raxlab.science/author/pedro-zavala/</link>
+      <atom:link href="https://www.raxlab.science/author/pedro-zavala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Zavala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright>
+    <image>
+      <url>https://www.raxlab.science/author/pedro-zavala/avatar_hub3127c012132cbe97b5286bd701eead9_26924_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Pedro Zavala</title>
+      <link>https://www.raxlab.science/author/pedro-zavala/</link>
+    </image>
+    
+  </channel>
+</rss>
