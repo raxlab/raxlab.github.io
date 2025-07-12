@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ignacio-riego | Homepage</title>
+    <link>https://www.raxlab.science/author/ignacio-riego/</link>
+      <atom:link href="https://www.raxlab.science/author/ignacio-riego/index.xml" rel="self" type="application/rss+xml" />
+    <description>ignacio-riego</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Mon, 23 Jun 2025 08:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>ignacio-riego</title>
+      <link>https://www.raxlab.science/author/ignacio-riego/</link>
+    </image>
+    
+    <item>
+      <title>13th International Conference on Mathematical Methods in Reliability</title>
+      <link>https://www.raxlab.science/talk/250626-mmr/</link>
+      <pubDate>Mon, 23 Jun 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250626-mmr/</guid>
+      <description>&lt;p&gt;At &lt;strong&gt;MMR 2025&lt;/strong&gt;, our group contributed three presentations that reflect the breadth of our work at the intersection of data science, optimization, and maintenance engineering across diverse industries.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ignacio Riego&lt;/strong&gt; presented a data-driven solution for &lt;strong&gt;automated maintenance planning in the airline industry&lt;/strong&gt;, focusing on the creation of personalized maintenance checks. This work is part of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt;, which explores optimization and analytics strategies to improve large-scale maintenance operations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Andrés Catalán&lt;/strong&gt; shared a novel method for &lt;strong&gt;log anomaly detection in distributed systems&lt;/strong&gt;. His talk introduced a transformer-based approach combining sentiment analysis and explainability to enhance detection in complex environments. This research is also embedded within the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt;, addressing predictive modeling in high-frequency operational contexts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alejandro Maccawley and Ricardo Askenazy&lt;/strong&gt; presented a predictive model for &lt;strong&gt;equipment degradation in wine bottling lines&lt;/strong&gt;, using real-time sensor data to anticipate failures and optimize interventions. This work is part of the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;&lt;strong&gt;PLASMA project&lt;/strong&gt;&lt;/a&gt;, a collaboration with Viña Concha y Toro focused on applying prescriptive maintenance tools in the food and beverage sector.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, these talks demonstrate the versatility of our research group in applying cutting-edge analytical methods to real-world maintenance challenges, and the relevance of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;FONDECYT&lt;/a&gt; and 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;PLASMA&lt;/a&gt; initiatives in advancing applied research across industries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

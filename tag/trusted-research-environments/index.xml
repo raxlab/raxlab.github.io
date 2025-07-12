@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trusted research environments | Homepage</title>
+    <link>https://www.raxlab.science/tag/trusted-research-environments/</link>
+      <atom:link href="https://www.raxlab.science/tag/trusted-research-environments/index.xml" rel="self" type="application/rss+xml" />
+    <description>trusted research environments</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Mon, 16 Jun 2025 08:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>trusted research environments</title>
+      <link>https://www.raxlab.science/tag/trusted-research-environments/</link>
+    </image>
+    
+    <item>
+      <title>Advancing Research through Integrated Scientific and Operational Data Management and Governance</title>
+      <link>https://www.raxlab.science/talk/250618-pasc/</link>
+      <pubDate>Mon, 16 Jun 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250618-pasc/</guid>
+      <description>&lt;p&gt;Scientific field stations generate vast amounts of data, ranging from environmental measurements to operational logistics. However, the lack of structured data governance and integration strategies often hinders the full potential of these datasets, limiting their impact on research and decision-making. At Universidad Católica, we are developing a data platform designed to streamline the management, sharing, and utilization of scientific and operational data across the Regional Field Stations Network (RCER). This platform aims to provide researchers with reliable, well-organized, and accessible data by implementing robust governance models, standardized storage structures, and seamless cloud integration. By bridging scientific and operational data streams, we enhance reproducibility, data-driven decision-making, and interdisciplinary collaboration. A key component of this effort involves the development of local data management strategies that ensure field stations can efficiently capture and process their data before integrating with the broader system. In this presentation, we will discuss the challenges of scientific data governance in distributed field environments, the methodologies we are employing to create a scalable and sustainable data infrastructure, and the expected impact on research output. Through this initiative, we aim to empower scientists by unlocking the full potential of the data they generate, ultimately advancing research across multiple disciplines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -324,6 +324,41 @@ Herramienta integrada en Excel que permite resolver modelos simples. Útil para 
     </item>
     
     <item>
+      <title>13th International Conference on Mathematical Methods in Reliability</title>
+      <link>https://www.raxlab.science/talk/250626-mmr/</link>
+      <pubDate>Mon, 23 Jun 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250626-mmr/</guid>
+      <description>&lt;p&gt;At &lt;strong&gt;MMR 2025&lt;/strong&gt;, our group contributed three presentations that reflect the breadth of our work at the intersection of data science, optimization, and maintenance engineering across diverse industries.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ignacio Riego&lt;/strong&gt; presented a data-driven solution for &lt;strong&gt;automated maintenance planning in the airline industry&lt;/strong&gt;, focusing on the creation of personalized maintenance checks. This work is part of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt;, which explores optimization and analytics strategies to improve large-scale maintenance operations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Andrés Catalán&lt;/strong&gt; shared a novel method for &lt;strong&gt;log anomaly detection in distributed systems&lt;/strong&gt;. His talk introduced a transformer-based approach combining sentiment analysis and explainability to enhance detection in complex environments. This research is also embedded within the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt;, addressing predictive modeling in high-frequency operational contexts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alejandro Maccawley and Ricardo Askenazy&lt;/strong&gt; presented a predictive model for &lt;strong&gt;equipment degradation in wine bottling lines&lt;/strong&gt;, using real-time sensor data to anticipate failures and optimize interventions. This work is part of the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;&lt;strong&gt;PLASMA project&lt;/strong&gt;&lt;/a&gt;, a collaboration with Viña Concha y Toro focused on applying prescriptive maintenance tools in the food and beverage sector.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, these talks demonstrate the versatility of our research group in applying cutting-edge analytical methods to real-world maintenance challenges, and the relevance of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;FONDECYT&lt;/a&gt; and 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;PLASMA&lt;/a&gt; initiatives in advancing applied research across industries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advancing Research through Integrated Scientific and Operational Data Management and Governance</title>
+      <link>https://www.raxlab.science/talk/250618-pasc/</link>
+      <pubDate>Mon, 16 Jun 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250618-pasc/</guid>
+      <description>&lt;p&gt;Scientific field stations generate vast amounts of data, ranging from environmental measurements to operational logistics. However, the lack of structured data governance and integration strategies often hinders the full potential of these datasets, limiting their impact on research and decision-making. At Universidad Católica, we are developing a data platform designed to streamline the management, sharing, and utilization of scientific and operational data across the Regional Field Stations Network (RCER). This platform aims to provide researchers with reliable, well-organized, and accessible data by implementing robust governance models, standardized storage structures, and seamless cloud integration. By bridging scientific and operational data streams, we enhance reproducibility, data-driven decision-making, and interdisciplinary collaboration. A key component of this effort involves the development of local data management strategies that ensure field stations can efficiently capture and process their data before integrating with the broader system. In this presentation, we will discuss the challenges of scientific data governance in distributed field environments, the methodologies we are employing to create a scalable and sustainable data infrastructure, and the expected impact on research output. Through this initiative, we aim to empower scientists by unlocking the full potential of the data they generate, ultimately advancing research across multiple disciplines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Strategies for the Management and Prioritization of Oncology Waiting Lists in the Chilean Public Health System</title>
       <link>https://www.raxlab.science/publication/carrasco-2025-polpub/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
@@ -336,7 +371,11 @@ Herramienta integrada en Excel que permite resolver modelos simples. Útil para 
       <link>https://www.raxlab.science/talk/250325-heidelberg/</link>
       <pubDate>Tue, 25 Mar 2025 08:30:00 -0400</pubDate>
       <guid>https://www.raxlab.science/talk/250325-heidelberg/</guid>
-      <description></description>
+      <description>&lt;p&gt;At the &lt;strong&gt;1st Heidelberg–Chile Workshop on Scientific Computing&lt;/strong&gt;, I presented our research on prescriptive scenario generation for energy management in microgrids with renewable generation and battery storage. The talk focused on bridging the gap between prediction and optimization by integrating forecasting methods and scenario-based stochastic programming into a unified decision-making framework.&lt;/p&gt;
+&lt;p&gt;We explored techniques for generating decision-aware scenarios using adaptive partitioning methods and highlighted the shift from a “predict-then-optimize” approach to a “predict-and-optimize” paradigm. Results from simulation studies in residential microgrids demonstrated significant gains in operational efficiency compared to conventional control strategies.&lt;/p&gt;
+&lt;p&gt;This work is part of the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2020gema/&#34;&gt;&lt;strong&gt;GEMA project&lt;/strong&gt;&lt;/a&gt;, funded by FONDEF, and involves collaboration with colleagues and students across several institutions. The methods developed are currently being tested in real-world pilot implementations and cloud-based energy platforms.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -344,7 +383,10 @@ Herramienta integrada en Excel que permite resolver modelos simples. Útil para 
       <link>https://www.raxlab.science/talk/250312-polpub/</link>
       <pubDate>Wed, 12 Mar 2025 08:30:00 -0400</pubDate>
       <guid>https://www.raxlab.science/talk/250312-polpub/</guid>
-      <description></description>
+      <description>&lt;p&gt;On March 12, 2025, I published an opinion piece in &lt;em&gt;El País&lt;/em&gt; titled &lt;em&gt;“When Time Is Life: Innovation for Oncology Waiting Lists in Chile.”&lt;/em&gt; The article discusses how data-driven innovation can transform oncology waitlist management, reducing delays and improving access to timely care. It highlights key strategies—such as digitalization, automation, and optimization—to enhance both efficiency and equity in the Chilean healthcare system.&lt;/p&gt;
+&lt;p&gt;You can read the full article here: 
+&lt;a href=&#34;https://elpais.com/chile/2025-03-12/cuando-el-tiempo-es-vida-innovacion-para-las-listas-de-espera-oncologicas-en-chile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El País&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

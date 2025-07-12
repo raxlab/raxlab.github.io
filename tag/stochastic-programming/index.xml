@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stochastic programming | Homepage</title>
+    <link>https://www.raxlab.science/tag/stochastic-programming/</link>
+      <atom:link href="https://www.raxlab.science/tag/stochastic-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>stochastic programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Tue, 25 Mar 2025 08:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>stochastic programming</title>
+      <link>https://www.raxlab.science/tag/stochastic-programming/</link>
+    </image>
+    
+    <item>
+      <title>Joining prediction and optimization: prescriptive scenario generation for energy management with storage </title>
+      <link>https://www.raxlab.science/talk/250325-heidelberg/</link>
+      <pubDate>Tue, 25 Mar 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250325-heidelberg/</guid>
+      <description>&lt;p&gt;At the &lt;strong&gt;1st Heidelberg–Chile Workshop on Scientific Computing&lt;/strong&gt;, I presented our research on prescriptive scenario generation for energy management in microgrids with renewable generation and battery storage. The talk focused on bridging the gap between prediction and optimization by integrating forecasting methods and scenario-based stochastic programming into a unified decision-making framework.&lt;/p&gt;
+&lt;p&gt;We explored techniques for generating decision-aware scenarios using adaptive partitioning methods and highlighted the shift from a “predict-then-optimize” approach to a “predict-and-optimize” paradigm. Results from simulation studies in residential microgrids demonstrated significant gains in operational efficiency compared to conventional control strategies.&lt;/p&gt;
+&lt;p&gt;This work is part of the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2020gema/&#34;&gt;&lt;strong&gt;GEMA project&lt;/strong&gt;&lt;/a&gt;, funded by FONDEF, and involves collaboration with colleagues and students across several institutions. The methods developed are currently being tested in real-world pilot implementations and cloud-based energy platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
