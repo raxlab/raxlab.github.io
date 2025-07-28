@@ -3,12 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.raxlab.science/tag/analisis-de-datos/</loc>
-    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/data-science/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/healthcare/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/interview/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-pena/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/250728-biobio/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2025-07-28T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/analisis-de-datos/</loc>
     <lastmod>2025-07-06T00:00:00-04:00</lastmod>
   </url>
   
@@ -44,16 +99,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/python/</loc>
-    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2025-07-06T00:00:00-04:00</lastmod>
   </url>
   
@@ -148,12 +193,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/analytics/</loc>
-    <lastmod>2025-06-23T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/talk/</loc>
+    <loc>https://www.raxlab.science/tag/conference/</loc>
     <lastmod>2025-06-23T08:30:00-04:00</lastmod>
   </url>
   
@@ -168,22 +208,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2025-06-23T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/250618-pasc/</loc>
     <lastmod>2025-06-16T08:30:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/data-platforms/</loc>
-    <lastmod>2025-06-16T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/data-science/</loc>
     <lastmod>2025-06-16T08:30:00-04:00</lastmod>
   </url>
   
@@ -198,22 +228,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/healthcare/</loc>
-    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/hospital-management/</loc>
-    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jocelyn-dunstan/</loc>
-    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jose-pena/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -245,6 +260,11 @@
   <url>
     <loc>https://www.raxlab.science/tag/stochastic-programming/</loc>
     <lastmod>2025-03-25T08:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/opinion/</loc>
+    <lastmod>2025-03-12T08:30:00-04:00</lastmod>
   </url>
   
   <url>
