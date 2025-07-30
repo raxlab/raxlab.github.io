@@ -5,12 +5,25 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Mon, 28 Jul 2025 10:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Wed, 30 Jul 2025 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>La Florida Hospital Triples Oncology Appointments through Use of Data Science</title>
+      <link>https://www.raxlab.science/talk/250730-emol/</link>
+      <pubDate>Wed, 30 Jul 2025 10:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250730-emol/</guid>
+      <description>&lt;p&gt;This interview, published in &lt;em&gt;El Mercurio&lt;/em&gt;, highlights the results of an innovative pilot program that &lt;strong&gt;tripled oncology care capacity&lt;/strong&gt; at Hospital Dra. Eloísa Díaz de La Florida. The project combined &lt;strong&gt;data science&lt;/strong&gt;, &lt;strong&gt;process redesign&lt;/strong&gt;, and &lt;strong&gt;natural language processing&lt;/strong&gt; to transform scattered patient data into structured information for clinical management.&lt;/p&gt;
+&lt;p&gt;I discussed how our team—together with &lt;strong&gt;José Peña&lt;/strong&gt;, &lt;strong&gt;Jocelyn Dunstan&lt;/strong&gt;, and professionals from the Hospital de La Florida, developed a model that automates patient tracking, identifies care bottlenecks, and improves prioritization. By integrating data across systems, the pilot helped increase the number of patients managed from 900 to nearly 3,000 per care navigator.&lt;/p&gt;
+&lt;p&gt;The initiative demonstrates how &lt;strong&gt;algorithmic tools can support, not replace, clinical judgment&lt;/strong&gt;, and how innovation, when designed with system constraints in mind, can have immediate and scalable impact.&lt;/p&gt;
+&lt;p&gt;📰 
+&lt;a href=&#34;https://www.ing.uc.cl/wp-content/uploads/2025/07/6067186_4469944-scaled.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article (image)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Radio Interview: Managing Cancer Patient Pathways through Data</title>
