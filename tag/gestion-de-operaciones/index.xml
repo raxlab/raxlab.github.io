@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gestión de operaciones | Homepage</title>
+    <link>https://www.raxlab.science/tag/gestion-de-operaciones/</link>
+      <atom:link href="https://www.raxlab.science/tag/gestion-de-operaciones/index.xml" rel="self" type="application/rss+xml" />
+    <description>gestión de operaciones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Sat, 01 Mar 2025 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>gestión de operaciones</title>
+      <link>https://www.raxlab.science/tag/gestion-de-operaciones/</link>
+    </image>
+    
+    <item>
+      <title>ICS3213 Gestión de Operaciones</title>
+      <link>https://www.raxlab.science/post/teaching/ics3213-gesop/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 -0300</pubDate>
+      <guid>https://www.raxlab.science/post/teaching/ics3213-gesop/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Las operaciones son el corazón de toda organización. Este curso entrega las herramientas para entenderlas, analizarlas y mejorarlas.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;El curso &lt;strong&gt;ICS3213 - Gestión de Operaciones&lt;/strong&gt; entrega a los estudiantes herramientas analíticas para modelar, entender y tomar decisiones en sistemas operacionales complejos. Se estudian procesos de manufactura y servicios, desde una perspectiva cuantitativa, centrada en el diseño, eficiencia y mejora continua.&lt;/p&gt;
+&lt;p&gt;Este curso forma parte del plan de pregrado de Ingeniería Industrial y Sistemas, y está dirigido a estudiantes que quieran aplicar modelos de decisión y análisis para generar impacto en organizaciones públicas y privadas.&lt;/p&gt;
+&lt;h2 id=&#34;-por-qué-este-curso-es-clave-en-la-formación-actual&#34;&gt;🎓 ¿Por qué este curso es clave en la formación actual?&lt;/h2&gt;
+&lt;p&gt;La gestión de operaciones es esencial para comprender cómo funcionan y mejoran los sistemas que sostienen organizaciones modernas. En un contexto marcado por la incertidumbre, la digitalización y la necesidad de sostenibilidad, las herramientas de este curso permiten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analizar procesos y detectar cuellos de botella que afectan la eficiencia.&lt;/li&gt;
+&lt;li&gt;Entender cómo la variabilidad impacta el desempeño de sistemas en salud, manufactura, transporte o servicios.&lt;/li&gt;
+&lt;li&gt;Diseñar políticas de inventario y capacidad que equilibran costos, servicio y resiliencia.&lt;/li&gt;
+&lt;li&gt;Desarrollar una visión estratégica sobre cómo las operaciones generan ventajas competitivas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con ello, los estudiantes adquieren competencias aplicables en múltiples industrias, preparándose para liderar transformaciones basadas en datos y optimización.&lt;/p&gt;
+&lt;p&gt;Al finalizar el curso, los estudiantes serán capaces de:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelar procesos de producción y servicios utilizando herramientas cuantitativas.&lt;/li&gt;
+&lt;li&gt;Evaluar sistemas operacionales en base a métricas de eficiencia, capacidad y nivel de servicio.&lt;/li&gt;
+&lt;li&gt;Aplicar modelos de filas e inventarios para apoyar la toma de decisiones.&lt;/li&gt;
+&lt;li&gt;Analizar cuellos de botella y proponer mejoras basadas en datos.&lt;/li&gt;
+&lt;li&gt;Comprender el rol estratégico de la gestión de operaciones en distintas industrias.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-contenidos-del-curso&#34;&gt;🗺️ Contenidos del curso&lt;/h2&gt;
+&lt;p&gt;El curso está organizado en los siguientes módulos temáticos:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introducción a la Gestión de Operaciones&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición y objetivos.&lt;/li&gt;
+&lt;li&gt;Rol de las operaciones en organizaciones modernas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Modelamiento de Procesos y Análisis de Sistemas&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Representación de procesos productivos y de servicios.&lt;/li&gt;
+&lt;li&gt;Análisis de capacidad y tiempo de ciclo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Teoría de Colas y Flujo de Trabajo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistemas de espera y su impacto operacional.&lt;/li&gt;
+&lt;li&gt;Modelos M/M/1, M/M/s, y aplicaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Gestión de Inventarios&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelos EOQ y variantes.&lt;/li&gt;
+&lt;li&gt;Inventarios con demanda incierta.&lt;/li&gt;
+&lt;li&gt;Sistemas de revisión continua y periódica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Variabilidad y Desempeño de Sistemas&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Variabilidad, buffers y reglas de flujo.&lt;/li&gt;
+&lt;li&gt;Ley de Little y su interpretación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Calidad y Mejoramiento de Procesos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Control estadístico de calidad (SPC).&lt;/li&gt;
+&lt;li&gt;Estrategias de mejoramiento continuo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Sistemas Operacionales en Contexto&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Aplicaciones en salud, transporte, manufactura, retail.&lt;/li&gt;
+&lt;li&gt;Gestión ágil y sostenibilidad en operaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-libros-recomendados&#34;&gt;📚 Libros recomendados&lt;/h2&gt;
+&lt;p&gt;A continuación encontrarás una selección de libros útiles para reforzar y profundizar los contenidos del curso. Todos están en inglés, pero varios de ellos se complementan con notebooks y documentación en línea.&lt;/p&gt;
+&lt;h3 id=&#34;-texto-guía&#34;&gt;🔹 Texto guía&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jacobs, F. R., &amp;amp; Chase, R. B. (2023). &lt;em&gt;Operations and Supply Chain Management&lt;/em&gt; (17th Edition). McGraw-Hill.&lt;br&gt;
+Texto actualizado que cubre de manera integral la gestión de operaciones y cadenas de suministro, con un enfoque en aplicaciones prácticas y casos globales.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3HD3TcY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-textos-adicionales&#34;&gt;🔸 Textos adicionales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cachon, G., &amp;amp; Terwiesch, C. (2021). &lt;em&gt;Matching Supply with Demand: An Introduction to Operations Management&lt;/em&gt; (4th Edition). McGraw-Hill.&lt;br&gt;
+Una introducción clara y aplicada a la gestión de operaciones, centrada en el equilibrio entre oferta y demanda, con ejemplos prácticos y casos de estudio.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4ltSJFn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hopp, W. J., &amp;amp; Spearman, M. L. (2011). &lt;em&gt;Factory Physics&lt;/em&gt; (3rd Edition). Waveland Press.&lt;br&gt;
+Un clásico en gestión de operaciones que entrega un marco conceptual sólido para entender la dinámica de sistemas productivos, la variabilidad y las leyes fundamentales de la manufactura.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4mlJ590&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stevenson, W. J. (2020). &lt;em&gt;Operations Management&lt;/em&gt; (14th Edition). McGraw-Hill.&lt;br&gt;
+Texto ampliamente utilizado que cubre de manera integral los fundamentos de la gestión de operaciones, con ejemplos prácticos y aplicaciones en diversos sectores.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/474mnxC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-proyectos-relacionados&#34;&gt;🔗 Proyectos relacionados&lt;/h2&gt;
+&lt;p&gt;A lo largo del semestre se presentarán casos reales y visitas de invitados del mundo profesional para conectar los modelos con aplicaciones concretas. Además, el curso se vincula con proyectos de investigación en:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/polpub2024onco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🏥 Gestión de listas de espera en salud pública&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🍇 Optimización de mantenimiento en la industria vitivinícola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📊 Modelos de simulación y mejora de procesos productivos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ICS3213 - Gestión de Operaciones&lt;/strong&gt; es un curso que invita a pensar de forma rigurosa y aplicada sobre cómo diseñar mejores sistemas. Las operaciones bien gestionadas pueden transformar la experiencia de clientes y usuarios, mejorar la eficiencia y generar impacto real en organizaciones y comunidades.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
