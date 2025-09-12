@@ -5,12 +5,26 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Wed, 30 Jul 2025 10:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 11 Sep 2025 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Artificial City: Designing Future Scenarios through Data and AI</title>
+      <link>https://www.raxlab.science/talk/250911-planeo/</link>
+      <pubDate>Thu, 11 Sep 2025 10:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/250911-planeo/</guid>
+      <description>&lt;p&gt;TIn this interview with &lt;em&gt;Revista PLANEO&lt;/em&gt;, I discuss how data science can inform urban decision-making under uncertainty, bridging descriptive, predictive, and prescriptive analytics, while stressing governance, institutional capacity, and ethics. We talk about translating complex models into actionable tools for public decision-makers, the need for data literacy and transparent communication, and the risk of widening gaps if only wealthy cities can leverage data. I argue for shared repositories and collaboration mechanisms so that smaller or vulnerable municipalities can benefit as well, advancing fairer and more sustainable urban management.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The challenge is to prevent only the wealthiest cities from benefiting from the use of data… we need collaboration mechanisms and shared repositories…”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📰 
+&lt;a href=&#34;https://revistaplaneo.cl/2025/09/09/entrevista-a-rodrigo-carrasco-el-desafio-es-evitar-que-solo-las-ciudades-mas-ricas-puedan-beneficiarse-del-uso-de-datos-necesitamos-mecanismos-de-colaboracion-y-repositorios-compartidos-que-permit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the interview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La Florida Hospital Triples Oncology Appointments through Use of Data Science</title>
