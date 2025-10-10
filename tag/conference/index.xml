@@ -5,12 +5,22 @@
     <link>https://www.raxlab.science/tag/conference/</link>
       <atom:link href="https://www.raxlab.science/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>conference</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Mon, 23 Jun 2025 08:30:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Sun, 05 Oct 2025 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>conference</title>
       <link>https://www.raxlab.science/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>The RISE AI Conference</title>
+      <link>https://www.raxlab.science/talk/251008-rise/</link>
+      <pubDate>Sun, 05 Oct 2025 10:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/251008-rise/</guid>
+      <description>&lt;p&gt;Together with Paula Aguirre, VP of Digital Intelligence at UC Chile, we spoke at the inaugural &lt;strong&gt;RISE (Responsible, Inclusive, Safe &amp;amp; Ethical) AI Conference&lt;/strong&gt; at the University of Notre Dame (Oct 6–8, 2025), joining the panel &lt;strong&gt;“The Impact of AI in Latin America.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The discussion focused on enabling &lt;em&gt;equitable&lt;/em&gt; AI ecosystems in the region: strengthening data governance and interoperability, building talent and research capacity, expanding access to compute and secure data environments, and advancing collaborative models that translate AI research into public-good applications (health, environment, cities). We emphasized responsible deployment—explainability, accountability, and robust evaluation—so AI systems improve outcomes without widening structural gaps.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>13th International Conference on Mathematical Methods in Reliability</title>
