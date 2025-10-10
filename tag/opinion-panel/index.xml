@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opinion panel | Homepage</title>
+    <link>https://www.raxlab.science/tag/opinion-panel/</link>
+      <atom:link href="https://www.raxlab.science/tag/opinion-panel/index.xml" rel="self" type="application/rss+xml" />
+    <description>opinion panel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Wed, 17 May 2023 09:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>opinion panel</title>
+      <link>https://www.raxlab.science/tag/opinion-panel/</link>
+    </image>
+    
+    <item>
+      <title>Opportunities and challenges of generative AI</title>
+      <link>https://www.raxlab.science/talk/230517-ey/</link>
+      <pubDate>Wed, 17 May 2023 09:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/230517-ey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

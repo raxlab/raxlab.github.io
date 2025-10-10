@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seminar | Homepage</title>
+    <link>https://www.raxlab.science/tag/seminar/</link>
+      <atom:link href="https://www.raxlab.science/tag/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>seminar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Wed, 20 Nov 2024 08:30:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>seminar</title>
+      <link>https://www.raxlab.science/tag/seminar/</link>
+    </image>
+    
+    <item>
+      <title>Oncology Waitlist: Strategies for Management in Health Services</title>
+      <link>https://www.raxlab.science/talk/241120-polpub/</link>
+      <pubDate>Wed, 20 Nov 2024 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/241120-polpub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

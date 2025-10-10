@@ -5,12 +5,23 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Thu, 11 Sep 2025 10:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Tue, 07 Oct 2025 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Leading with Evidence in Times of Uncertainty</title>
+      <link>https://www.raxlab.science/talk/251007-emol/</link>
+      <pubDate>Tue, 07 Oct 2025 10:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/251007-emol/</guid>
+      <description>&lt;p&gt;This opinion column, published in &lt;em&gt;El Mercurio&lt;/em&gt;, argues that the &lt;strong&gt;value&lt;/strong&gt; of data work is realized in the prescriptive step: turning predictions into feasible actions under real-world constraints—“the predictive informs; the prescriptive decides.” It lays out what’s required to make that leap: rigorous data governance (quality, traceability, timeliness), explicit treatment of uncertainty (scenarios and robust optimization), short-cycle impact metrics, and decision governance (clear activation rules and explainability). Drawing on examples in health, environmental monitoring, and maintenance, it proposes a practical path: start from high-value problems, set honest baselines, formulate prescriptive models with actual constraints, pilot with counterfactual evaluation, and then institutionalize and scale.&lt;/p&gt;
+&lt;p&gt;📰 
+&lt;a href=&#34;https://ingenieriaindustrial.ing.uc.cl/blog/liderar-con-evidencia-en-tiempos-de-incertidumbre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Artificial City: Designing Future Scenarios through Data and AI</title>
