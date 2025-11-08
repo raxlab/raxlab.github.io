@@ -5,12 +5,104 @@
     <link>https://www.raxlab.science/category/cursos-magister/</link>
       <atom:link href="https://www.raxlab.science/category/cursos-magister/index.xml" rel="self" type="application/rss+xml" />
     <description>Cursos Magíster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 04 Jul 2025 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 -0300</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>Cursos Magíster</title>
       <link>https://www.raxlab.science/category/cursos-magister/</link>
     </image>
+    
+    <item>
+      <title>IND3750 Gestión de Operaciones Avanzada</title>
+      <link>https://www.raxlab.science/post/teaching/ind3750-gesopavz/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 -0300</pubDate>
+      <guid>https://www.raxlab.science/post/teaching/ind3750-gesopavz/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    La gestión es el puente entre los datos y la decisión: donde las hipótesis se encuentran con las restricciones, y la evidencia se convierte en acción.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;En un entorno de incertidumbre y cambio tecnológico acelerado, las operaciones requieren criterio más que recetas. Este curso invita a mirar con lupa las herramientas de OR, analítica e IA, evaluando cuándo funcionan, por qué, y con qué gobernanza pueden escalar en organizaciones reales.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IND3750&lt;/strong&gt; es un curso del &lt;strong&gt;Magíster en Ingeniería Industrial (MII)&lt;/strong&gt; orientado a revisar, con mirada crítica, desarrollos avanzados en &lt;strong&gt;Gestión de Operaciones&lt;/strong&gt;: optimización, cadenas de suministro, variabilidad e incertidumbre, &lt;em&gt;lean production&lt;/em&gt;, y el impacto reciente de &lt;strong&gt;analytics&lt;/strong&gt;, &lt;strong&gt;big data&lt;/strong&gt; y &lt;strong&gt;IA&lt;/strong&gt; en la disciplina. El foco está en &lt;strong&gt;entender límites y supuestos&lt;/strong&gt;, &lt;strong&gt;evaluar evidencia&lt;/strong&gt; y &lt;strong&gt;dimensionar condiciones de uso&lt;/strong&gt; en organizaciones reales.&lt;/p&gt;
+&lt;h2 id=&#34;-por-qué-este-curso-es-clave-en-el-mii&#34;&gt;🎓 ¿Por qué este curso es clave en el MII?&lt;/h2&gt;
+&lt;p&gt;Hoy, la complejidad de las operaciones requiere el apoyo de herramientas cuantitativas más sofisticadas. Pero en ese contexto es importante reconocer las limitaciones y ser críticos de cómo se pueden usar y el valor que generan, aprendiendo a reconocer su importancia y aplicabilidad. Es un ramo importante pues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pasar del paper al impacto exige &lt;strong&gt;pensamiento crítico&lt;/strong&gt;, &lt;strong&gt;validación rigurosa&lt;/strong&gt; y &lt;strong&gt;gobernanza de datos&lt;/strong&gt; (calidad, trazabilidad, oportunidad).&lt;/li&gt;
+&lt;li&gt;La toma de decisiones en operaciones implica &lt;strong&gt;incertidumbre&lt;/strong&gt;, &lt;strong&gt;recursos limitados&lt;/strong&gt; y &lt;strong&gt;trade-offs&lt;/strong&gt; entre costo, servicio, riesgo y sostenibilidad.&lt;/li&gt;
+&lt;li&gt;Los modelos (OR/ML/IA) solo generan valor si están &lt;strong&gt;correctamente especificados&lt;/strong&gt;, &lt;strong&gt;bien evaluados&lt;/strong&gt; (in/out-of-sample, ablation, contrafactual) y &lt;strong&gt;alineados con procesos y personas&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Formar líderes del MII implica &lt;strong&gt;defender decisiones auditables y explicables&lt;/strong&gt;, con métricas de impacto y criterios de transferencia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En pocas palabras, habilita a los estudiantes para identificar cómo encontrar herramientas avanzadas de gestión de operaciones y aplicarlas a sus organizaciones.&lt;/p&gt;
+&lt;h2 id=&#34;-contenidos-del-curso&#34;&gt;🧭 Contenidos del curso&lt;/h2&gt;
+&lt;p&gt;El curso se organiza en los siguientes módulos principales:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Estrategia y coordinación de operaciones&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Gestión de la cadena de abastecimiento y coordinación a nivel organizacional.&lt;/li&gt;
+&lt;li&gt;Optimización de procesos y planificación de recursos con enfoque de negocio.&lt;/li&gt;
+&lt;li&gt;Principios de Lean Production y su impacto en desempeño operacional.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Variabilidad, incertidumbre y decisión&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelamiento de la variabilidad y toma de decisiones bajo incertidumbre.&lt;/li&gt;
+&lt;li&gt;Gestión de inventarios y logística en contextos de alta complejidad.&lt;/li&gt;
+&lt;li&gt;Aplicaciones comparadas en manufactura, servicios y comercio electrónico.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Analytics e Industria 4.0&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Integración de investigación de operaciones con ciencia de datos y analítica avanzada.&lt;/li&gt;
+&lt;li&gt;Uso de Big Data, Machine Learning e IA en gestión moderna de operaciones.&lt;/li&gt;
+&lt;li&gt;Revisión crítica de literatura y casos para implementar soluciones basadas en datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-libros-recomendados&#34;&gt;📘 Libros recomendados&lt;/h2&gt;
+&lt;p&gt;A continuación encontrarás una selección de libros especialmente útiles para complementar el aprendizaje en este curso. Se incluyen textos guía y referencias adicionales que destacan por su claridad, enfoque aplicado o profundidad teórica. Cada título viene con un enlace afiliado directo a Amazon para adquirirlo, o a su fuente gratuita si corresponde.&lt;/p&gt;
+&lt;h3 id=&#34;-texto-guía&#34;&gt;🔹 Texto guía&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jacobs, F. R., &amp;amp; Chase, R. B. (2023). &lt;em&gt;Operations and Supply Chain Management&lt;/em&gt; (17th Edition). McGraw-Hill.&lt;br&gt;
+Texto actualizado que cubre de manera integral la gestión de operaciones y cadenas de suministro, con un enfoque en aplicaciones prácticas y casos globales.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3HD3TcY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-textos-adicionales&#34;&gt;🔸 Textos adicionales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cachon, G., &amp;amp; Terwiesch, C. (2021). &lt;em&gt;Matching Supply with Demand: An Introduction to Operations Management&lt;/em&gt; (4th Edition). McGraw-Hill.&lt;br&gt;
+Una introducción clara y aplicada a la gestión de operaciones, centrada en el equilibrio entre oferta y demanda, con ejemplos prácticos y casos de estudio.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/4ltSJFn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stevenson, W. J. (2020). &lt;em&gt;Operations Management&lt;/em&gt; (14th Edition). McGraw-Hill.&lt;br&gt;
+Texto ampliamente utilizado que cubre de manera integral los fundamentos de la gestión de operaciones, con ejemplos prácticos y aplicaciones en diversos sectores.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/474mnxC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cathy O’Neil (2016) – &lt;em&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy&lt;/em&gt;. Crown Books.&lt;br&gt;
+Un ensayo crítico sobre el impacto negativo de modelos mal diseñados.&lt;br&gt;
+👉 
+&lt;a href=&#34;https://amzn.to/3IfneRx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-proyectos-relacionados&#34;&gt;🔗 Proyectos relacionados&lt;/h2&gt;
+&lt;p&gt;Este curso se conecta con investigaciones aplicadas que hemos desarrollado:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2020gema/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Optimización estocástica para la gestión de energía&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📦 Modelos de optimización para planificación estratégica y operativa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/polpub2024onco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🏥 Planificación y priorización de listas de espera oncológicas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Este curso avanza el conocimiento en Gestión de Operaciones al &lt;strong&gt;integrar teoría de alto nivel con evaluación empírica y criterios de transferencia&lt;/strong&gt;, formando profesionales capaces de &lt;strong&gt;conectar datos, modelos y procesos&lt;/strong&gt; para tomar &lt;strong&gt;decisiones defendibles&lt;/strong&gt; que generen impacto real en sus organizaciones.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IND3200 Fundamentos de Optimización</title>
