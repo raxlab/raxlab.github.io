@@ -5,12 +5,30 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Tue, 25 Nov 2025 12:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Transforming Technological and Digital Knowledge into Innovation in RTOs</title>
+      <link>https://www.raxlab.science/talk/251126-waitro/</link>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/251126-waitro/</guid>
+      <description>&lt;p&gt;At the WAITRO LAC session on transforming technological and digital knowledge into innovation, we offered a two-part view from UC.&lt;/p&gt;
+&lt;p&gt;First, &lt;strong&gt;Nancy Rampaphorn&lt;/strong&gt; presented UC’s institutional framework for &lt;strong&gt;technology transfer&lt;/strong&gt;, showcasing the programs, agreements, and support services that translate research into innovation and partnerships with industry and the public sector.&lt;/p&gt;
+&lt;p&gt;Then, I presented &lt;strong&gt;SAVIIA&lt;/strong&gt;, UC’s trusted hybrid local–cloud platform that unifies RCER field-station data under clear governance (quality, traceability, timeliness). The focus was on local orchestration + cloud integration for reproducible pipelines that turn scientific and operational data into actionable, shareable research assets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key takeaways&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Governance-first data workflows (from capture to reuse) to ensure reliability and auditability.&lt;/li&gt;
+&lt;li&gt;Local-to-cloud architecture enabling offline robustness and scalable analytics.&lt;/li&gt;
+&lt;li&gt;From datasets to decisions: reusable pipelines supporting collaboration across stations and teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, the talks connected &lt;strong&gt;data governance &amp;amp; transfer infrastructure&lt;/strong&gt; as the twin engines for moving evidence into innovation across RTOs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IND3750 Gestión de Operaciones Avanzada</title>
