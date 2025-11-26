@@ -328,7 +328,7 @@ Conversaciones reales sobre cómo se hace ciencia de datos en la práctica.&lt;b
 &lt;p&gt;El curso se conecta con proyectos reales desarrollados por nuestro grupo de investigación, donde se aplican herramientas similares:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.raxlab.science/project/saviia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🌾 Plataforma SAVIIA para datos científicos de campo&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.raxlab.science/project/saviia2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🌾 Plataforma SAVIIA para datos científicos de campo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.raxlab.science/project/polpub2024onco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;⚕️ Ciencia de datos en listas de espera oncológicas&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -525,6 +525,57 @@ Herramienta integrada en Excel que permite resolver modelos simples. Útil para 
       <pubDate>Mon, 16 Jun 2025 08:30:00 -0400</pubDate>
       <guid>https://www.raxlab.science/talk/250618-pasc/</guid>
       <description>&lt;p&gt;Scientific field stations generate vast amounts of data, ranging from environmental measurements to operational logistics. However, the lack of structured data governance and integration strategies often hinders the full potential of these datasets, limiting their impact on research and decision-making. At Universidad Católica, we are developing a data platform designed to streamline the management, sharing, and utilization of scientific and operational data across the Regional Field Stations Network (RCER). This platform aims to provide researchers with reliable, well-organized, and accessible data by implementing robust governance models, standardized storage structures, and seamless cloud integration. By bridging scientific and operational data streams, we enhance reproducibility, data-driven decision-making, and interdisciplinary collaboration. A key component of this effort involves the development of local data management strategies that ensure field stations can efficiently capture and process their data before integrating with the broader system. In this presentation, we will discuss the challenges of scientific data governance in distributed field environments, the methodologies we are employing to create a scalable and sustainable data infrastructure, and the expected impact on research output. Through this initiative, we aim to empower scientists by unlocking the full potential of the data they generate, ultimately advancing research across multiple disciplines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAVIIA: Trusted Data Infrastructures for Field Science</title>
+      <link>https://www.raxlab.science/project/saviia2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/saviia2025/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    From data capture to decision: SAVIIA links local orchestration with cloud pipelines and governance so that field data can be trusted, reused, and scaled.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;what-is-saviia&#34;&gt;What is SAVIIA?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SAVIIA&lt;/strong&gt; (Sistema de Administración y Visualización de Información para la Investigación y Análisis) is a &lt;strong&gt;trusted data infrastructure&lt;/strong&gt; for UC’s &lt;strong&gt;Regional Field Stations Network (RCER)&lt;/strong&gt;. It integrates &lt;strong&gt;scientific&lt;/strong&gt; (sensors, surveys, imagery) and &lt;strong&gt;operational&lt;/strong&gt; data (logistics, maintenance, safety) through a common governance model and &lt;strong&gt;hybrid local–cloud&lt;/strong&gt; architecture, enabling &lt;strong&gt;reproducible pipelines&lt;/strong&gt;, &lt;strong&gt;auditable analyses&lt;/strong&gt;, and &lt;strong&gt;secure sharing&lt;/strong&gt; across teams.&lt;/p&gt;
+&lt;h2 id=&#34;why-it-matters&#34;&gt;Why it matters&lt;/h2&gt;
+&lt;p&gt;Field research suffers from fragmented sources, intermittent connectivity, and uneven practices. SAVIIA addresses this by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Standardizing&lt;/strong&gt; capture, metadata, and storage so datasets are &lt;strong&gt;FAIR&lt;/strong&gt; (findable, accessible, interoperable, reusable).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bridging&lt;/strong&gt; local constraints and cloud-scale analytics to support &lt;strong&gt;continuous, trustworthy&lt;/strong&gt; workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connecting&lt;/strong&gt; scientific and operational streams to improve &lt;strong&gt;data quality, reproducibility&lt;/strong&gt;, and &lt;strong&gt;decision-making&lt;/strong&gt; in stations and partner projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;architecture-at-a-glance&#34;&gt;Architecture at a glance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Local Orchestrator:&lt;/strong&gt; edge services for device/sensor ingestion, validation, caching, and scheduled exports; resilient to low/unstable connectivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud Integration:&lt;/strong&gt; versioned data lake + workflow engine for ETL/ELT, quality checks, and lineage; analytical sandboxes for teams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared Models &amp;amp; Views:&lt;/strong&gt; curated datasets, dashboards, and APIs for research, station operations, and stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-governance&#34;&gt;Data governance&lt;/h2&gt;
+&lt;p&gt;SAVIIA implements lightweight, enforceable rules centered on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Quality:&lt;/strong&gt; schema checks, unit validation, completeness, timeliness SLAs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traceability:&lt;/strong&gt; dataset identifiers, provenance, code–data–result linkage; reproducible notebooks/pipelines.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Access &amp;amp; Sharing:&lt;/strong&gt; roles, project spaces, embargo/visibility policies; clear licensing for reuse.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety &amp;amp; Ethics:&lt;/strong&gt; consent/acceptable-use registers; minimal exposure for sensitive fields.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-were-building-deliverables&#34;&gt;What we’re building (deliverables)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SAVIIA Local&lt;/strong&gt;: deployable edge stack (ingestion, validation, scheduling, secure sync).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAVIIA Cloud&lt;/strong&gt;: data lake + workflow templates; metadata registry; dataset catalogue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operations Kit&lt;/strong&gt;: runbooks, templates, QA playbooks, and “hello-station” examples.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization &amp;amp; APIs&lt;/strong&gt;: curated views and endpoints for research and station management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training &amp;amp; Onboarding&lt;/strong&gt;: short guides for station staff and researchers; governance checklists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;SAVIIA advances the state of practice by &lt;strong&gt;operationalizing governance&lt;/strong&gt; and &lt;strong&gt;linking edge capture with cloud analytics&lt;/strong&gt;, so field science can move from isolated datasets to &lt;strong&gt;reliable, decision-ready&lt;/strong&gt; evidence at scale.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Director: Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Students: Sol Covacich, Pedro Zavala, Catalina Ortega&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
