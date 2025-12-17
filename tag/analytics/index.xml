@@ -5,12 +5,38 @@
     <link>https://www.raxlab.science/tag/analytics/</link>
       <atom:link href="https://www.raxlab.science/tag/analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>analytics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2025</copyright><lastBuildDate>Sun, 30 Nov 2025 08:30:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>analytics</title>
       <link>https://www.raxlab.science/tag/analytics/</link>
     </image>
+    
+    <item>
+      <title>XV Chilean Conference on Operations Research</title>
+      <link>https://www.raxlab.science/talk/251130-optima/</link>
+      <pubDate>Sun, 30 Nov 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/talk/251130-optima/</guid>
+      <description>&lt;p&gt;At &lt;strong&gt;OPTIMA 2025 (XV Chilean Conference on Operations Research)&lt;/strong&gt;, our group shared three contributions spanning healthcare operations, log analytics for observatory systems, and industrial maintenance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diego San Martín&lt;/strong&gt; presented a robust routing framework for home hospitalization with interdisciplinary teams, addressing uncertainty in demand and travel times while balancing workload and service levels. This work is part of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt; co-authored with Rodrigo A. Carrasco.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Andrés Catalán&lt;/strong&gt; introduced a decision-oriented system relevance ranking for log analysis at ESO’s Paranal Observatory using an extended MULTIMOORA approach, supporting maintenance triage from high-volume operational logs. This work is part of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;&lt;strong&gt;FONDECYT project&lt;/strong&gt;&lt;/a&gt; with Rodrigo A. Carrasco and Gonzalo Ruz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alejandro Mac-Cawley&lt;/strong&gt; presented a study on predicting equipment degradation in wine bottling lines from sensor data (with T. Stuck, R. Askenasy, R. Carrasco-Schmidt, M. Castro, A. Cho, R. Luna, and G. Ruz). This contribution is part of the 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;&lt;strong&gt;PLASMA project&lt;/strong&gt;&lt;/a&gt; in collaboration with Viña Concha y Toro.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, these talks underline our focus on applying rigorous operations research and data-driven methods to real-world challenges in health services, large-scale technical systems, and industrial operations—advancing the impact of our 
+&lt;a href=&#34;https://www.raxlab.science/project/fondecyt2023/&#34;&gt;FONDECYT&lt;/a&gt; and 
+&lt;a href=&#34;https://www.raxlab.science/project/fondef2024plasma/&#34;&gt;PLASMA&lt;/a&gt; lines across domains.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IND3750 Gestión de Operaciones Avanzada</title>
