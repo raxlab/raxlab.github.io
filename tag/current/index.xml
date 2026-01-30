@@ -5,12 +5,66 @@
     <link>https://www.raxlab.science/tag/current/</link>
       <atom:link href="https://www.raxlab.science/tag/current/index.xml" rel="self" type="application/rss+xml" />
     <description>current</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Fri, 30 Jan 2026 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>current</title>
       <link>https://www.raxlab.science/tag/current/</link>
     </image>
+    
+    <item>
+      <title>PISMA-WP: Platform for Intelligent Socio‑Environmental Monitoring and Analysis</title>
+      <link>https://www.raxlab.science/project/avanzauc2026/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/avanzauc2026/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    From data to decisions in Western Patagonia: PISMA-WP builds explainable indicators with quality, lineage, and scalable access.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;what-is-pisma-wp&#34;&gt;What is PISMA-WP?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PISMA-WP&lt;/strong&gt; is an Avanza UC research project that pilots a &lt;strong&gt;socio-environmental monitoring platform&lt;/strong&gt; in the &lt;strong&gt;Exploradores Valley&lt;/strong&gt; at UC’s Patagonia Station. It integrates &lt;strong&gt;open satellite imagery&lt;/strong&gt; with &lt;strong&gt;local environmental instrumentation&lt;/strong&gt; and &lt;strong&gt;socio-territorial indicators&lt;/strong&gt; to produce &lt;strong&gt;actionable, explainable&lt;/strong&gt; metrics for territorial planning and conservation.&lt;/p&gt;
+&lt;h2 id=&#34;why-it-matters&#34;&gt;Why it matters&lt;/h2&gt;
+&lt;p&gt;Relying only on remote sensing limits local relevance and resolution. PISMA-WP addresses this by &lt;strong&gt;combining Earth observation with ground measurements and social signals&lt;/strong&gt; under a &lt;strong&gt;FAIR-aligned governance model&lt;/strong&gt;, improving &lt;strong&gt;reproducibility&lt;/strong&gt;, &lt;strong&gt;traceability&lt;/strong&gt;, and &lt;strong&gt;decision usefulness&lt;/strong&gt; for regional stakeholders.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Design data and governance architecture&lt;/strong&gt; with reproducible ingestion, metadata, versioning, and a &lt;strong&gt;catalog of indicators&lt;/strong&gt; with full lineage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implement multimodal fusion and explainable modeling&lt;/strong&gt; with &lt;strong&gt;uncertainty quantification&lt;/strong&gt; for priority processes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validate the prototype in the field&lt;/strong&gt; and benchmark against current baselines to assess technical and operational value.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;methods-and-architecture&#34;&gt;Methods and architecture&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Multimodal data cube:&lt;/strong&gt; satellite, climate, cartography, administrative records, mobility/text data, and station time series aligned in space and time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explainable GeoAI:&lt;/strong&gt; models with feature importance, calibration curves, and uncertainty bands, evaluated with spatially aware validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APIs and viewer:&lt;/strong&gt; versioned access to indicators and time series for analysts and decision makers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Governance and FAIR:&lt;/strong&gt; quality checks, provenance, roles and access policies, ethical safeguards, and documentation for reuse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Published &lt;strong&gt;variable and metadata catalog&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ETL pipelines&lt;/strong&gt; with orchestration and data quality controls.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model components&lt;/strong&gt; for change detection, fragmentation, and tourism-climate interactions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prototype API and web viewer&lt;/strong&gt; in the test environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Governance, security, ethics, and operations policies&lt;/strong&gt; approved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pilot-and-validation&#34;&gt;Pilot and validation&lt;/h2&gt;
+&lt;p&gt;The pilot focuses on the &lt;strong&gt;Exploradores Valley&lt;/strong&gt; with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technical validation:&lt;/strong&gt; metrics, thresholds, and reproducible results; temporal and spatial blocked cross-validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Field validation:&lt;/strong&gt; control points and local sensor comparisons.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operational exercises:&lt;/strong&gt; user studies with regional actors to test usefulness, time-to-insight, and adoption barriers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;connection-with-saviia&#34;&gt;Connection with SAVIIA&lt;/h2&gt;
+&lt;p&gt;PISMA-WP leverages &lt;strong&gt;SAVIIA&lt;/strong&gt; as a backbone for &lt;strong&gt;hybrid local–cloud data governance and reproducible pipelines&lt;/strong&gt;, enabling scalable integration across RCER stations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PISMA-WP advances applied GeoAI for territorial management by &lt;strong&gt;operationalizing multimodal fusion, explainability, and uncertainty&lt;/strong&gt; on top of &lt;strong&gt;governed, FAIR-compliant&lt;/strong&gt; data workflows, so local decisions can rely on &lt;strong&gt;transparent, reusable&lt;/strong&gt; evidence.&lt;/p&gt;
+&lt;p&gt;Project Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reseearchers: Alejandro Salazar, Rodrigo A. Carrasco&lt;/li&gt;
+&lt;li&gt;Students: Sabina Lemunao&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>SAVIIA: Trusted Data Infrastructures for Field Science</title>
