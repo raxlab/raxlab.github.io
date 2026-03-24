@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Fri, 30 Jan 2026 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Mon, 23 Mar 2026 19:30:00 -0300</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>Data science: the invisible engine solving emergencies in Chile</title>
+      <link>https://www.raxlab.science/talk/260323-13c/</link>
+      <pubDate>Mon, 23 Mar 2026 19:30:00 -0300</pubDate>
+      <guid>https://www.raxlab.science/talk/260323-13c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PISMA-WP: Platform for Intelligent Socio‑Environmental Monitoring and Analysis</title>

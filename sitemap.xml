@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/data-science/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/talk/260323-13c/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/interview/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/public-health/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/author/alejandro-salazar/</loc>
     <lastmod>2026-01-30T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/current/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/data-science/</loc>
     <lastmod>2026-01-30T00:00:00-04:00</lastmod>
   </url>
   
@@ -29,16 +69,6 @@
   
   <url>
     <loc>https://www.raxlab.science/project/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2026-01-30T00:00:00-04:00</lastmod>
   </url>
   
@@ -63,22 +93,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/talk/</loc>
-    <lastmod>2025-11-30T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/diego-san-martin/</loc>
     <lastmod>2025-11-30T08:30:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/natural-language-processing/</loc>
-    <lastmod>2025-11-30T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
     <lastmod>2025-11-30T08:30:00-04:00</lastmod>
   </url>
   
@@ -194,11 +214,6 @@
   
   <url>
     <loc>https://www.raxlab.science/talk/250911-planeo/</loc>
-    <lastmod>2025-09-11T10:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/interview/</loc>
     <lastmod>2025-09-11T10:00:00-04:00</lastmod>
   </url>
   
@@ -559,11 +574,6 @@
   
   <url>
     <loc>https://www.raxlab.science/project/fondef2024plasma/</loc>
-    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
     <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
   
