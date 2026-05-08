@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
       <atom:link href="https://www.raxlab.science/author/rodrigo-a.-carrasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo A. Carrasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Mon, 23 Mar 2026 19:30:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Tue, 21 Apr 2026 08:00:00 -0300</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/rodrigo-a.-carrasco/avatar_hu026587757f14f8b514635c55ac6745b9_60297_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo A. Carrasco</title>
       <link>https://www.raxlab.science/author/rodrigo-a.-carrasco/</link>
     </image>
+    
+    <item>
+      <title>The Data Mirage: You Cannot Drive Just by Looking in the Rearview Mirror</title>
+      <link>https://www.raxlab.science/talk/260421-emol/</link>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 -0300</pubDate>
+      <guid>https://www.raxlab.science/talk/260421-emol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data science: the invisible engine solving emergencies in Chile</title>
@@ -625,48 +633,49 @@ Herramienta integrada en Excel que permite resolver modelos simples. Útil para 
     </item>
     
     <item>
-      <title>SAVIIA: Trusted Data Infrastructures for Field Science</title>
+      <title>SAVIIA and ECHO: Trusted Data Infrastructures for Field Science</title>
       <link>https://www.raxlab.science/project/saviia2025/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 -0400</pubDate>
       <guid>https://www.raxlab.science/project/saviia2025/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    From data capture to decision: SAVIIA links local orchestration with cloud pipelines and governance so that field data can be trusted, reused, and scaled.
+    From data capture to decision: The SAVIIA and ECHO ecosystem links local orchestration (ECHO) with cloud pipelines and governance (SAVIIA) so that field data can be trusted, reused, and scaled.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;what-is-saviia&#34;&gt;What is SAVIIA?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;SAVIIA&lt;/strong&gt; (Sistema de Administración y Visualización de Información para la Investigación y Análisis) is a &lt;strong&gt;trusted data infrastructure&lt;/strong&gt; for UC’s &lt;strong&gt;Regional Field Stations Network (RCER)&lt;/strong&gt;. It integrates &lt;strong&gt;scientific&lt;/strong&gt; (sensors, surveys, imagery) and &lt;strong&gt;operational&lt;/strong&gt; data (logistics, maintenance, safety) through a common governance model and &lt;strong&gt;hybrid local–cloud&lt;/strong&gt; architecture, enabling &lt;strong&gt;reproducible pipelines&lt;/strong&gt;, &lt;strong&gt;auditable analyses&lt;/strong&gt;, and &lt;strong&gt;secure sharing&lt;/strong&gt; across teams.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-saviia-and-echo&#34;&gt;What are SAVIIA and ECHO?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SAVIIA&lt;/strong&gt; (Sistema de Administración y Visualización de Información para la Investigación y Análisis) and &lt;strong&gt;ECHO&lt;/strong&gt; (Edge Computing and Hardware Orchestration) form a &lt;strong&gt;trusted data infrastructure ecosystem&lt;/strong&gt; for UC&amp;rsquo;s &lt;strong&gt;Regional Field Stations Network (RCER)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ECHO&lt;/strong&gt; acts as the local edge orchestrator, capturing and validating data on-site. SAVIIA operates as the online platform, governing and integrating &lt;strong&gt;scientific&lt;/strong&gt; (sensors, surveys, imagery) and &lt;strong&gt;operational&lt;/strong&gt; data (logistics, maintenance, safety). Together, this &lt;strong&gt;hybrid local and cloud&lt;/strong&gt; architecture enables &lt;strong&gt;reproducible pipelines&lt;/strong&gt;, &lt;strong&gt;auditable analyses&lt;/strong&gt;, and &lt;strong&gt;secure sharing&lt;/strong&gt; across teams.&lt;/p&gt;
 &lt;h2 id=&#34;why-it-matters&#34;&gt;Why it matters&lt;/h2&gt;
-&lt;p&gt;Field research suffers from fragmented sources, intermittent connectivity, and uneven practices. SAVIIA addresses this by:&lt;/p&gt;
+&lt;p&gt;Field research suffers from fragmented sources, intermittent connectivity, and uneven practices. This ecosystem addresses this by:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Standardizing&lt;/strong&gt; capture, metadata, and storage so datasets are &lt;strong&gt;FAIR&lt;/strong&gt; (findable, accessible, interoperable, reusable).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bridging&lt;/strong&gt; local constraints and cloud-scale analytics to support &lt;strong&gt;continuous, trustworthy&lt;/strong&gt; workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bridging&lt;/strong&gt; local constraints through ECHO and cloud-scale analytics through SAVIIA to support &lt;strong&gt;continuous, trustworthy&lt;/strong&gt; workflows.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Connecting&lt;/strong&gt; scientific and operational streams to improve &lt;strong&gt;data quality, reproducibility&lt;/strong&gt;, and &lt;strong&gt;decision-making&lt;/strong&gt; in stations and partner projects.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;architecture-at-a-glance&#34;&gt;Architecture at a glance&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Local Orchestrator:&lt;/strong&gt; edge services for device/sensor ingestion, validation, caching, and scheduled exports; resilient to low/unstable connectivity.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cloud Integration:&lt;/strong&gt; versioned data lake + workflow engine for ETL/ELT, quality checks, and lineage; analytical sandboxes for teams.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shared Models &amp;amp; Views:&lt;/strong&gt; curated datasets, dashboards, and APIs for research, station operations, and stakeholders.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ECHO (Local Orchestrator):&lt;/strong&gt; edge services for device and sensor ingestion, validation, caching, and scheduled exports; resilient to low or unstable connectivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAVIIA (Cloud Integration):&lt;/strong&gt; versioned data lake and workflow engine for ETL and ELT processes, quality checks, and lineage; analytical sandboxes for teams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared Models and Views:&lt;/strong&gt; curated datasets, dashboards, and APIs for research, station operations, and stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;data-governance&#34;&gt;Data governance&lt;/h2&gt;
 &lt;p&gt;SAVIIA implements lightweight, enforceable rules centered on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Quality:&lt;/strong&gt; schema checks, unit validation, completeness, timeliness SLAs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Traceability:&lt;/strong&gt; dataset identifiers, provenance, code–data–result linkage; reproducible notebooks/pipelines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Access &amp;amp; Sharing:&lt;/strong&gt; roles, project spaces, embargo/visibility policies; clear licensing for reuse.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Safety &amp;amp; Ethics:&lt;/strong&gt; consent/acceptable-use registers; minimal exposure for sensitive fields.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traceability:&lt;/strong&gt; dataset identifiers, provenance, code, data, and result linkage; reproducible notebooks and pipelines.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Access and Sharing:&lt;/strong&gt; roles, project spaces, embargo and visibility policies; clear licensing for reuse.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety and Ethics:&lt;/strong&gt; consent and acceptable use registers; minimal exposure for sensitive fields.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;what-were-building-deliverables&#34;&gt;What we’re building (deliverables)&lt;/h2&gt;
+&lt;h2 id=&#34;what-we-are-building-deliverables&#34;&gt;What we are building (deliverables)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;SAVIIA Local&lt;/strong&gt;: deployable edge stack (ingestion, validation, scheduling, secure sync).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SAVIIA Cloud&lt;/strong&gt;: data lake + workflow templates; metadata registry; dataset catalogue.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Operations Kit&lt;/strong&gt;: runbooks, templates, QA playbooks, and “hello-station” examples.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Visualization &amp;amp; APIs&lt;/strong&gt;: curated views and endpoints for research and station management.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Training &amp;amp; Onboarding&lt;/strong&gt;: short guides for station staff and researchers; governance checklists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ECHO&lt;/strong&gt;: deployable edge stack (ingestion, validation, scheduling, secure sync).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAVIIA&lt;/strong&gt;: data lake and workflow templates; metadata registry; dataset catalogue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operations Kit&lt;/strong&gt;: runbooks, templates, QA playbooks, and hello station examples.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization and APIs&lt;/strong&gt;: curated views and endpoints for research and station management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training and Onboarding&lt;/strong&gt;: short guides for station staff and researchers; governance checklists.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;SAVIIA advances the state of practice by &lt;strong&gt;operationalizing governance&lt;/strong&gt; and &lt;strong&gt;linking edge capture with cloud analytics&lt;/strong&gt;, so field science can move from isolated datasets to &lt;strong&gt;reliable, decision-ready&lt;/strong&gt; evidence at scale.&lt;/p&gt;
+&lt;p&gt;The SAVIIA and ECHO ecosystem advances the state of practice by &lt;strong&gt;operationalizing governance&lt;/strong&gt; and &lt;strong&gt;linking edge capture with cloud analytics&lt;/strong&gt;, so field science can move from isolated datasets to &lt;strong&gt;reliable, decision-ready&lt;/strong&gt; evidence at scale.&lt;/p&gt;
 &lt;p&gt;Project Team:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Director: Rodrigo A. Carrasco&lt;/li&gt;
