@@ -1,0 +1,44 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Predictive Maintenance"
+summary: "Developing tools for fault detection and diagnosis, in order to construct predictive maintenance systems."
+authors: ["Rodrigo A. Carrasco", "Gonzalo Ruz", "Anthony Cho", "José Luis Ortiz"]
+tags: ["observatory operations", "fault detection", "fault diagnosis", "maintenance"]
+categories: []
+date: 2020-05-23T22:22:45-04:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: "Operations office at 5,200 masl at the ALMA Observatory."
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
+We are developing tools to detect and diagnose faults in an automatic fashion. Using machine learning and mathematical modeling techniques, we are developing algorithms to help in online deteccion of faults at the ALMA Radiotelescope.
+
+This work is partially funded by FIE-2016-V022 and 16IFI6626 CORFO Grants.

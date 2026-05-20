@@ -3,12 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.raxlab.science/tag/analytics/</loc>
-    <lastmod>2026-04-21T08:00:00-03:00</lastmod>
+    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/camila-marcuello/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/constanza-lorca/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/current/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/fault-detection/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/javier-i.-torres/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/prescriptivemaintenance/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/predictive-maintenance/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/project/obervatoryops/</loc>
+    <lastmod>2026-05-20T10:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/analytics/</loc>
     <lastmod>2026-04-21T08:00:00-03:00</lastmod>
   </url>
   
@@ -33,21 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2026-04-21T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2026-04-21T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2026-04-21T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/talk/260421-emol/</loc>
     <lastmod>2026-04-21T08:00:00-03:00</lastmod>
   </url>
@@ -63,11 +143,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
-    <lastmod>2026-03-23T19:30:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/public-health/</loc>
     <lastmod>2026-03-23T19:30:00-03:00</lastmod>
   </url>
@@ -78,27 +153,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/current/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/project/avanzauc2026/</loc>
     <lastmod>2026-01-30T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/project/</loc>
-    <lastmod>2026-01-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/alejandro-mac-cawley/</loc>
-    <lastmod>2025-11-30T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
     <lastmod>2025-11-30T08:30:00-04:00</lastmod>
   </url>
   
@@ -313,22 +373,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/juan-pablo-gil/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/observatory-operations/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/predictive-maintenance/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -583,11 +628,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/anthony-d.-cho-lo/</loc>
-    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/maintenance/</loc>
     <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url>
@@ -793,26 +833,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
-    <lastmod>2021-07-23T22:22:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/camila-marcuello/</loc>
-    <lastmod>2021-07-23T22:22:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/constanza-lorca/</loc>
-    <lastmod>2021-07-23T22:22:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/project/obervatoryops/</loc>
-    <lastmod>2021-07-23T22:22:24-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/carrasco-2019-clpatent-1/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url>
@@ -848,17 +868,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/fault-detection/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/fault-diagnosis/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/jose-luis-ortiz/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -945,11 +955,6 @@
   <url>
     <loc>https://www.raxlab.science/author/tito-homem-de-mello/</loc>
     <lastmod>2020-05-23T22:25:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/project/faultdetection/</loc>
-    <lastmod>2020-05-23T22:22:45-04:00</lastmod>
   </url>
   
   <url>
@@ -1422,10 +1427,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/diego-fuentes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/javier-i.-torres/</loc>
   </url>
   
   <url>

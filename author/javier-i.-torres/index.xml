@@ -5,12 +5,42 @@
     <link>https://www.raxlab.science/author/javier-i.-torres/</link>
       <atom:link href="https://www.raxlab.science/author/javier-i.-torres/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier I. Torres</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Wed, 20 May 2026 11:00:00 -0400</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/javier-i.-torres/avatar_hu285126d2b90118dde5f4a751ec186812_22831_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Javier I. Torres</title>
       <link>https://www.raxlab.science/author/javier-i.-torres/</link>
     </image>
+    
+    <item>
+      <title>Predictive &amp; Prescriptive Maintenance</title>
+      <link>https://www.raxlab.science/project/prescriptivemaintenance/</link>
+      <pubDate>Wed, 20 May 2026 11:00:00 -0400</pubDate>
+      <guid>https://www.raxlab.science/project/prescriptivemaintenance/</guid>
+      <description>&lt;p&gt;The evolution of industrial systems requires moving beyond merely predicting failures to actively orchestrating interventions. Our research bridges the gap between predictive analytics (estimating when a failure might occur) and prescriptive analytics (deciding exactly what to do about it under real-world constraints).&lt;/p&gt;
+&lt;p&gt;In a highly complex operational environment, knowing that a machine will fail is insufficient if the maintenance plan cannot accommodate the intervention. Our lab develops end-to-end decision support tools that connect these two layers.&lt;/p&gt;
+&lt;h3 id=&#34;predictive-analytics-anticipating-degradation-and-anomalies&#34;&gt;Predictive Analytics: Anticipating Degradation and Anomalies&lt;/h3&gt;
+&lt;p&gt;We design and deploy advanced machine learning models to monitor operational environments, process complex signals, and detect faults before they disrupt critical systems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;System Log Anomaly Detection:&lt;/strong&gt; We develop tools for continuous anomaly detection in massive system logs to support operational monitoring at the Paranal Observatory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Degradation and Remaining Useful Life:&lt;/strong&gt; We implement frameworks to identify slow degradation faults and estimate remaining useful life within harsh environments, allowing for early intervention at the ALMA Radiotelescope.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;prescriptive-analytics-from-data-to-decisions&#34;&gt;Prescriptive Analytics: From Data to Decisions&lt;/h3&gt;
+&lt;p&gt;To translate predictions into actionable strategies, we build combinatorial and stochastic optimization models that generate robust maintenance schedules.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Optimization Under Uncertainty:&lt;/strong&gt; We incorporate post-prognostic information and uncertainty metrics directly into our models to build true prescriptive maintenance systems that dictate the optimal time for intervention.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large-Scale Maintenance Planning:&lt;/strong&gt; We tackle resource-aware scheduling limitations to optimize long-term maintenance planning for fleets. Our models explicitly address strict safety requirements, regulatory constraints, and fleet availability targets, as demonstrated in our collaborative work with LATAM Airlines.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funding-and-support&#34;&gt;Funding and Support&lt;/h3&gt;
+&lt;p&gt;This continuous line of research is supported by the following grants:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FIE-2016-V022&lt;/li&gt;
+&lt;li&gt;16IFI6626 CORFO&lt;/li&gt;
+&lt;li&gt;FONDECYT 1231245&lt;/li&gt;
+&lt;li&gt;FONDEF IT2410031&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
