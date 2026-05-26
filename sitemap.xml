@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.raxlab.science/publication-type/2/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/chance-constraints/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/constanza-lorca/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/mixed-integer-programming/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/lorca-2026-salvagelogging-caie/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/salvage-logging/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/scheduling/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/uncertainty/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.raxlab.science/author/andres-catlan/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
@@ -13,22 +88,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/benjamin-bastidas/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/camila-marcuello/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/constanza-lorca/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
@@ -63,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/project/prescriptivemaintenance/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
@@ -78,22 +138,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/project/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
@@ -363,27 +408,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication-type/2/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/catalan-2025-logparanal-ieeeaccess/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/author/juan-pablo-gil/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication_types/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -469,11 +499,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/public-policy/</loc>
-    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1215,11 +1240,6 @@
   <url>
     <loc>https://www.raxlab.science/publication/carrasco-2018-osa-latin/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/chance-constraints/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
