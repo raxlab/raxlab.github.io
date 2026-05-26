@@ -815,7 +815,17 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In post-wildfire salvage logging, accurately estimating the available inventory of harvestable timber is subject to high uncertainty. This paper integrates chance constraints into a time-indexed mixed-integer programming framework to address these inventory estimation errors. By leveraging a grid-based linearized Chernoff-bound approximation for the model&rsquo;s chance constraints, the proposed approach ensures numerical stability and robust scheduling, minimizing the risks associated with the overestimation or underestimation of salvageable wood.</p>
+    <p class="pub-abstract"><p>As climate change intensifies the frequency of wildfires, the forestry sector faces increasingly complex operational challenges. In the immediate aftermath of a fire, managers have a rapidly closing window to make a high-stakes decision: attempt to salvage and harvest the damaged timber, or claim the insurance compensation? This is notoriously difficult because post-fire inventory estimates are highly uncertain, and poor planning can lead to stranded teams and severe financial and environmental overheads.</p>
+<p>In this paper, Constanza Lorca and I tackle this challenge by developing a stochastic optimization framework that embraces inventory uncertainty without sacrificing computational tractability.
+Key Contributions of our work:</p>
+<ul>
+<li>Risk-Aware Scheduling: We developed a time-indexed Mixed-Integer Linear Programming (MILP) model to allocate harvesting teams and sawmill capacity under strict planning horizons.</li>
+<li>Linearized Chernoff Bounds: To handle the inventory uncertainty, we integrated chance constraints via a grid-based linearized approximation of Chernoff bounds. This critical design choice allows the model to remain purely linear, leveraging the full power of exact solvers (like Gurobi) while tightly controlling the probability of schedule overruns.</li>
+<li>Tunable Risk Tolerance: The framework allows decision-makers to directly adjust a risk parameter, mathematically mapping the trade-off between financial performance and operational risk.</li>
+<li>Empirical Validation: Using real operational data from the Chilean forestry sector and 5,000 simulated realizations, we demonstrated that our chance-constrained approach significantly reduces the volume of unharvested timber compared to deterministic baselines.</li>
+</ul>
+<p>Beyond the methodology, the model translates these complex variables into interpretable managerial policies, helping operators prioritize forest stands based on the delicate balance of inventory risk, insurance value, and processing bottlenecks.</p>
+</p>
     
 
     
