@@ -4,12 +4,82 @@
   
   <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/anomaly-detection/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/authors/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/bert/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/distributed-systems/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/explainable-ai/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/catalan-2026-log-scirep/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/machine-learning/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/natural-language-processing/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/predictive-maintenance/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,22 +108,7 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication_types/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/lorca-2026-salvagelogging-caie/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,18 +123,8 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/uncertainty/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/andres-catlan/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/author/gonzalo-ruz/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/author/javier-i.-torres/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
@@ -129,11 +169,6 @@
   
   <url>
     <loc>https://www.raxlab.science/project/prescriptivemaintenance/</loc>
-    <lastmod>2026-05-20T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/predictive-maintenance/</loc>
     <lastmod>2026-05-20T11:00:00-04:00</lastmod>
   </url>
   
@@ -214,11 +249,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/diego-san-martin/</loc>
-    <lastmod>2025-11-30T08:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/natural-language-processing/</loc>
     <lastmod>2025-11-30T08:30:00-04:00</lastmod>
   </url>
   
@@ -369,11 +399,6 @@
   
   <url>
     <loc>https://www.raxlab.science/post/teaching/imt2200-intocd/</loc>
-    <lastmod>2025-07-06T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/machine-learning/</loc>
     <lastmod>2025-07-06T00:00:00-04:00</lastmod>
   </url>
   

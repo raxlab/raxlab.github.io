@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>explainable AI | Homepage</title>
+    <link>https://www.raxlab.science/tag/explainable-ai/</link>
+      <atom:link href="https://www.raxlab.science/tag/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>explainable AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
+      <title>explainable AI</title>
+      <link>https://www.raxlab.science/tag/explainable-ai/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable sentiment-aware transformer-based model for individual log anomaly detection in distributed systems using word-level explanations</title>
+      <link>https://www.raxlab.science/publication/catalan-2026-log-scirep/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/catalan-2026-log-scirep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

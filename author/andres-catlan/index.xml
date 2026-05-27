@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/andres-catlan/</link>
       <atom:link href="https://www.raxlab.science/author/andres-catlan/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrés Catlán</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Wed, 20 May 2026 11:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/author/andres-catlan/avatar_hu4f51a2da3350d562c20541d49d95c291_10051_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Andrés Catlán</title>
       <link>https://www.raxlab.science/author/andres-catlan/</link>
     </image>
+    
+    <item>
+      <title>Interpretable sentiment-aware transformer-based model for individual log anomaly detection in distributed systems using word-level explanations</title>
+      <link>https://www.raxlab.science/publication/catalan-2026-log-scirep/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/catalan-2026-log-scirep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive &amp; Prescriptive Maintenance</title>

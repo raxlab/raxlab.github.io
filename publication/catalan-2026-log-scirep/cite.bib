@@ -1,0 +1,10 @@
+@article{Catalan2026-scirep,
+	title = {Interpretable sentiment-aware transformer-based model for individual log anomaly detection in distributed systems using word-level explanations},
+	journal = {Scientific Reports},
+	year = {2026},
+	issn = {2045-2322},
+	doi = {10.1038/s41598-026-53847-z},
+	url = {https://doi.org/10.1038/s41598-026-53847-z},
+	author = {Andr\'{e}s H. Catal\'{a}n and Rodrigo A. Carrasco and Gonzalo A. Ruz},
+	abstract = {Logs are a primary source of information for monitoring the health, security, and performance of large-scale distributed systems such as cloud services and data centers. However, the volume and variability of log messages make manual inspection impractical and challenge traditional anomaly detection methods. In this work, we propose an interpretable, sentiment-aware transformer model for detecting anomalies in individual log entries. Our approach builds on the Bidirectional Encoder Representations from Transformers with In-Task Pre-Training and Fine-Tuning (BERT-ITPT-FiT) architecture, which leverages the natural-language content of logs while remaining parser-free and robust to format changes. To make the model’s decisions transparent, we combine it with SHapley Additive exPlanations (SHAP) and introduce a mapping from subword attributions to word-level importance scores, enabling operators to see which terms contribute most to a normal or anomalous classification. We evaluate the method on multiple publicly available system log datasets, reporting results separately for in-domain (training and testing on the same system) and out-of-domain (testing on previously unseen systems) scenarios. The proposed model achieves F1-scores up to 99.96% in-domain and 96.97% out-of-domain, indicating strong generalization across systems, and maintains an average processing throughput of approximately 3,750 log messages per second, supporting large-scale deployment. Beyond raw performance, our results show that scalability, semantic robustness, and interpretability are critical for building reliable anomaly detection tools for modern distributed infrastructures.}
+}
