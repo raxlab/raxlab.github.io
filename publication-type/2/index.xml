@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/publication-type/2/</link>
       <atom:link href="https://www.raxlab.science/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.raxlab.science/images/icon_hu5d34eb5e588cdfdf4e24081213af8ad4_29191_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://www.raxlab.science/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Scheduling Mixed-Criticality Systems on Varying-Speed Processors: A Meta-Reinforcement Learning Approach for Non-Preemptive Tasks</title>
+      <link>https://www.raxlab.science/publication/elmahdy-2026-mixedcrit-ieeeaccess/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/elmahdy-2026-mixedcrit-ieeeaccess/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpretable sentiment-aware transformer-based model for individual log anomaly detection in distributed systems using word-level explanations</title>

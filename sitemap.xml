@@ -4,7 +4,82 @@
   
   <url>
     <loc>https://www.raxlab.science/publication-type/2/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/authors/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/mixed-criticality-scheduling/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/muhammad-el-mahdy/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/non-preemptive-scheduling/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/nouri-sakr/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/operations-research/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication_types/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/real-time-systems/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/scheduling/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/publication/elmahdy-2026-mixedcrit-ieeeaccess/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tags/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/tag/varying-speed-processors/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +89,6 @@
   
   <url>
     <loc>https://www.raxlab.science/tag/anomaly-detection/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/authors/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,26 +133,6 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/publication_types/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/publication/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/rodrigo-a.-carrasco/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tags/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/tag/chance-constraints/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -98,27 +148,12 @@
   </url>
   
   <url>
-    <loc>https://www.raxlab.science/tag/operations-research/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/prescriptive-analytics/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.raxlab.science/publication/lorca-2026-salvagelogging-caie/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.raxlab.science/tag/salvage-logging/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/tag/scheduling/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -1488,14 +1523,6 @@
   
   <url>
     <loc>https://www.raxlab.science/author/matilde-valdes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/muhammad-el-mahdy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.raxlab.science/author/nouri-sakr/</loc>
   </url>
   
   <url>
