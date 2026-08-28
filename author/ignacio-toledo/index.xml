@@ -5,12 +5,20 @@
     <link>https://www.raxlab.science/author/ignacio-toledo/</link>
       <atom:link href="https://www.raxlab.science/author/ignacio-toledo/index.xml" rel="self" type="application/rss+xml" />
     <description>Ignacio Toledo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.raxlab.science/author/ignacio-toledo/avatar_hub6fbfa8c9acec38977755120e436a6b2_18807_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://www.raxlab.science/author/ignacio-toledo/avatar_hu9b07b7c1ed7ad4ce66fcb2b9f7d1e745_11582_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Ignacio Toledo</title>
       <link>https://www.raxlab.science/author/ignacio-toledo/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-aware ground-based telescope observation scheduling at ALMA</title>
+      <link>https://www.raxlab.science/publication/payan-2026-spie/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/payan-2026-spie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Astronomical Scheduling in the Era of Big Observatories</title>

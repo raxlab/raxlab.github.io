@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nihar B. Shah | Homepage</title>
+    <link>https://www.raxlab.science/author/nihar-b.-shah/</link>
+      <atom:link href="https://www.raxlab.science/author/nihar-b.-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nihar B. Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/author/nihar-b.-shah/avatar_hucbc85abd419a6037c58e2f9c2c0d7e94_291502_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Nihar B. Shah</title>
+      <link>https://www.raxlab.science/author/nihar-b.-shah/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-aware ground-based telescope observation scheduling at ALMA</title>
+      <link>https://www.raxlab.science/publication/payan-2026-spie/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/payan-2026-spie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

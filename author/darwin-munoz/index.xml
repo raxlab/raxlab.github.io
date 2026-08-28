@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darwin Muñoz | Homepage</title>
+    <link>https://www.raxlab.science/author/darwin-munoz/</link>
+      <atom:link href="https://www.raxlab.science/author/darwin-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darwin Muñoz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright>
+    <image>
+      <url>https://www.raxlab.science/author/darwin-munoz/avatar_hu37d425091de53876c482450f0b471500_498001_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Darwin Muñoz</title>
+      <link>https://www.raxlab.science/author/darwin-munoz/</link>
+    </image>
+    
+  </channel>
+</rss>
