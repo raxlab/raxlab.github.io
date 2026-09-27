@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Elaswad | Homepage</title>
+    <link>https://www.raxlab.science/author/ali-elaswad/</link>
+      <atom:link href="https://www.raxlab.science/author/ali-elaswad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Elaswad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rodrigo A. Carrasco, 2026</copyright><lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.raxlab.science/author/ali-elaswad/avatar_hu96c410d70b6b76531ca02f6fc8c0cf26_26984_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ali Elaswad</title>
+      <link>https://www.raxlab.science/author/ali-elaswad/</link>
+    </image>
+    
+    <item>
+      <title>Decision-Focused Learning for Operating Room Scheduling Under Uncertain Surgery Durations with Two-Stage Stochastic Optimization</title>
+      <link>https://www.raxlab.science/publication/elaswad-2026-ecml/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.raxlab.science/publication/elaswad-2026-ecml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
